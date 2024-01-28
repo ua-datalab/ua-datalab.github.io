@@ -29,4 +29,3 @@ jobs:
         run: mkdocs gh-deploy --force
 #        env:
 #          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-actions/checkout@v3, actions/setup-python@v4, actions/cache@v2.
