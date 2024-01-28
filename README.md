@@ -11,7 +11,6 @@ Programs and services that are currently offered by the _UArizona DataLab_. Thes
 
 # UArizona Data Lab Workshops - Spring 2024
 
-
 ***
 
 ## Workshops Repositories  
@@ -23,8 +22,8 @@ Programs and services that are currently offered by the _UArizona DataLab_. Thes
 * [Classical Machine Learning](https://github.com/ua-datalab/MLWorkshops)
 * [Introduction to Deep Learning](https://github.com/ua-datalab/DLWorkshops/wiki)
 
-***
 
+***
 
 Created 01/27/2024; Updated 01/27/2024
 
