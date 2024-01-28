@@ -2,12 +2,9 @@
 # Main page for the UArizona DataLab
 
 
-## The _UArizona DataLab_ Programs & Services
-
 Programs and services that are currently offered by the _UArizona DataLab_. These programs include courses, workshops, research opportunities, and internships.
 
 <img src="https://github.com/clizarraga-UAD7/DataScienceLab/raw/main/images/UADLSquareLogo.png?raw=true" width=150>
-
 
 # UArizona Data Lab Workshops - Spring 2024
 

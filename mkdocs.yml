@@ -13,7 +13,6 @@ copyright: 'Copyright &copy; 2024 UArizona DataLab'
 
 nav:
   - 'Home': index.md
- 
 
 # Configuration
 theme:
@@ -25,8 +24,7 @@ theme:
   favicon: assets/favicon.png
   icon:
     logo: logo
-    
-    
+        
 extra:
   social:
     - icon: fontawesome/solid/school
