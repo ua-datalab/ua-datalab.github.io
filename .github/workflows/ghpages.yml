@@ -1,8 +1,8 @@
- name: ghpages
- on:
-   push:
-     branches:
-       - main
+name: ghpages
+on:
+ push:
+   branches:
+     - main
 # permissions:
 #   actions: write
 #   contents: write
