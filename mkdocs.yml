@@ -4,27 +4,72 @@ site_author: DataLab Team
 site_url: https://ua-datalab.github.io
 
 # Repository
-#docs_dir: docs
-repo_name: UArizona DataLab Github
+docs_dir: docs/
+repo_name: UArizona-DataLab
 repo_url: https://github.com/ua-datalab/ua-datalab.github.io
 edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2024 UArizona DataLab'
 
-nav:
-  - 'Home': index.md
+site_description: 'The University of Arizona DataLab (UArizona DataLab) supports multiple ways to improve research, provides career opportunities, facilitates industry partnerships, and encourage innovation and entrepreneurship at our University.'
 
-# Configuration
-theme:
+nav:
+  - 'Home':
+    - 'Home': index.md
+    - 'About': about.md
+
+theme: 
   name: material
-  highlightjs: true
+
+  # setting features for the navigation tab
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.expand
+    - navigation.path
+    - navigation.tracking
+    - navigation.sections
+    - navigation.indexes
+    - navigation.footer
+    - navigation.top
+    - toc.integrate
+    - toc.follow
+  hide:
+    - toc
+# 404 page
+  static_templates:
+    - 404.html
+
+  # Search feature
+  include_search_page: false
+  search_index_only: true
+
+
+# Default values, taken from mkdocs_theme.yml
+  language: en
+  palette: 
+    - scheme: default
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/brightness-3
+        name: Switch to dark mode
+    - scheme: slate
+      primary: black
+      accent: orange 
+      toggle:
+        icon: material/brightness-7
+        name: Switch to light mode
   font:
     text: Roboto
     code: Regular
-  favicon: assets/favicon.png
+  favicon: assets/favicon.png  
   icon:
     logo: logo
-        
+
 extra:
   social:
     - icon: fontawesome/solid/school
@@ -36,56 +81,7 @@ extra:
     - icon: fontawesome/brands/slack
       link: https://uadatascience.slack.com/archives/C062QJ91PTP
 
-
-  # Features  
-  features:
-  - navigation.instant
-  - navigation.tracking
-  - navigation.tabs
-  - navigation.tabs.sticky
-  - navigation.indexes
-  - navigation.top
-  - toc.follow
-
-  # 404 page
-  static_templates:
-    - 404.html
-
-  # Search feature
-  include_search_page: false
-  search_index_only: true
-
-  # Palette and theme (uses personalized colours)
-  language: en
-  palette:
-    primary: custom
-    accent: custom
-  icon:
-    logo: material/cogs
-  favicon: material/cogs
-
-# Page tree
-nav:
-  - Home: index.md
-
-# Theme Extras
-extra_css:
-  - stylesheets/extra.css
-
-# Extra Plugins
-plugins:
-    - search
-    - mkdocstrings:
-        default_handler: python
-        handlers:
-          python:
-            paths: /Users/carlos/anaconda3
-    - git-revision-date
-    - mkdocs-jupyter:
-          include_source: True
-          ignore_h1_titles: True
-
-# Extensions (leave as is)
+# Extensions
 markdown_extensions:
   - admonition
   - abbr
@@ -96,7 +92,6 @@ markdown_extensions:
   - md_in_html
   - toc:
       permalink: true
-      title: On this page
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.betterem:
@@ -105,13 +100,10 @@ markdown_extensions:
   - pymdownx.critic
   - pymdownx.details
   - pymdownx.emoji:
-#      emoji_index: !!python/name:materialx.emoji.twemoji
-#                                 material.extensions.emoji.twemoji
-       emoji_index: !!python/name:material.extensions.emoji.twemoji
-# material.extensions.emoji.to_svg
-#      emoji_generator: !!python/name:materialx.emoji.to_svg
-       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-  - pymdownx.highlight
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
   - pymdownx.inlinehilite
   - pymdownx.keys
   - pymdownx.magiclink:
@@ -120,6 +112,7 @@ markdown_extensions:
       repo: mkdocs-material
   - pymdownx.mark
   - pymdownx.smartsymbols
+  - pymdownx.snippets
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
@@ -129,3 +122,20 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+plugins:
+    - search
+#    - mkdocstrings
+#    - git-revision-date
+#    - mkdocs-jupyter:
+#          include_source: True
+#         ignore_h1_titles: True     
+# Copyright
+copyright: 'Creative Commons BY-NC-SA 4.0'
+
+

@@ -1,24 +1,29 @@
- name: Publish docs via GitHub
+ name: ghpages
  on:
    push:
      branches:
-       - gh-pages
+       - master
+       - main
  permissions:
    actions: write
-   contents: read, write
-   deployments: write
- jobs:
-   build:
-     name: Deploy docs
-     runs-on: ubuntu-latest
-     steps:
-       - uses: actions/checkout@v3
-       - uses: actions/setup-python@v4
-         with:
-           python-version: 3.9
-       - name: run requirements file
-         run:  pip install -r requirements.txt 
-       - name: Deploy docs
-         run: mkdocs gh-deploy --force
-         env:
-           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+   contents: write
+#   deployments: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: 3.10.9
+      - uses: actions/cache@v2  
+        with:
+          key: ${{github.ref}}  
+          path: .cache
+      - name: run requirements file
+        run:  pip install mkdocs-material 
+      - name: Deploy docs
+        run: mkdocs gh-deploy --force
+#        env:
+#          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
