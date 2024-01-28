@@ -8,6 +8,7 @@ docs_dir: docs/
 repo_name: UArizona-DataLab
 repo_url: https://github.com/ua-datalab/ua-datalab.github.io
 edit_uri: edit/main/docs/
+
 # Copyright
 copyright: 'Copyright &copy; 2024 UArizona DataLab'
 
@@ -130,8 +131,8 @@ extra_javascript:
 
 plugins:
     - search
-#    - mkdocstrings
-#    - git-revision-date
+    - mkdocstrings
+    - git-revision-date
 #    - mkdocs-jupyter:
 #          include_source: True
 #         ignore_h1_titles: True     
