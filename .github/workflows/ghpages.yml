@@ -2,6 +2,7 @@ name: ghpages
 on:
  push:
    branches:
+     - master
      - main
 
 permissions:
