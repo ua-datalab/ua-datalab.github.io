@@ -133,9 +133,9 @@ plugins:
     - search
     - mkdocstrings
     - git-revision-date
-#    - mkdocs-jupyter:
-#          include_source: True
-#         ignore_h1_titles: True     
+    - mkdocs-jupyter:
+          include_source: True
+          ignore_h1_titles: True     
 # Copyright
 copyright: 'Creative Commons BY-NC-SA 4.0'
 
