@@ -3,9 +3,10 @@
    push:
      branches:
        - gh-pages
-   permissions:
-     contents: read
-     pages: write   
+ permissions:
+   actions: write
+   contents: read, write
+   deployments: write
  jobs:
    build:
      name: Deploy docs
