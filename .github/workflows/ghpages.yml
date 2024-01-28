@@ -15,13 +15,12 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-python@v4
-      - uses: actions/cache@v2  
         with:
           python-version: 3.11.5
-
-        with:
-          key: ${{github.ref}}  
-          path: .cache
+#      - uses: actions/cache@v2  	  
+#        with:
+#          key: ${{github.ref}}  
+#          path: .cache
       - name: run requirements file
         run:  pip install -r requirements.txt
 #	run: pip install -e .
