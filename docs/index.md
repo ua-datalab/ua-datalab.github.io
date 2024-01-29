@@ -11,9 +11,9 @@
 
 * [Introduction to Data Engineering Technologies](https://github.com/ua-datalab/DataEngineering/wiki)
 * [Introduction to NexGen Geospatial Data Science](https://github.com/ua-datalab/Geospatial_Workshops/wiki)
-* [Introduction to Data Science](https://github.com/ua-datalab/Workshops)
+* [Introduction to Data Science](https://github.com/ua-datalab/Workshops/wiki)
 * [Data Science Tapas](https://github.com/ua-datalab/DataScienceTapas/wiki)
-* [Introduction Classical Machine Learning](https://github.com/ua-datalab/MLWorkshops)
+* [Introduction Classical Machine Learning](https://github.com/ua-datalab/MLWorkshops/wiki)
 * [Introduction to Deep Learning](https://github.com/ua-datalab/DLWorkshops/wiki)
 
 ***
