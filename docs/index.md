@@ -1,6 +1,6 @@
-# Welcome to the UArizona DataLab Github
+# Welcome to the UArizona DataLab Github!
 
-![UA DataLab](https://github.com/clizarraga-UAD7/DataScienceLab/raw/main/images/UADLSquareLogo.png){width=250}
+![UA DataLab](https://github.com/clizarraga-UAD7/DataScienceLab/raw/main/images/UADLSquareLogo.png){width=300}
 
 
 
@@ -28,9 +28,11 @@
 | NextGen Geospatial Data Science | Tuesdays 2-3pm |
 | Intro to Data Science | Tuesdays 3-4pm |
 | Data Science Tapas | Wednesdays 1-2pm |
-| Office Hours | Mondays 3-4pm, Wednesdays 2-3pm |
 | Classical Machine Learning | Thursdays 2-3pm |
 | Intro to Deep Learning | Thursdays 3-4pm |
+
+
+Please visit the [**Data Science Institute Events Calendar**](https://www.datascience.arizona.edu/calendar) for more detailed information.
 
 
 ***
@@ -45,9 +47,13 @@
 ***
 
 
-Created 01/27/2024; Updated 01/27/2024
+Created 01/27/2024; Updated 01/29/2024
 
 
-[UArizona Data Lab](https://www.datascience.arizona.edu/education/uarizona-data-lab), Data Science Institute, 2024.
+[UArizona DataLab](https://www.datascience.arizona.edu/education/uarizona-data-lab), is a strategic partnership between the [University of Arizona's](https://www.arizona.edu/) [Data Science Institute](https://www.datascience.arizona.edu/), and the
+[Institute for Computation & Data-Enabled Insight](https://datainsight.arizona.edu/).
 
-[![Data Science Institute](https://datascience.arizona.edu/sites/default/files/Data%20Science%20Institute_Webheader%20%281%29.svg){width="400"}](https://datascience.arizona.edu)
+
+|  | Sponsor organizations | |
+| :--: | :--: | :--: |
+| [![Data Science Institute](https://datascience.arizona.edu/sites/default/files/Data%20Science%20Institute_Webheader%20%281%29.svg){width="600"}](https://datascience.arizona.edu) | | [![Institute for Computation and Data-Enabled Insight](https://datainsight.arizona.edu/sites/default/files/institute-for-comp-data-enabled-insight_web_0.svg){width="600"}](https://datainsight.arizona.edu/) |
