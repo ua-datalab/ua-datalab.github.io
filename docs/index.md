@@ -21,7 +21,7 @@
 
 ### Schedule for Spring 2024
 
-| Workshop | When |
+| Workshops | When |
 | :-- | :-- |
 | Data Engineering | Mondays 2-3pm (Jan 29 - Mar 25) |
 | Intro to Graph Machine Learning | Mondays 2-3pm (Apr 01 - Apr 29) |
@@ -32,7 +32,7 @@
 | Intro to Deep Learning | Thursdays 3-4pm |
 
 
-Please visit the [**Data Science Institute Events Calendar**](https://www.datascience.arizona.edu/calendar) for more detailed information.
+Please visit the UArizona [**Data Science Institute Events Calendar**](https://www.datascience.arizona.edu/calendar) for more detailed information.
 
 
 ***
