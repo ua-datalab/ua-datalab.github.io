@@ -6,8 +6,9 @@
 
 ***
 
+# UArizona DataLab Workshops
 
-## Workshops Repositories  
+## Notes and code repositories  
 
 * [Craking the Coding Interview](https://github.com/ua-datalab/cracking_the_coding_interview)
 * [Data Science Tapas](https://github.com/ua-datalab/DataScienceTapas/wiki)
@@ -16,6 +17,12 @@
 * [Introduction to Data Science](https://github.com/ua-datalab/Workshops/wiki)
 * [Introduction to Deep Learning](https://github.com/ua-datalab/DLWorkshops/wiki)
 * [Introduction to NextGen Geospatial Data Science](https://github.com/ua-datalab/Geospatial_Workshops/wiki)
+
+## UArizona DataLab Social 
+
+* [Github repositories](https://github.com/ua-datalab)
+* Workshop videorecordings [YouTube Channnel](https://www.youtube.com/@UArizonaDataLab)
+* Questions / Contact Us: UA Data Science Slack (uadatascience.slack.com) `#datalab-chatter`
 
 ***
 
