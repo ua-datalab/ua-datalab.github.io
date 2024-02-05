@@ -9,12 +9,13 @@
 
 ## Workshops Repositories  
 
-* [Introduction to Data Engineering Technologies](https://github.com/ua-datalab/DataEngineering/wiki)
-* [Introduction to NexGen Geospatial Data Science](https://github.com/ua-datalab/Geospatial_Workshops/wiki)
-* [Introduction to Data Science](https://github.com/ua-datalab/Workshops/wiki)
+* [Craking the Coding Interview](https://github.com/ua-datalab/cracking_the_coding_interview)
 * [Data Science Tapas](https://github.com/ua-datalab/DataScienceTapas/wiki)
 * [Introduction Classical Machine Learning](https://github.com/ua-datalab/MLWorkshops/wiki)
+* [Introduction to Data Engineering Technologies](https://github.com/ua-datalab/DataEngineering/wiki)
+* [Introduction to Data Science](https://github.com/ua-datalab/Workshops/wiki)
 * [Introduction to Deep Learning](https://github.com/ua-datalab/DLWorkshops/wiki)
+* [Introduction to NextGen Geospatial Data Science](https://github.com/ua-datalab/Geospatial_Workshops/wiki)
 
 ***
 
@@ -28,6 +29,7 @@
 | NextGen Geospatial Data Science | Tuesdays 2-3pm |
 | Intro to Data Science | Tuesdays 3-4pm |
 | Data Science Tapas | Wednesdays 1-2pm |
+| Cracking the Coding Interview | Wednesdays 2-3pm | 
 | Classical Machine Learning | Thursdays 2-3pm |
 | Intro to Deep Learning | Thursdays 3-4pm |
 
