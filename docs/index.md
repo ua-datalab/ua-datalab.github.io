@@ -3,10 +3,14 @@
 ![UA DataLab](https://github.com/clizarraga-UAD7/DataScienceLab/raw/main/images/UADLSquareLogo.png){width=300}
 
 
-
 ***
 
-# UArizona DataLab Workshops
+# UArizona DataLab Spring 2024 Workshops
+
+Are you interested in improving your professional skills in data analytics tools, methods, scientific analysis and statistics?
+
+The [UArizona DataLab](https://www.datascience.arizona.edu/education/uarizona-data-lab) team invites you to attend our weekly Workshops. All sessions are conducted in hybrid mode. Please join us in-person at the Weaver Science & Engineering Library Room 212, or join via Zoom: **864 2322 3879**
+
 
 ## Notes and code repositories  
 
@@ -22,10 +26,10 @@
 
 * [Github repositories](https://github.com/ua-datalab)
 * Workshop videorecordings [YouTube Channnel](https://www.youtube.com/@UArizonaDataLab)
-* Questions / Contact Us: UA Data Science Slack (uadatascience.slack.com) `#datalab-chatter`
+* Questions / Contact Us: UA Data Science Slack (uadatascience.slack.com) `#datalab-chatter`, or _clizarraga@arizona.edu_.
+
 
 ***
-
 
 ### Schedule for Spring 2024
 
@@ -40,17 +44,21 @@
 | Classical Machine Learning | Thursdays 2-3pm |
 | Intro to Deep Learning | Thursdays 3-4pm |
 
-
-Please visit the UArizona [**Data Science Institute Events Calendar**](https://www.datascience.arizona.edu/calendar) for more detailed information.
-
-
 ***
-
 
 ## Other resources
 
 * [Previous Data Science Institute Workshops](https://workshops-uad7.github.io/)
 * [Data Science Learning Resources wiki](https://github.com/ua-data7/LearningResources/wiki)
+
+
+***
+
+**Questions / Contact Us**: UA Data Science Slack (uadatascience.slack.com) `#datalab-chatter`
+
+**DataLab Office hours**: Monday 3-4pm, same room/Zoom link as workshops.
+
+Please visit the UArizona [**Data Science Institute Events Calendar**](https://www.datascience.arizona.edu/calendar) for more detailed information.
 
 
 ***
