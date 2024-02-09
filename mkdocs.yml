@@ -78,6 +78,8 @@ extra:
       link: https://www.datascience.arizona.edu/education/uarizona-data-lab
     - icon: fontawesome/brands/github
       link: https://github.com/ua-datalab  
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/profile.php?id=61556132138807
     - icon: fontawesome/brands/youtube
       link: http://www.youtube.com/@UArizonaDataLab
     - icon: fontawesome/brands/slack
