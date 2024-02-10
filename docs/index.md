@@ -1,6 +1,6 @@
 # Welcome to the UArizona DataLab Github!
 
-![UA DataLab](images/UADL_Composition.png){width=900}
+![UA DataLab](images/UADL_Composition.png){width=1000}
 
 ***
 
