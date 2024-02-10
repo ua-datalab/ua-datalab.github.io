@@ -1,7 +1,6 @@
 # Welcome to the UArizona DataLab Github!
 
-![UA DataLab](https://github.com/clizarraga-UAD7/DataScienceLab/raw/main/images/UADLSquareLogo.png){width=300}
-
+![UA DataLab](images/UADL_Composition.png){width=900}
 
 ***
 
