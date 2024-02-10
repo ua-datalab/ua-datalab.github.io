@@ -4,7 +4,7 @@
 
 ***
 
-# UArizona DataLab Spring 2024 Workshops
+# Spring 2024 Workshops
 
 Are you interested in improving your professional skills in data analytics tools, methods, scientific analysis and statistics?
 
