@@ -21,15 +21,6 @@ The [UArizona DataLab](https://www.datascience.arizona.edu/education/uarizona-da
 * [Introduction to Deep Learning](https://github.com/ua-datalab/DLWorkshops/wiki)
 * [Introduction to NextGen Geospatial Data Science](https://github.com/ua-datalab/Geospatial_Workshops/wiki)
 
-## UArizona DataLab Social 
-
-* [Github](https://github.com/ua-datalab)
-* [Linkedin](https://www.linkedin.com/company/100483432/admin/feed/posts/)
-* [Twitter/X](https://twitter.com/UArizonaDataLab)
-* [Facebook Page](https://www.facebook.com/profile.php?id=61556132138807)
-* Workshop videorecordings [YouTube Channel](https://www.youtube.com/@UArizonaDataLab)
-* Questions / Contact Us: UA Data Science Slack (uadatascience.slack.com) `#datalab-chatter`, or _clizarraga@arizona.edu_.
-
 
 ***
 
@@ -54,7 +45,18 @@ The [UArizona DataLab](https://www.datascience.arizona.edu/education/uarizona-da
 * [Data Science Learning Resources wiki](https://github.com/ua-data7/LearningResources/wiki)
 
 
+## UArizona DataLab Social 
+
+* [Github](https://github.com/ua-datalab)
+* [Linkedin](https://www.linkedin.com/company/100483432/admin/feed/posts/)
+* [Twitter/X](https://twitter.com/UArizonaDataLab)
+* [Facebook Page](https://www.facebook.com/profile.php?id=61556132138807)
+* Workshop videorecordings [YouTube Channel](https://www.youtube.com/@UArizonaDataLab)
+* Questions / Contact Us: UA Data Science Slack (uadatascience.slack.com) `#datalab-chatter`, or _clizarraga@arizona.edu_.
+
+
 ***
+
 
 **Questions / Contact Us**: UA Data Science Slack (uadatascience.slack.com) `#datalab-chatter`
 
