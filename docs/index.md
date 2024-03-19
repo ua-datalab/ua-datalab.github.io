@@ -33,7 +33,7 @@ The [UArizona DataLab](https://www.datascience.arizona.edu/education/uarizona-da
 | NextGen Geospatial Data Science | Tuesdays 2-3pm |
 | Intro to Data Science | Tuesdays 3-4pm |
 | Data Science Tapas | Wednesdays 1-2pm |
-| Cracking the Coding Interview | Wednesdays 2-3pm | 
+| Cracking the Coding Interview | Mon, Wed, and Fri 4-5pm | 
 | Classical Machine Learning | Thursdays 2-3pm |
 | Intro to Deep Learning | Thursdays 3-4pm |
 
