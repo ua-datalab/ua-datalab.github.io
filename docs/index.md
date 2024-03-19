@@ -28,12 +28,12 @@ The [UArizona DataLab](https://www.datascience.arizona.edu/education/uarizona-da
 
 | Workshops | When |
 | :-- | :-- |
+| Cracking the Coding Interview | Mon, Wed, and Fri 4-5pm | 
 | Data Engineering | Mondays 2-3pm (Jan 29 - Mar 25) |
 | Intro to Graph Machine Learning | Mondays 2-3pm (Apr 01 - Apr 29) |
 | NextGen Geospatial Data Science | Tuesdays 2-3pm |
 | Intro to Data Science | Tuesdays 3-4pm |
 | Data Science Tapas | Wednesdays 1-2pm |
-| Cracking the Coding Interview | Mon, Wed, and Fri 4-5pm | 
 | Classical Machine Learning | Thursdays 2-3pm |
 | Intro to Deep Learning | Thursdays 3-4pm |
 
@@ -52,15 +52,9 @@ The [UArizona DataLab](https://www.datascience.arizona.edu/education/uarizona-da
 * [Twitter/X](https://twitter.com/UArizonaDataLab)
 * [Facebook Page](https://www.facebook.com/profile.php?id=61556132138807)
 * Workshop videorecordings [YouTube Channel](https://www.youtube.com/@UArizonaDataLab)
-* Questions / Contact Us: UA Data Science Slack (uadatascience.slack.com) `#datalab-chatter`, or _clizarraga AT arizona.edu_.
-
+* Questions / Contact Us: UA Data Science Slack (uadatascience.slack.com) `#datalab-chatter`
 
 ***
-
-
-**Questions / Contact Us**: UA Data Science Slack (uadatascience.slack.com) `#datalab-chatter`
-
-**DataLab Office hours**: Monday 3-4pm, same room/Zoom link as workshops.
 
 Please visit the UArizona [**Data Science Institute Events Calendar**](https://www.datascience.arizona.edu/calendar) for more detailed information.
 
