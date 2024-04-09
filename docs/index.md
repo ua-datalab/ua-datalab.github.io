@@ -23,7 +23,7 @@ The [UArizona DataLab](https://www.datascience.arizona.edu/education/uarizona-da
 
 * [Craking the Coding Interview](https://github.com/ua-datalab/cracking_the_coding_interview)
 * [Data Science Tapas](https://github.com/ua-datalab/DataScienceTapas/wiki)
-* [Introduction Classical Machine Learning](https://github.com/ua-datalab/MLWorkshops/wiki)
+* [Introduction to Classical Machine Learning](https://github.com/ua-datalab/MLWorkshops/wiki)
 * [Introduction to Data Engineering Technologies](https://github.com/ua-datalab/DataEngineering)
 * [Introduction to Data Science](https://github.com/ua-datalab/Workshops/wiki)
 * [Introduction to Deep Learning](https://github.com/ua-datalab/DLWorkshops/wiki)
