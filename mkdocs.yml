@@ -56,7 +56,8 @@ theme:
   language: en
   palette: 
     - scheme: default
-      primary: indigo
+#      primary: indigo
+      primary: #0C234B
       accent: deep purple
       toggle:
         icon: material/brightness-3
