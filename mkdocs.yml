@@ -20,7 +20,8 @@ nav:
     - 'Home': index.md
     - 'About': about.md
     - 'DataLab Team': members.md
-
+    - 'Consultations': consultations.md
+    
 theme: 
   name: material
 

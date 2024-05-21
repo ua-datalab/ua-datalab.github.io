@@ -4,4 +4,3 @@ is an effective organizational structure of a collaboration between the [Univers
 the [Institute for Computation & Data-Enabled Insight](https://datainsight.arizona.edu/)
 for fostering and accelerating research in applied Data Science by providing access to expertise,
 data, collaboration, advanced infrastructure, and training opportunities.
-
