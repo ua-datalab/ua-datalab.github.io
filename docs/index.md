@@ -33,18 +33,14 @@ The [UArizona DataLab](https://www.datascience.arizona.edu/education/uarizona-da
 
 ***
 
-### Schedule for Spring 2024
+## UA PHIRE 2024
 
-| Workshops | When |
-| :-- | :-- |
-| Cracking the Coding Interview | Mon, Wed, and Fri 4-5pm | 
-| Data Engineering | Mondays 2-3pm (Jan 29 - Mar 25) |
-| Intro to Graph Machine Learning | Mondays 2-3pm (Apr 01 - Apr 29) |
-| NextGen Geospatial Data Science | Tuesdays 2-3pm |
-| Intro to Data Science | Tuesdays 3-4pm |
-| Data Science Tapas | Wednesdays 1-2pm |
-| Classical Machine Learning | Thursdays 2-3pm |
-| Intro to Deep Learning | Thursdays 3-4pm |
+* [Introduction to R](https://github.com/ua-datalab/R_intro)
+* [Reproducible Research](https://github.com/ua-datalab/Reproducible-Research/wiki)
+* [AI Tools Landscape](https://github.com/ua-datalab/Workshops/wiki/AI-Tools-Landscape)
+* [Introduction to Git](https://foss.cyverse.org/00_basics/#adding-and-modifying-code-in-github)
+* [Introduction to Command Line Interface](https://github.com/clizarraga-UAD7/Workshops/wiki/The-Command-Line-Interface-Shell)
+* [Basic Prompt Engineering](https://ua-data7.github.io/introllms/chatgpt_prompts/)
 
 ***
 
@@ -53,6 +49,8 @@ The [UArizona DataLab](https://www.datascience.arizona.edu/education/uarizona-da
 * [Previous Data Science Institute Workshops](https://workshops-uad7.github.io/)
 * [Data Science Learning Resources wiki](https://github.com/ua-data7/LearningResources/wiki)
 
+
+***
 
 ## UArizona DataLab Social 
 
