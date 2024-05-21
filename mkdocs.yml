@@ -63,7 +63,8 @@ theme:
         icon: material/brightness-3
         name: Switch to dark mode
     - scheme: slate
-      primary: black
+#      primary: black
+      primary: #AB0520
       accent: orange 
       toggle:
         icon: material/brightness-7
