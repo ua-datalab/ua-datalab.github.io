@@ -2,11 +2,12 @@
 
 ### Staff
 
-* [Jeff Gillan](https://www.datascience.arizona.edu/person/jeffrey-gillan)
-* [Michele Cosi](https://www.datascience.arizona.edu/person/michele-cosi)
-* [Carlos Lizárraga](https://www.datascience.arizona.edu/person/carlos-lizarraga)
-* [Mithun Paul](https://www.datascience.arizona.edu/person/mithun-paul)
-* [Enrique Noriega](https://www.cs.arizona.edu/person/enrique-noriega-atala)
+* [Jeff Gillan](https://www.datascience.arizona.edu/person/jeffrey-gillan). Data Science Institute /  CyVerse.
+* [Michele Cosi](https://www.datascience.arizona.edu/person/michele-cosi). Data Science Institute / CyVerse.
+* [Carlos Lizárraga](https://www.datascience.arizona.edu/person/carlos-lizarraga). Data Science Institute.
+* [Enrique Noriega](https://www.cs.arizona.edu/person/enrique-noriega-atala). Data Science Institute.
+* [Mithun Paul](https://www.datascience.arizona.edu/person/mithun-paul). Data Science Institute.
+
 
 ### Associate Members
 
@@ -14,14 +15,15 @@
 * [Greg Chism](https://ischool.arizona.edu/person/greg-chism). iSchool.
 * [Angela Cruze](https://datainsight.arizona.edu/person/angela-cruze). Institute for Computation & Data-Enabled Insight. 
 * [Tina L. Johnson](https://www.datascience.arizona.edu/person/tina-l-johnson). Data Science Institute.
+* [Nirav Merchant](https://www.datascience.arizona.edu/person/nirav-merchant). Data Science Institute.
 * [Maliaca Oxnam](https://www.datascience.arizona.edu/person/maliaca-oxnam). Data Science Institute.
 * [Tyson Swetnam](https://datainsight.arizona.edu/person/tyson-swetnam). Institute for Computation & Data-Enabled Insight. 
 
-### GRA Students
+### Graduate Students
 
-* [Brenda Huppenthal](https://www.linkedin.com/in/brenda-huppenthal/)
-* [Megh Krishnaswamy](https://iranian-languages.arizona.edu/node/72)
-* [Shashank Yadav](https://xinformatics.github.io/)
+* [Brenda Huppenthal](https://www.linkedin.com/in/brenda-huppenthal/). Computer Science.
+* [Megh Krishnaswamy](https://iranian-languages.arizona.edu/node/72). Linguistics.
+* [Shashank Yadav](https://xinformatics.github.io/). Biomedical Engineering. 
 
 
 
