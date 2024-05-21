@@ -63,7 +63,6 @@ theme:
       toggle:
         icon: material/brightness-3
         name: Switch to dark mode
-	
   # Palette toggle for dark mode	
     - media: "(prefers-color-scheme: light)"
       scheme: slate
