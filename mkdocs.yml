@@ -6,8 +6,8 @@ site_url: https://ua-datalab.github.io
 #
 # Repository
 docs_dir: docs/
-repo_name: UArizona-DataLab
-repo_url: https://github.com/ua-datalab/ua-datalab.github.io
+repo_name: 'UArizona-DataLab'
+repo_url: 'https://github.com/ua-datalab/ua-datalab.github.io'
 edit_uri: edit/main/docs/
 
 # Copyright
@@ -54,16 +54,19 @@ theme:
 
 # Default values, taken from mkdocs_theme.yml
   language: en
-  palette: 
-    - scheme: default
-#      primary: indigo
-#      primary: #0C234B
-      primary: #AB0520
+  palette:
+  # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
       accent: deep purple
       toggle:
         icon: material/brightness-3
         name: Switch to dark mode
-    - scheme: slate
+	
+  # Palette toggle for dark mode	
+    - media: "(prefers-color-scheme: light)"
+      scheme: slate
       primary: black
 #      primary: #AB0520
       accent: orange 
