@@ -12,7 +12,7 @@
 ### Associate Members
 
 * [Andrew Bennett](https://has.arizona.edu/person/andrew-bennett). Hydrology and Atmospheric Sciences Department.
-* [Greg Chism](https://ischool.arizona.edu/person/greg-chism). iSchool.
+* [Greg Chism](https://ischool.arizona.edu/person/greg-chism). School of Information.
 * [Angela Cruze](https://datainsight.arizona.edu/person/angela-cruze). Institute for Computation & Data-Enabled Insight. 
 * [Tina L. Johnson](https://www.datascience.arizona.edu/person/tina-l-johnson). Data Science Institute.
 * [Nirav Merchant](https://www.datascience.arizona.edu/person/nirav-merchant). Data Science Institute.
