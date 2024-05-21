@@ -8,7 +8,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 # Welcome to the UArizona DataLab Github!
 
-![UA DataLab](images/UADL_Composition.png){width=1000}
+![UA DataLab](images/UADL_Composition2.png){width=1200}
 
 ***
 
