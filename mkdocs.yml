@@ -57,14 +57,15 @@ theme:
   palette: 
     - scheme: default
 #      primary: indigo
-      primary: #0C234B
+#      primary: #0C234B
+      primary: #AB0520
       accent: deep purple
       toggle:
         icon: material/brightness-3
         name: Switch to dark mode
     - scheme: slate
-#      primary: black
-      primary: #AB0520
+      primary: black
+#      primary: #AB0520
       accent: orange 
       toggle:
         icon: material/brightness-7
