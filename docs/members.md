@@ -24,7 +24,4 @@
 * [Shashank Yadav](https://xinformatics.github.io/)
 
 
-***
-
-Updated: 05-20-2014 (C. Lizárraga)
 
