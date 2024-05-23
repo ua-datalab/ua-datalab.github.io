@@ -18,6 +18,7 @@
 * [Tina L. Johnson](https://www.datascience.arizona.edu/person/tina-l-johnson). Data Science Institute.
 * [Nirav Merchant](https://www.datascience.arizona.edu/person/nirav-merchant). Data Science Institute.
 * [Maliaca Oxnam](https://www.datascience.arizona.edu/person/maliaca-oxnam). Data Science Institute.
+* [Rudy G. Salcido](https://www.datascience.arizona.edu/person/rudy-salcido)
 * [Tyson Swetnam](https://datainsight.arizona.edu/person/tyson-swetnam). Institute for Computation & Data-Enabled Insight. 
 
 ### Graduate Students
