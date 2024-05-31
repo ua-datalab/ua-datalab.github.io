@@ -69,7 +69,7 @@ Please visit the UArizona [**Data Science Institute Events Calendar**](https://w
 ***
 
 
-[UArizona DataLab](https://www.datascience.arizona.edu/education/uarizona-data-lab), is a strategic partnership between the [University of Arizona's](https://www.arizona.edu/):  [Data Science Institute](https://www.datascience.arizona.edu/),[CyVerse](https://cyverse.org/), and the
+[UArizona DataLab](https://www.datascience.arizona.edu/education/uarizona-data-lab), is a strategic partnership between the [University of Arizona's](https://www.arizona.edu/):  [Data Science Institute](https://www.datascience.arizona.edu/), [CyVerse](https://cyverse.org/), and the
 [Institute for Computation & Data-Enabled Insight](https://datainsight.arizona.edu/).
 
 
