@@ -69,10 +69,10 @@ Please visit the UArizona [**Data Science Institute Events Calendar**](https://w
 ***
 
 
-[UArizona DataLab](https://www.datascience.arizona.edu/education/uarizona-data-lab), is a strategic partnership between the [University of Arizona's](https://www.arizona.edu/):  [Data Science Institute](https://www.datascience.arizona.edu/), and the
+[UArizona DataLab](https://www.datascience.arizona.edu/education/uarizona-data-lab), is a strategic partnership between the [University of Arizona's](https://www.arizona.edu/):  [Data Science Institute](https://www.datascience.arizona.edu/),[CyVerse](https://cyverse.org/), and the
 [Institute for Computation & Data-Enabled Insight](https://datainsight.arizona.edu/).
 
 
 |  | Sponsor organizations | |
 | :--: | :--: | :--: |
-| [![Data Science Institute](https://datascience.arizona.edu/sites/default/files/Data%20Science%20Institute_Webheader%20%281%29.svg){width="600"}](https://datascience.arizona.edu) | | [![Institute for Computation and Data-Enabled Insight](https://datainsight.arizona.edu/sites/default/files/institute-for-comp-data-enabled-insight_web_0.svg){width="600"}](https://datainsight.arizona.edu/) |
+| [![Data Science Institute](https://datascience.arizona.edu/sites/default/files/Data%20Science%20Institute_Webheader%20%281%29.svg){width="600"}](https://datascience.arizona.edu) | [![CyVerse](https://cyverse.org/sites/default/files/cyverse_logo_1_0.png){width="600"}](https://cyverse.org/) | [![Institute for Computation and Data-Enabled Insight](https://datainsight.arizona.edu/sites/default/files/institute-for-comp-data-enabled-insight_web_0.svg){width="600"}](https://datainsight.arizona.edu/) |
