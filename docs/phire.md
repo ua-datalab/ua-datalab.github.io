@@ -1,8 +1,8 @@
 
 
-## UArizona PHIRE
+## UArizona PHIRE Program
 
-### Training materials
+### Training materials 2024 
 
 * [Introduction to R](https://github.com/ua-datalab/R_intro)
 * [Reproducible Research](https://github.com/ua-datalab/Reproducible-Research/wiki)
