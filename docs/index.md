@@ -33,17 +33,6 @@ The [UArizona DataLab](https://www.datascience.arizona.edu/education/uarizona-da
 
 ***
 
-## UA PHIRE 2024
-
-* [Introduction to R](https://github.com/ua-datalab/R_intro)
-* [Reproducible Research](https://github.com/ua-datalab/Reproducible-Research/wiki)
-* [AI Tools Landscape](https://github.com/ua-datalab/Workshops/wiki/AI-Tools-Landscape)
-* [Introduction to Git](https://github.com/ua-datalab/DataScienceTapas/wiki/GitHub-and-Git)
-* [Introduction to Command Line Interface](https://github.com/clizarraga-UAD7/Workshops/wiki/The-Command-Line-Interface-Shell)
-* [Basic Prompt Engineering](https://ua-data7.github.io/introllms/chatgpt_prompts/)
-
-***
-
 ## Other resources
 
 * [Previous Data Science Institute Workshops](https://workshops-uad7.github.io/)

@@ -22,6 +22,7 @@ nav:
     - 'DataLab Team': members.md
     - 'Consultations': consultations.md
     - 'AI/ML Development': apps-dev.md
+    - 'PHIRE': phire.md
 
 theme: 
   name: material
