@@ -12,7 +12,15 @@ The UArizona DataLab serves as a key hub for innovation. It fosters the assimila
 
 ## Description
 
-The DataLab is dedicated to providing extracurricular and non-formal training in the latest AI technologies not covered in current academic programs across various knowledge domains. Its open learning environment is perfect for studying ML/AI, and where all staff members are invited to participate.
+The landscape of machine learning (ML) and artificial intelligence (AI) is continually evolving, with rapid advancements constantly emerging. For successful and measured adoption of ML/AI in any field, learning and experimenting with these advancements is crucial. This is important for UArizona researchers to secure funding and train an ML/AI fluent workforce.
+
+The UArizona DataLab serves as a hub for the UArizona community, providing extracurricular and non-formal training in ML/AI tools and technologies not covered in current academic programs. It offers short-format workshops across various knowledge domains. Its open learning environment is ideal for studying ML/AI, where all staff members are welcome to participate.
+
+DataLab strives to guide learners from curiosity to competence in AI. It complements learning activities with consultations on research projects, assisting research labs to incorporate ML/AI methods into their workflow. It also provides support in onboarding and training students and staff involved in implementing these solutions. Additionally, it facilitates codefest/hackathons on cross-cutting topics of interest.
+
+DataLab collaborates with multiple UArizona units, including the UITS Research Computing group and Data Science training efforts through other colleges and units. It aims to foster a vibrant ecosystem of learning and exploration in the ML/AI space for the UArizona community.
+
+This talk will outline the progress and roadmap for non-formal learners on how to utilize DataLab. It will also provide guidance for departments and other units on how to participate in DataLab to showcase their activities and highlight the range of ML/AI learning opportunities available across our campus.
 
 # Partnerships
 
