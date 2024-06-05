@@ -21,14 +21,15 @@ The [UArizona DataLab](https://www.datascience.arizona.edu/education/uarizona-da
 
 ## Notes and code repositories  
 
+* [Bioinformatics & Genomics](https://github.com/ua-datalab/Bioinformatics/wiki)
+* [Classical Machine Learning](https://github.com/ua-datalab/MLWorkshops/wiki)
 * [Craking the Coding Interview](https://github.com/ua-datalab/cracking_the_coding_interview)
+* [Data Engineering Technologies](https://github.com/ua-datalab/DataEngineering)
 * [Data Science Tapas](https://github.com/ua-datalab/DataScienceTapas/wiki)
-* [Introduction to Classical Machine Learning](https://github.com/ua-datalab/MLWorkshops/wiki)
-* [Introduction to Data Engineering Technologies](https://github.com/ua-datalab/DataEngineering)
-* [Introduction to Data Science](https://github.com/ua-datalab/Workshops/wiki)
-* [Introduction to Deep Learning](https://github.com/ua-datalab/DLWorkshops/wiki)
-* [Introduction to Graph Machine Learning](https://github.com/ua-datalab/GraphML)
-* [Introduction to NextGen Geospatial Data Science](https://github.com/ua-datalab/Geospatial_Workshops/wiki)
+* [Deep Learning](https://github.com/ua-datalab/DLWorkshops/wiki)
+* [Elements of Data Science](https://github.com/ua-datalab/Workshops/wiki)
+* [Graph Machine Learning](https://github.com/ua-datalab/GraphML)
+* [NextGen Geospatial Data Science](https://github.com/ua-datalab/Geospatial_Workshops/wiki)
 
 
 ***
