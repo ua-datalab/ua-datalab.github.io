@@ -27,8 +27,10 @@ The [UArizona DataLab](https://www.datascience.arizona.edu/education/uarizona-da
 * [Data Engineering Technologies](https://github.com/ua-datalab/DataEngineering)
 * [Data Science Tapas](https://github.com/ua-datalab/DataScienceTapas/wiki)
 * [Deep Learning](https://github.com/ua-datalab/DLWorkshops/wiki)
-* [Elements of Data Science](https://github.com/ua-datalab/Workshops/wiki)
 * [Graph Machine Learning](https://github.com/ua-datalab/GraphML)
+* [Introduction to Data Science](https://github.com/ua-datalab/Workshops/wiki)
+* [Large Language Models](https://github.com/ua-datalab/LLM-Models/wiki)
+* [Neural Networks](https://github.com/ua-datalab/NeuralNetworks/wiki)
 * [NextGen Geospatial Data Science](https://github.com/ua-datalab/Geospatial_Workshops/wiki)
 
 
