@@ -12,7 +12,7 @@
 
 ### Associate Members
 
-* [Andrew Bennett](https://has.arizona.edu/person/andrew-bennett). Hydrology and Atmospheric Sciences Department.
+* [Andrew Bennett](https://has.arizona.edu/person/andrew-bennett). Hydrology and Atmospheric Sciences.
 * [Chi-Kwan Chan](https://www.as.arizona.edu/people/faculty/chi-kwan-chan). Astronomy and Stewart Observatory.
 * [Greg Chism](https://ischool.arizona.edu/person/greg-chism). School of Information.
 * [Angela Cruze](https://datainsight.arizona.edu/person/angela-cruze). Institute for Computation & Data-Enabled Insight. 
