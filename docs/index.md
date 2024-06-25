@@ -33,8 +33,6 @@ The [UArizona DataLab](https://www.datascience.arizona.edu/education/uarizona-da
 * [Neural Networks](https://github.com/ua-datalab/NeuralNetworks/wiki)
 * [NextGen Geospatial Data Science](https://github.com/ua-datalab/Geospatial_Workshops/wiki)
 * [Prompt Engineering & AI Application Deployment - GPT 101](https://ua-data7.github.io/introllms/)
-* [Reproducible Research](https://github.com/ua-datalab/Reproducible-Research/wiki)
-* [R Intro](https://github.com/ua-datalab/R_intro)
 
 ***
 
