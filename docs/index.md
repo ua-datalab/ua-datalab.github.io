@@ -12,7 +12,7 @@ Our workshops focus on promoting Data Science Literacy among the university comm
 
 ***
 
-# Spring 2024 Workshops
+# 2024 Workshops
 
 Are you interested in improving your professional skills in data analytics tools, methods, scientific analysis and statistics?
 
@@ -32,7 +32,9 @@ The [UArizona DataLab](https://www.datascience.arizona.edu/education/uarizona-da
 * [Large Language Models](https://github.com/ua-datalab/LLM-Models/wiki)
 * [Neural Networks](https://github.com/ua-datalab/NeuralNetworks/wiki)
 * [NextGen Geospatial Data Science](https://github.com/ua-datalab/Geospatial_Workshops/wiki)
-
+* [Prompt Engineering & AI Application Deployment - GPT 101](https://ua-data7.github.io/introllms/)
+* [Reproducible Research](https://github.com/ua-datalab/Reproducible-Research/wiki)
+* [R Intro](https://github.com/ua-datalab/R_intro)
 
 ***
 
@@ -40,6 +42,7 @@ The [UArizona DataLab](https://www.datascience.arizona.edu/education/uarizona-da
 
 * [Previous Data Science Institute Workshops](https://workshops-uad7.github.io/)
 * [Data Science Learning Resources wiki](https://github.com/ua-data7/LearningResources/wiki)
+* [DataLab Projects](https://github.com/clizarraga-UAD7/DataScienceLab/wiki/Data-Lab-Projects)
 
 
 ***
