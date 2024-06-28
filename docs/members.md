@@ -17,6 +17,7 @@
 * [Greg Chism](https://ischool.arizona.edu/person/greg-chism). School of Information.
 * [Angela Cruze](https://datainsight.arizona.edu/person/angela-cruze). Institute for Computation & Data-Enabled Insight. 
 * [Tina L. Johnson](https://www.datascience.arizona.edu/person/tina-l-johnson). Data Science Institute.
+* [Eung-Joo Lee](https://ece.engineering.arizona.edu/faculty-staff/faculty/eung-joo-lee). Electrical & Computer Engineering. 
 * [Nirav Merchant](https://www.datascience.arizona.edu/person/nirav-merchant). Data Science Institute.
 * [Maliaca Oxnam](https://www.datascience.arizona.edu/person/maliaca-oxnam). Data Science Institute.
 * [Ajay Perumbeti](https://www.linkedin.com/in/ajay-perumbeti-62019514/). College of Medicine-Phoenix.
