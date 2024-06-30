@@ -29,7 +29,7 @@ The [UArizona DataLab](https://www.datascience.arizona.edu/education/uarizona-da
 * [Deep Learning](https://github.com/ua-datalab/DLWorkshops/wiki)
 * [Graph Machine Learning](https://github.com/ua-datalab/GraphML)
 * [Introduction to Data Science](https://github.com/ua-datalab/Workshops/wiki)
-* [Large Language Models](https://github.com/ua-datalab/LLM-Models/wiki)
+* [Generative AI](https://github.com/ua-datalab/Generative-AI/wiki)
 * [Natural Language & Speech Technology](https://github.com/ua-datalab/NLP-Speech/wiki)
 * [Neural Networks](https://github.com/ua-datalab/NeuralNetworks/wiki)
 * [NextGen Geospatial Data Science](https://github.com/ua-datalab/Geospatial_Workshops/wiki)
