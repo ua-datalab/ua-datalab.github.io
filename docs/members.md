@@ -1,4 +1,4 @@
-## UArizona DataLab Team
+## University of Arizona DataLab Team
 
 ### Staff
 

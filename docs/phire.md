@@ -1,6 +1,6 @@
 
 
-## UArizona PHIRE Program
+## University of Arizona PHIRE Program
 
 ### Training materials 2024 
 

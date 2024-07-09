@@ -1,4 +1,4 @@
-site_name: UArizona DataLab 
+site_name: University of Arizona DataLab 
 site_description: Training materials on Data Science tools and methods for data analysis and modeling. 
 site_author: DataLab Team
 site_url: https://ua-datalab.github.io
@@ -6,14 +6,14 @@ site_url: https://ua-datalab.github.io
 #
 # Repository
 docs_dir: docs/
-repo_name: 'UArizona-DataLab'
+repo_name: 'University of Arizona-DataLab'
 repo_url: 'https://github.com/ua-datalab/ua-datalab.github.io'
 edit_uri: edit/main/docs/
 
 # Copyright
 copyright: 'Copyright &copy; 2024 UArizona DataLab'
 
-site_description: 'The University of Arizona DataLab (UArizona DataLab) supports multiple ways to improve research, provides career opportunities, facilitates industry partnerships, and encourage innovation and entrepreneurship at our University.'
+site_description: 'The University of Arizona DataLab supports multiple ways to improve research, provides career opportunities, facilitates industry partnerships, and encourage innovation and entrepreneurship at our University.'
 
 nav:
   - 'Home':

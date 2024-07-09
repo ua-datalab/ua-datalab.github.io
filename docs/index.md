@@ -1,5 +1,5 @@
 
-# Welcome to the UArizona DataLab Github!
+# Welcome to the University of Arizona DataLab Github!
 
 ![UA DataLab](images/UADL_Composition3.png){width=1200}
 
@@ -16,7 +16,7 @@ Our workshops focus on promoting Data Science Literacy among the university comm
 
 Are you interested in improving your professional skills in data analytics tools, methods, scientific analysis and statistics?
 
-The [UArizona DataLab](https://www.datascience.arizona.edu/education/uarizona-data-lab) team invites you to attend our weekly Workshops. All sessions are conducted in hybrid mode. Please join us in-person at the Weaver Science & Engineering Library Room 212, or join via Zoom:[**864 2322 3879**](https://arizona.zoom.us/j/86423223879)
+The [University of Arizona DataLab](https://www.datascience.arizona.edu/education/uarizona-data-lab) team invites you to attend our weekly Workshops. All sessions are conducted in hybrid mode. Please join us in-person at the Weaver Science & Engineering Library Room 212, or join via Zoom:[**864 2322 3879**](https://arizona.zoom.us/j/86423223879)
 
 
 ## Notes and code repositories  
@@ -46,7 +46,7 @@ The [UArizona DataLab](https://www.datascience.arizona.edu/education/uarizona-da
 
 ***
 
-## UArizona DataLab Social 
+## University of Arizona DataLab Social 
 
 * [Github](https://github.com/ua-datalab)
 * [Linkedin](https://www.linkedin.com/company/100483432/admin/feed/posts/)
@@ -57,13 +57,13 @@ The [UArizona DataLab](https://www.datascience.arizona.edu/education/uarizona-da
 
 ***
 
-Please visit the UArizona [**Data Science Institute Events Calendar**](https://www.datascience.arizona.edu/calendar) for more detailed information.
+Please visit the University of Arizona [**Data Science Institute Events Calendar**](https://www.datascience.arizona.edu/calendar) for more detailed information.
 
 
 ***
 
 
-[UArizona DataLab](https://www.datascience.arizona.edu/education/uarizona-data-lab), is a strategic partnership between the [University of Arizona's](https://www.arizona.edu/):  [Data Science Institute](https://www.datascience.arizona.edu/), [CyVerse](https://cyverse.org/), and the
+[University of Arizona DataLab](https://www.datascience.arizona.edu/education/uarizona-data-lab), is a strategic partnership between the [University of Arizona's](https://www.arizona.edu/):  [Data Science Institute](https://www.datascience.arizona.edu/), [CyVerse](https://cyverse.org/), and the
 [Institute for Computation & Data-Enabled Insight](https://datainsight.arizona.edu/).
 
 

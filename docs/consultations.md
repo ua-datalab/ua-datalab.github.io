@@ -4,7 +4,7 @@
 When a research group needs detailed support in specific algorithms for data modeling, the DataLab team and associate members can offer consultation services. These services ensure the success of data-driven research across various knowledge domains. Consultations include support in specialized software tools and specific algorithms, and providing access to computational cloud infrastructure like CyVerse, Jetstream2, and HPC. Furthermore, graduate students are guided on best practices in source code development, data management, and modeling practices. Assistance is also provided in the available scientific computing environments to support specific domain research areas.
 
 
-## Consultation services at the UArizona Data Lab
+## Consultation services at the University of Arizona Data Lab
 
 - AI/ML applications research software
 - Cloud based analytic tools
