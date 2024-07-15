@@ -1,4 +1,4 @@
-
+https://github.com/ua-datalab/DL-pose-estimation/wiki
 # Welcome to the University of Arizona DataLab Github!
 
 ![UA DataLab](images/UADL_Composition.png){width=1200}
@@ -36,6 +36,11 @@ The [University of Arizona DataLab](https://www.datascience.arizona.edu/educatio
 * [Prompt Engineering & AI Application Deployment - GPT 101](https://ua-data7.github.io/introllms/)
 
 ***
+## Project based workshops
+
+* [Deep Learning Pose Estimation](https://github.com/ua-datalab/DL-pose-estimation/wiki)
+
+****
 
 ## Other resources
 
