@@ -38,7 +38,7 @@ The [University of Arizona DataLab](https://www.datascience.arizona.edu/educatio
 ***
 ## Project based workshops
 
-* [Deep Learning Pose Estimation](https://github.com/ua-datalab/DL-pose-estimation/wiki)
+* [Pose Estimation using Deep Learning](https://github.com/ua-datalab/DL-pose-estimation/wiki)
 
 ****
 
