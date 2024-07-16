@@ -4,7 +4,7 @@
 
 ## Mission
 
-The DataLab's mission is to assist the University of Arizona community in developing data science skills. This is achieved through various training sessions, workshops, and consultations, which aid research groups in incorporating software tools and AI-based systems. These resources enhance the cognitive skills necessary for their knowledge-discovery processes.
+The University of Arizona DataLab's mission is to assist our community in developing data science skills. This is achieved through various training sessions, workshops, and consultations, which aid research groups in incorporating software tools and AI-based systems. These resources enhance the cognitive skills necessary for their knowledge-discovery processes.
 
 
 ## Vision
@@ -16,9 +16,9 @@ The landscape of machine learning (ML) and artificial intelligence (AI) is conti
 
 The University of Arizona DataLab serves as a hub for the University of Arizona community, providing extracurricular and non-formal training in ML/AI tools and technologies not covered in current academic programs. It offers short-format workshops across various knowledge domains. Its open learning environment is ideal for studying ML/AI, where all staff members are welcome to participate.
 
-DataLab strives to guide learners from curiosity to competence in AI. It complements learning activities with consultations on research projects, assisting research labs to incorporate ML/AI methods into their workflow. It also provides support in onboarding and training students and staff involved in implementing these solutions. Additionally, it facilitates codefest/hackathons on cross-cutting topics of interest.
+The University of Arizona DataLab strives to guide learners from curiosity to competence in AI. It complements learning activities with consultations on research projects, assisting research labs to incorporate ML/AI methods into their workflow. It also provides support in onboarding and training students and staff involved in implementing these solutions. Additionally, it facilitates codefest/hackathons on cross-cutting topics of interest.
 
-DataLab collaborates with multiple University of Arizona units, including the UITS Research Computing group and Data Science training efforts through other colleges and units. It aims to foster a vibrant ecosystem of learning and exploration in the ML/AI space for the University of Arizona community.
+The University of Arizona DataLab collaborates with multiple university entities, including the UITS Research Computing group and Data Science training efforts through other colleges and units. It aims to foster a vibrant ecosystem of learning and exploration in the ML/AI space for the University of Arizona community.
 
 This talk will outline the progress and roadmap for non-formal learners on how to utilize DataLab. It will also provide guidance for departments and other units on how to participate in DataLab to showcase their activities and highlight the range of ML/AI learning opportunities available across our campus.
 
