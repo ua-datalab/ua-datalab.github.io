@@ -22,6 +22,9 @@ The [University of Arizona DataLab](https://www.datascience.arizona.edu/educatio
 ## Notes and code repositories  
 
 * [Bioinformatics & Genomics](https://github.com/ua-datalab/Bioinformatics/wiki) :dna: (**F2024**)
+* [Generative AI](https://github.com/ua-datalab/Generative-AI/wiki) :robot: :thought_balloon: (**F2024**)
+* [Natural Language Processing for All](https://github.com/ua-datalab/NLP-Speech/wiki) :robot: :speech_balloon: (**F2024**)
+* [NextGen Geospatial Data Science](https://github.com/ua-datalab/Geospatial_Workshops/wiki) :earth_americas:  (**F2024**)
 * [Classical Machine Learning](https://github.com/ua-datalab/MLWorkshops/wiki)
 * [Craking the Coding Interview](https://github.com/ua-datalab/cracking_the_coding_interview)
 * [Data Engineering Technologies](https://github.com/ua-datalab/DataEngineering)
@@ -29,10 +32,7 @@ The [University of Arizona DataLab](https://www.datascience.arizona.edu/educatio
 * [Deep Learning](https://github.com/ua-datalab/DLWorkshops/wiki)
 * [Graph Machine Learning](https://github.com/ua-datalab/GraphML)
 * [Introduction to Data Science](https://github.com/ua-datalab/Workshops/wiki)
-* [Generative AI](https://github.com/ua-datalab/Generative-AI/wiki) :robot: :thought_balloon: (**F2024**)
-* [Natural Language Processing for All](https://github.com/ua-datalab/NLP-Speech/wiki) :robot: :speech_balloon: (**F2024**)
 * [Neural Networks](https://github.com/ua-datalab/NeuralNetworks/wiki)
-* [NextGen Geospatial Data Science](https://github.com/ua-datalab/Geospatial_Workshops/wiki) :earth_americas:  (**F2024**)
 * [Prompt Engineering & AI Application Deployment - GPT 101](https://ua-data7.github.io/introllms/)
 
 ***
