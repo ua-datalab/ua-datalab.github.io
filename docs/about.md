@@ -1,6 +1,7 @@
 
 ![DataLab Ecosystem](images/DataLab_Ecosystem.png){width=840}
 
+(U of A IT Summit 2024 Presentation:[Learning & Maker Space for ML/AI: University of Arizona Data Lab](https://tinyurl.com/ITSummit24-DataLab)
 
 ## Mission
 
