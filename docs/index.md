@@ -21,6 +21,7 @@ The [University of Arizona DataLab](https://www.datascience.arizona.edu/educatio
 
 ## Notes and code repositories  
 
+* [Advanced AI for Healthcare](https://github.com/ua-datalab/ai-healthcare/tree/main) :robot: :hospital: (**F2024)
 * [Bioinformatics & Genomics](https://github.com/ua-datalab/Bioinformatics/wiki) :dna: (**F2024**)
 * [Generative AI](https://github.com/ua-datalab/Generative-AI/wiki) :robot: :thought_balloon: (**F2024**)
 * [Natural Language Processing for All](https://github.com/ua-datalab/NLP-Speech/wiki) :robot: :speech_balloon: (**F2024**)
