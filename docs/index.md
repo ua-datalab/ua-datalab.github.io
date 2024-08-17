@@ -16,12 +16,13 @@ Our workshops focus on promoting Data Science Literacy among the university comm
 
 Are you interested in improving your professional skills in data analytics tools, methods, scientific analysis and statistics?
 
-The [University of Arizona DataLab](https://www.datascience.arizona.edu/education/uarizona-data-lab) team invites you to attend our weekly Workshops. All sessions are conducted in hybrid mode. Please join us in-person at the Weaver Science & Engineering Library Room 212, or join via Zoom:[**864 2322 3879**](https://arizona.zoom.us/j/86423223879)
+The [University of Arizona DataLab](https://www.datascience.arizona.edu/education/uarizona-data-lab) team invites you to attend our weekly Workshops. All sessions are conducted in hybrid mode. Please join us in-person at the Weaver Science & Engineering Library Room 212, or join via Zoom: [**874 3375 8439**](https://arizona.zoom.us/s/87433758439)
+
 
 
 ## Notes and code repositories  
 
-* [Advanced AI for Healthcare](https://github.com/ua-datalab/ai-healthcare/tree/main) :robot: :hospital: (**F2024**)
+* [Advanced AI for Healthcare](https://github.com/ua-datalab/ai-healthcare/tree/main) :robot: :hospital: (**F2024**) - (Virtual only)
 * [Bioinformatics & Genomics](https://github.com/ua-datalab/Bioinformatics/wiki) :dna: (**F2024**)
 * [Generative AI](https://github.com/ua-datalab/Generative-AI/wiki) :robot: :thought_balloon: (**F2024**)
 * [Natural Language Processing for All](https://github.com/ua-datalab/NLP-Speech/wiki) :robot: :speech_balloon: (**F2024**)
