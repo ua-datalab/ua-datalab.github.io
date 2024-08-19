@@ -22,11 +22,16 @@ The [University of Arizona DataLab](https://www.datascience.arizona.edu/educatio
 
 ## Notes and code repositories  
 
-* [Advanced AI for Healthcare](https://github.com/ua-datalab/ai-healthcare/tree/main) :robot: :hospital: (**F2024**) - (Virtual only)
-* [Bioinformatics & Genomics](https://github.com/ua-datalab/Bioinformatics/wiki) :dna: (**F2024**)
-* [Generative AI](https://github.com/ua-datalab/Generative-AI/wiki) :robot: :thought_balloon: (**F2024**)
-* [Natural Language Processing for All](https://github.com/ua-datalab/NLP-Speech/wiki) :robot: :speech_balloon: (**F2024**)
-* [NextGen Geospatial Data Science](https://github.com/ua-datalab/Geospatial_Workshops/wiki) :earth_americas:  (**F2024**)
+### Fall 2024
+
+* [Advanced AI for Healthcare](https://github.com/ua-datalab/ai-healthcare/tree/main) :robot: :hospital:  - (Virtual only)
+* [Bioinformatics & Genomics](https://github.com/ua-datalab/Bioinformatics/wiki) :dna:  
+* [Generative AI](https://github.com/ua-datalab/Generative-AI/wiki) :robot: :thought_balloon:  
+* [Natural Language Processing for All](https://github.com/ua-datalab/NLP-Speech/wiki) :robot: :speech_balloon:  
+* [NextGen Geospatial Data Science](https://github.com/ua-datalab/Geospatial_Workshops/wiki) :earth_americas:
+
+### Previous workshops
+
 * [Classical Machine Learning](https://github.com/ua-datalab/MLWorkshops/wiki)
 * [Craking the Coding Interview](https://github.com/ua-datalab/cracking_the_coding_interview)
 * [Data Engineering Technologies](https://github.com/ua-datalab/DataEngineering)
@@ -49,7 +54,7 @@ The [University of Arizona DataLab](https://www.datascience.arizona.edu/educatio
 * [Previous Data Science Institute Workshops](https://workshops-uad7.github.io/)
 * [Data Science Learning Resources wiki](https://github.com/ua-data7/LearningResources/wiki)
 * [DataLab Projects](https://github.com/clizarraga-UAD7/DataScienceLab/wiki/Data-Lab-Projects)
-
+* [Ai Tools Landscape](https://github.com/ua-datalab/Workshops/wiki/AI-Tools-Landscape)
 
 ***
 
