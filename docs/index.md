@@ -26,7 +26,7 @@ The [University of Arizona DataLab](https://www.datascience.arizona.edu/educatio
 
 * [Advanced AI for Healthcare](https://github.com/ua-datalab/ai-healthcare/tree/main) :robot: :hospital:  - (Virtual only)
 * [Bioinformatics & Genomics](https://github.com/ua-datalab/Bioinformatics/wiki) :dna:  
-* [Generative AI](https://github.com/ua-datalab/Generative-AI/wiki) :robot: :thought_balloon:  
+* [Exploring the LLM Frontier](https://github.com/ua-datalab/Generative-AI/wiki) :robot: :thought_balloon:  
 * [Natural Language Processing for All](https://github.com/ua-datalab/NLP-Speech/wiki) :robot: :speech_balloon:  
 * [NextGen Geospatial Data Science](https://github.com/ua-datalab/Geospatial_Workshops/wiki) :earth_americas:
 
