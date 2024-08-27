@@ -25,18 +25,23 @@
 * [Tyson Swetnam](https://datainsight.arizona.edu/person/tyson-swetnam). Institute for Computation & Data-Enabled Insight / CyVerse. 
 * [Chicheng Zhang](https://www.cs.arizona.edu/person/chicheng-zhang). Computer Science.
 
-### Graduate Students Members
+### Students Members
 
-* [Brenda Huppenthal](https://www.linkedin.com/in/brenda-huppenthal/). Computer Science.
+* [Eli Kondwani Mark]()
+* [Mandira Bhowmik]()
 * [Megh Krishnaswamy](https://iranian-languages.arizona.edu/node/72). Linguistics.
-* [Shashank Yadav](https://xinformatics.github.io/). Biomedical Engineering. 
+* [Zi Kang Deng]()
 
 ### Former Students Members
 
+* [Ajay Perumbeti](https://www.linkedin.com/in/ajay-perumbeti-62019514/)
 * [Ankit Pal](https://infosci.arizona.edu/news/profiles/2023/ankit-pal). College of Information.
+* [Austin Medina]()
+* [Brenda Huppenthal](https://www.linkedin.com/in/brenda-huppenthal/). Computer Science.
+* [Linda Engelman](https://www.linkedin.com/in/linda-engelman/). Chemical and Environmental 
 * [Patrick Lohr](https://www.linkedin.com/in/patrick-lohr/). Computational Materials Sciences.
-* [Linda Engelman](https://www.linkedin.com/in/linda-engelman/). Chemical and Environmental Engineering.
-
+Engineering.
+* [Shashank Yadav](https://xinformatics.github.io/). Biomedical Engineering. 
 
 
 
