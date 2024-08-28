@@ -34,9 +34,9 @@
 
 ### Former Students Members
 
-* [Ajay Perumbeti](https://www.linkedin.com/in/ajay-perumbeti-62019514/)
+* [Ajay Perumbeti](https://www.linkedin.com/in/ajay-perumbeti-62019514/). College of Medicine, PHX.
 * [Ankit Pal](https://infosci.arizona.edu/news/profiles/2023/ankit-pal). College of Information.
-* [Austin Medina]()
+* [Austin Medina](). College of Engineering.
 * [Brenda Huppenthal](https://www.linkedin.com/in/brenda-huppenthal/). Computer Science.
 * [Linda Engelman](https://www.linkedin.com/in/linda-engelman/). Chemical and Environmental 
 * [Patrick Lohr](https://www.linkedin.com/in/patrick-lohr/). Computational Materials Sciences.
