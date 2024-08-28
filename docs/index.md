@@ -28,7 +28,7 @@ The [University of Arizona DataLab](https://www.datascience.arizona.edu/educatio
 * [Bioinformatics & Genomics](https://github.com/ua-datalab/Bioinformatics/wiki) :dna:  
 * [Exploring the LLM Frontier](https://github.com/ua-datalab/Generative-AI/wiki) :robot: :thought_balloon:  
 * [Natural Language Processing for All](https://github.com/ua-datalab/NLP-Speech) :robot: :speech_balloon:  
-* [NextGen Geospatial Data Science](https://github.com/ua-datalab/Geospatial_Workshops/wiki) :earth_americas:
+* [NextGen Geospatial](https://github.com/ua-datalab/Geospatial_Workshops/wiki) :earth_americas:
 
 ### Previous workshops
 
