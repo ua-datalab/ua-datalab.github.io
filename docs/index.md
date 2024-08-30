@@ -29,7 +29,7 @@ The [University of Arizona DataLab](https://www.datascience.arizona.edu/educatio
 * [Exploring the LLM Frontier](https://github.com/ua-datalab/Generative-AI/wiki) :robot: :thought_balloon:  Thursdays 2-3PM.
 * [Natural Language Processing for All](https://github.com/ua-datalab/NLP-Speech) :robot: :speech_balloon:  Thursdays 3-4PM.
 * [NextGen Geospatial](https://github.com/ua-datalab/Geospatial_Workshops/wiki) :earth_americas: Tuesdays 2-3PM.
-* [Research Productivity](https://www.datascience.arizona.edu/education/arizona-data-lab/research-productivity) :calendar: (Virtual - [Zoom](https://arizona.zoom.us/j/88392544576?from=addon)) Wednesdays, 1:00 - 2:30 PM, Sep 18 - Oct 30, 2024. 
+* [Research Productivity](https://www.datascience.arizona.edu/education/arizona-data-lab/research-productivity) :calendar: (Virtual only - [this Zoom](https://arizona.zoom.us/j/88392544576?from=addon)) Wednesdays, 1:00 - 2:30 PM, Sep 18 - Oct 30, 2024. 
 
 
 ### Previous DataLab workshops
