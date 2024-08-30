@@ -19,7 +19,6 @@ Are you interested in improving your professional skills in data analytics tools
 The [University of Arizona DataLab](https://www.datascience.arizona.edu/education/uarizona-data-lab) team invites you to attend our weekly Workshops. All sessions are conducted in hybrid mode. Please join us in-person at the Weaver Science & Engineering Library Room 212, or join via Zoom: [**874 3375 8439**](https://arizona.zoom.us/s/87433758439)
 
 
-
 ## Notes and code repositories  
 
 ### University of Arizona DataLab Fall 2024 workshops and training materials (Sep-Oct 2024).
@@ -44,7 +43,7 @@ The [University of Arizona DataLab](https://www.datascience.arizona.edu/educatio
 * [Neural Networks](https://github.com/ua-datalab/NeuralNetworks/wiki)
 * [Prompt Engineering & AI Application Deployment - GPT 101](https://ua-data7.github.io/introllms/)
 
-### University of Arizona HPC
+## University of Arizona HPC
 
 * [HPC Fall 2024 Workshops Calendar](https://hpcdocs.hpc.arizona.edu/events/calendar/)
 * [HPC Workshops and Training Materials](https://hpcdocs.hpc.arizona.edu/events/workshop_materials/)
