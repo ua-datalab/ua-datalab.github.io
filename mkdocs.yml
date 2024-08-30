@@ -26,7 +26,7 @@ nav:
 
 theme: 
   name: material
-  logo: /Users/carlos/Home/UADataLab/ua-datalab.github.io/docs/images/UADLSquareLogo.png
+  logo: images/UADLSquareLogo.png
 
   # setting features for the navigation tab
   features:
