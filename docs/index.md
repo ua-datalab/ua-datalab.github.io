@@ -22,13 +22,13 @@ The [University of Arizona DataLab](https://www.datascience.arizona.edu/educatio
 
 ## Notes and code repositories  
 
-### UNiversity of Arizona DataLab Fall 2024 workshops and training materials (Sep-Oct 2024).
+### University of Arizona DataLab Fall 2024 workshops and training materials (Sep-Oct 2024).
 
 * [Advanced AI for Healthcare](https://github.com/ua-datalab/ai-healthcare/tree/main) :robot: :hospital:  - (Virtual only) Thursdays 1-2PM. (Starts 09/19/2024)
 * [Bioinformatics & Genomics](https://github.com/ua-datalab/Bioinformatics/wiki) :dna: Tuesdays 3-4PM.  
 * [Exploring the LLM Frontier](https://github.com/ua-datalab/Generative-AI/wiki) :robot: :thought_balloon:  Thursdays 2-3PM.
 * [Natural Language Processing for All](https://github.com/ua-datalab/NLP-Speech) :robot: :speech_balloon:  Thursdays 3-4PM.
-* [NextGen Geospatial](https://github.com/ua-datalab/Geospatial_Workshops/wiki) :earth_americas: Thursdays 2-3PM.
+* [NextGen Geospatial](https://github.com/ua-datalab/Geospatial_Workshops/wiki) :earth_americas: Tuesdays 2-3PM.
 
 ### Previous DataLab workshops
 
