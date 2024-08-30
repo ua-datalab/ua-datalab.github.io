@@ -22,15 +22,15 @@ The [University of Arizona DataLab](https://www.datascience.arizona.edu/educatio
 
 ## Notes and code repositories  
 
-### Fall 2024
+### DataLab Fall 2024 workshops and training materials (Sep-Oct 2024).
 
-* [Advanced AI for Healthcare](https://github.com/ua-datalab/ai-healthcare/tree/main) :robot: :hospital:  - (Virtual only)
-* [Bioinformatics & Genomics](https://github.com/ua-datalab/Bioinformatics/wiki) :dna:  
-* [Exploring the LLM Frontier](https://github.com/ua-datalab/Generative-AI/wiki) :robot: :thought_balloon:  
-* [Natural Language Processing for All](https://github.com/ua-datalab/NLP-Speech) :robot: :speech_balloon:  
-* [NextGen Geospatial](https://github.com/ua-datalab/Geospatial_Workshops/wiki) :earth_americas:
+* [Advanced AI for Healthcare](https://github.com/ua-datalab/ai-healthcare/tree/main) :robot: :hospital:  - (Virtual only) Thursdays 1-2PM. (Starts 09/19/2024)
+* [Bioinformatics & Genomics](https://github.com/ua-datalab/Bioinformatics/wiki) :dna: Tuesdays 3-4PM.  
+* [Exploring the LLM Frontier](https://github.com/ua-datalab/Generative-AI/wiki) :robot: :thought_balloon:  Thursdays 2-3PM.
+* [Natural Language Processing for All](https://github.com/ua-datalab/NLP-Speech) :robot: :speech_balloon:  Thursdays 3-4PM.
+* [NextGen Geospatial](https://github.com/ua-datalab/Geospatial_Workshops/wiki) :earth_americas: Thursdays 2-3PM.
 
-### Previous workshops
+### Previous DataLab workshops
 
 * [Classical Machine Learning](https://github.com/ua-datalab/MLWorkshops/wiki)
 * [Craking the Coding Interview](https://github.com/ua-datalab/cracking_the_coding_interview)
@@ -42,7 +42,15 @@ The [University of Arizona DataLab](https://www.datascience.arizona.edu/educatio
 * [Neural Networks](https://github.com/ua-datalab/NeuralNetworks/wiki)
 * [Prompt Engineering & AI Application Deployment - GPT 101](https://ua-data7.github.io/introllms/)
 
+### University of Arizona HPC
+
+* [HPC Fall 2024 Workshops](https://hpcdocs.hpc.arizona.edu/events/calendar/)
+* [HPC Workshops and Training Materials](https://hpcdocs.hpc.arizona.edu/events/workshop_materials/)
+* [HPC Documentation](https://hpcdocs.hpc.arizona.edu/)
+
+
 ***
+
 ## Project based workshops
 
 * [Pose Estimation using Deep Learning](https://github.com/ua-datalab/DL-pose-estimation/wiki) :rat:
@@ -54,7 +62,7 @@ The [University of Arizona DataLab](https://www.datascience.arizona.edu/educatio
 * [Previous Data Science Institute Workshops](https://workshops-uad7.github.io/)
 * [Data Science Learning Resources wiki](https://github.com/ua-data7/LearningResources/wiki)
 * [DataLab Projects](https://github.com/clizarraga-UAD7/DataScienceLab/wiki/Data-Lab-Projects)
-* [Ai Tools Landscape](https://github.com/ua-datalab/Workshops/wiki/AI-Tools-Landscape)
+* [AI Tools Landscape](https://github.com/ua-datalab/Workshops/wiki/AI-Tools-Landscape)
 
 ***
 
