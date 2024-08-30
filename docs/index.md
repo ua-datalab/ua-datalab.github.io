@@ -22,7 +22,7 @@ The [University of Arizona DataLab](https://www.datascience.arizona.edu/educatio
 
 ## Notes and code repositories  
 
-### DataLab Fall 2024 workshops and training materials (Sep-Oct 2024).
+### UNiversity of Arizona DataLab Fall 2024 workshops and training materials (Sep-Oct 2024).
 
 * [Advanced AI for Healthcare](https://github.com/ua-datalab/ai-healthcare/tree/main) :robot: :hospital:  - (Virtual only) Thursdays 1-2PM. (Starts 09/19/2024)
 * [Bioinformatics & Genomics](https://github.com/ua-datalab/Bioinformatics/wiki) :dna: Tuesdays 3-4PM.  
@@ -44,7 +44,7 @@ The [University of Arizona DataLab](https://www.datascience.arizona.edu/educatio
 
 ### University of Arizona HPC
 
-* [HPC Fall 2024 Workshops](https://hpcdocs.hpc.arizona.edu/events/calendar/)
+* [HPC Fall 2024 Workshops Calendar](https://hpcdocs.hpc.arizona.edu/events/calendar/)
 * [HPC Workshops and Training Materials](https://hpcdocs.hpc.arizona.edu/events/workshop_materials/)
 * [HPC Documentation](https://hpcdocs.hpc.arizona.edu/)
 
