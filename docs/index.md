@@ -25,10 +25,10 @@ The [University of Arizona DataLab](https://www.datascience.arizona.edu/educatio
 
 * [AI Makerspace](https://github.com/ua-datalab/AI-Makerspace). Enrique Noriega, Mithun Paul. :toolbox: :hammer_and_wrench: :robot: (Virtual only) Fridays 3-4PM. 
 * [Advanced AI for Healthcare](https://github.com/ua-datalab/ai-healthcare/tree/main). Greg Chism. :robot: :hospital: (Virtual only) Thursdays 1-2PM. 
-* [Bioinformatics & Genomics](https://github.com/ua-datalab/Bioinformatics/wiki). Michele Cosi, Carlos Lizárraga. :dna: Tuesdays 3-4PM.  
+* [Bioinformatics & Genomics](https://github.com/ua-datalab/Bioinformatics/wiki). Michele Cosi, Carlos Lizárraga. :dna: :microscope: Tuesdays 3-4PM.  
 * [Exploring the LLM Frontier](https://github.com/ua-datalab/Generative-AI/wiki).  Carlos Lizárraga, Enrique Noriega. :robot: :thought_balloon: Thursdays 2-3PM.
 * [Natural Language Processing for All](https://github.com/ua-datalab/NLP-Speech).  Megh Krishnaswamy, Mithun Paul.  :robot: :speech_balloon:  Thursdays 3-4PM.
-* [NextGen Geospatial](https://github.com/ua-datalab/Geospatial_Workshops/wiki). Jeff Gillan.  :earth_americas: Tuesdays 2-3PM.
+* [NextGen Geospatial](https://github.com/ua-datalab/Geospatial_Workshops/wiki). Jeff Gillan.  :earth_americas: :artificial_satellite: Tuesdays 2-3PM.
 * [Research Productivity](https://www.datascience.arizona.edu/education/arizona-data-lab/research-productivity). Rudy Salcido. :black_nib: :chart_with_upwards_trend: (Virtual only - [this Zoom](https://arizona.zoom.us/j/88392544576?from=addon)) Wednesdays, 1:00 - 2:30 PM, Sep 18 - Oct 30, 2024. 
 
 
