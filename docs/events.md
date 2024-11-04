@@ -1,7 +1,7 @@
 
 Your DataLab friendly weekly remainder! :alarm_clock:
 
-## :placard: The University of Arizona DataLab Workshops Fall 2024
+## :placard: [The University of Arizona DataLab Workshops](https://www.datascience.arizona.edu/education/uarizona-data-lab) Fall 2024
 
 In collaboration with the Wheeler and Vitali Labs, the DataLab is proud to present four advanced bioinformatics workshops covering key techniques in genomics and transcriptomics.
 
