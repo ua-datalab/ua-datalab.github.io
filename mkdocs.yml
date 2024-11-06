@@ -21,7 +21,7 @@ nav:
     - 'About': about.md
     - 'DataLab Team': members.md
     - 'Consultations': consultations.md
-    - 'Workshops': events.md
+    - 'Events': events.md
     - 'AI/ML Development': apps-dev.md
     - 'PHIRE': phire.md
 
