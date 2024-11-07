@@ -24,7 +24,7 @@ timeline
 
 ### A: General Data Science
 
-#### Introduction to Data Science and Machine Learning
+#### 1. Introduction to Data Science and Machine Learning
 
 ??? note "Content description"
 
@@ -51,7 +51,29 @@ timeline
     - Kaggle Learn courses on data science and machine learning fundamentals
 
 
-####  Python for Data Science
+####  2. Python for Data Science
+??? note "Content description"
+
+    **Learning Objective**: Develop proficiency in using Python for data manipulation, analysis, and visualization.
+
+    **Related Skills**:
+ 	- Mastering Python syntax and data structures
+ 	- Utilizing NumPy for efficient numerical operations
+ 	- Applying Pandas for data ingestion, cleaning, and transformation
+
+    **Subtopics**:
+ 	1. Python programming basics (variables, data types, control structures, functions)
+ 	2. NumPy arrays and universal functions
+ 	3. Pandas DataFrames and Series for data manipulation
+ 	4. Data visualization with Matplotlib and Seaborn
+ 	5. Integrating Python with data science libraries (scikit-learn, TensorFlow, PyTorch)
+
+    **References and Resources**:
+ 	- "Python for Data Analysis" by Wes McKinney
+ 	- "Python Data Science Handbook" by Jake VanderPlas
+ 	- Datacamp's Python for Data Science Track
+
+
 
 #### Ethical Considerations in Data Science
 
