@@ -38,7 +38,7 @@ timeline
     	   	    : 8. Recurrent Neural Networks and Sequence Models
 		    : 9. Generative Models
 		    : 10. Transfer Learning and Fine-tuning
-    E.CDCI : 11. Model Deployment and Productionization
+    E: Continuous Development / Continuous Integration  : 11. Model Deployment and Productionization
 
 ```
 
@@ -100,7 +100,7 @@ D: Deep Learning
 
 10. Transfer Learning and Fine-tuning
 
-E: Continuous Integration Continuous Development
+E: Continuous Development / Continuous Integration 
 
 11. Model Deployment and Productionization
 
