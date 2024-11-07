@@ -5,17 +5,6 @@ We present 12 topics in the data science learning path, providing learning objec
 
 ```mermaid
 timeline
-    title History of Social Media Platform
-    2002 : LinkedIn
-    2004 : Facebook
-         : Google
-    2005 : Youtube 
-    2006 : Twitter
-    click Youtube href "http://www.youtube.com" "Open"  _blank
-```
-
-```mermaid
-timeline
     title Machine Learning Learning Path
     A. General Data Science : 1. Introduction to Data Science and Machine Learning
     	    	 	     : 2. Python for Data Science
@@ -32,71 +21,30 @@ timeline
 
 ```
 
-```mermaid
-flowchart TB
-   subgraph ds ["`**General Data Science**`"]
-   introds["`**Intro to Data Science and Machine Learning**`"] --> pyds["`**Python for Data Science**`"]
-   end
-   subgraph C ["`**Classical Machine Learning**`"]
-   class["`**4.Classification Algorithms**`"] --> ensemble["`**5. Ensemble Methods**`"] --> UL["`**6. Unsupervised Learning**`"]
-   end
-   subgraph D ["`**Deep Learning**`"]
-   introdl["`**Intro to Deep Learning**`"] --> RNN["`**Recurrent Neural Networks and Sequence Models**`"] --> Gen["`**Generative Models**`"]  --> TL["`**Transfer Learning and Fine Tuning**`"]
-   end
-
-```
-
-
-```mermaid
-flowchart TB
-   subgraph ds 
-   introds-->pyds
-   end
-   subgraph C ["`**Classical Machine Learning**`"]
-   class["`**4.Classification Algorithms**`"]-->ensemble["`**5. Ensemble Methods**`"]-->UL["`**6. Unsupervised Learning**`"]
-   end
-   subgraph D ["`**Deep Learning**`"]
-   introdl["`**Intro to Deep Learning**`"]-->RNN["`**Recurrent Neural Networks and Sequence Models**`"]-->Gen["`**Generative Models**`"]-->TL["`**Transfer Learning and Fine Tuning**`"]
-   end
-
-```
-
-
 A: General Data Science
-
-1. Introduction to Data Science and Machine Learning
-
-2. Python for Data Science
+   - Introduction to Data Science and Machine Learning
+   - Python for Data Science
+   - Ethical Considerations in Data Science
 
 B: Statistics
-
-3. Statistical Learning and Regression Models
+   -  Statistical Learning and Regression Models
 
 C: Classical Machine Learning
-
-4. Classification Algorithms
-
-5. Ensemble Methods
-
-6. Unsupervised Learning
+   -  Classification Algorithms
+   - Ensemble Methods
+   -  Unsupervised Learning
 
 D: Deep Learning
-
-7. Introduction to Deep Learning
-
-8. Recurrent Neural Networks and Sequence Models
-
-9. Generative Models
-
-10. Transfer Learning and Fine-tuning
+   - Introduction to Deep Learning
+   - Recurrent Neural Networks and Sequence Models
+   - Generative Models
+   - Transfer Learning and Fine-tuning
 
 E: Continuous Development / Continuous Integration 
 
-11. Model Deployment and Productionization
+   - Model Deployment and Productionization
 
-F: Ethics
 
-12. Ethical Considerations in Data Science
 
 
 
