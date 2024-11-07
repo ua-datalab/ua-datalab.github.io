@@ -26,7 +26,7 @@ timeline
 
 #### Introduction to Data Science and Machine Learning
 <details>
-  <summary>Click me</summary>
+  <summary>Content</summary>
     **Learning Objective**: Understand the fundamental concepts of data science and machine learning, and their real-world applications.
 
     **Related Skills**:
