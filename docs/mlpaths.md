@@ -15,6 +15,11 @@ We present 12 topics in the data science learning path, providing learning objec
 ```
 
 ```mermaid
+
+config:
+  look: handDrawn
+  theme: neutral
+
 timeline
     title History of Social Media Platform
     2002 : LinkedIn
@@ -38,7 +43,7 @@ timeline
     	   	    : 8. Recurrent Neural Networks and Sequence Models
 		    : 9. Generative Models
 		    : 10. Transfer Learning and Fine-tuning
-    E: Continuous Development / Continuous Integration  : 11. Model Deployment and Productionization
+    E. Continuous Development / Continuous Integration  : 11. Model Deployment and Productionization
 
 ```
 
