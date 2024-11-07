@@ -1,6 +1,62 @@
 
+## Data Science Learning Path
+
+We present 12 topics in the data science learning path, providing learning objectives, related skills, subtopics, and references/resources for each. The goal is to give graduate students a structured and comprehensive program to acquire data science expertise, including hands-on experience with real-world open-source tools and libraries.
+
+```mermaid
+   flowchart TB
+
+subgraph ds ["`**General Data Science**`"]
+intro --> Python
+end
+
+
+```
+
+A: General Data Science
+
+1. Introduction to Data Science and Machine Learning
+
+2. Python for Data Science
+
+
+B: Statistics
+
+3. Statistical Learning and Regression Models
+
+
+C: Classical Machine Learning
+
+4. Classification Algorithms
+
+5. Ensemble Methods
+
+6. Unsupervised Learning
+
+D: Deep Learning
+
+7. Introduction to Deep Learning
+
+8. Recurrent Neural Networks and Sequence Models
+
+9. Generative Models
+
+10. Transfer Learning and Fine-tuning
+
+E: Continuous Integration COntinuous Development
+
+11. Model Deployment and Productionization
+
+F: Ethics
+
+12. Ethical Considerations in Data Science
+
+
+
 
 ## Working with different data types.
+
+Next you will find five specialized data science learning paths that branch off from the core topics in the previous section. Each specialized path includes a learning objective, related skills, subtopics, and references/resources.
 
 
 ```mermaid
