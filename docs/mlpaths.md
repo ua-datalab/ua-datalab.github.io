@@ -17,7 +17,7 @@ timeline
     	   	    : 9. Recurrent Neural Networks and Sequence Models
 		    : 10. Generative Models
 		    : 11. Transfer Learning and Fine-tuning
-    E. Continuous Development / Continuous Integration  : 12. Model Deployment and Productionization
+    E. Continuous Integration / Continuous Deployment  : 12. Model Deployment and Productionization
 
 ```
 
@@ -329,7 +329,7 @@ timeline
     - Coursera course "Convolutional Neural Networks" by deeplearning.ai
 
 
-### E: Continuous Development / Continuous Integration 
+### E: Continuous Integration / Continuous Deployment 
 
 #### 12. Model Deployment and Productionization
 
