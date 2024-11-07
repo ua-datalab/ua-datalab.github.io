@@ -15,16 +15,11 @@ We present 12 topics in the data science learning path, providing learning objec
 ```
 
 ```mermaid
-
-config:
-  look: handDrawn
-  theme: neutral
-
 timeline
     title History of Social Media Platform
     2002 : LinkedIn
     2004 : Facebook
-         : <a href="http://google.com">Google</a>
+         : <a href='http://google.com'>Google</a>
     2005 : Youtube
     2006 : Twitter
 ```
