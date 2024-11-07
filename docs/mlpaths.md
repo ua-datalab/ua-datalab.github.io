@@ -81,7 +81,7 @@ timeline
 
 #### 3. Ethical Considerations in Data Science
 
-??? note "Topic decription"
+??? note "Topic description"
 
     **Learning Objective**: Develop an understanding of the ethical implications and responsible practices in data science.
 
