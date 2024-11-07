@@ -24,29 +24,43 @@ timeline
 
 ### A: General Data Science
 
-   - Introduction to Data Science and Machine Learning
-   - Python for Data Science
-   - Ethical Considerations in Data Science
+#### Introduction to Data Science and Machine Learning
+!!! note Description
+    - Learning Objective: Understand the fundamental concepts of data science and machine learning, and their real-world applications.
+    - Related Skills:
+  	 	1. Defining and framing data science problems
+ 		2. Identifying appropriate machine learning techniques for different tasks
+ 		3. Distinguishing between supervised and unsupervised learning
+    - Subtopics:
+      	 	1. Definition and scope of data science
+ 		2. Overview of machine learning algorithms (regression, classification, clustering)
+ 		3. Applications of data science in various industries (e.g., healthcare, finance, marketing)
+ 		4. Ethical considerations in data science
+ 		5. Hands-on introduction to machine learning using Python and scikit-learn
+    - References and Resources:
+ 	  - "An Introduction to Statistical Learning" by Gareth James et al.
+ 	  - "Machine Learning for Absolute Beginners" by Oliver Theobald
+ 	  - Kaggle Learn courses on data science and machine learning fundamentals
+
+####  Python for Data Science
+
+#### Ethical Considerations in Data Science
 
 ### B: Statistics
-
-    - Statistical Learning and Regression Models
+   - Statistical Learning and Regression Models
 
 ### C: Classical Machine Learning
-
-    - Classification Algorithms
-    - Ensemble Methods
-    - Unsupervised Learning
+   - Classification Algorithms
+   - Ensemble Methods
+   - Unsupervised Learning
 
 ### D: Deep Learning
-
    - Introduction to Deep Learning
    - Recurrent Neural Networks and Sequence Models
    - Generative Models
    - Transfer Learning and Fine-tuning
 
 ### E: Continuous Development / Continuous Integration 
-
    - Model Deployment and Productionization
 
 
