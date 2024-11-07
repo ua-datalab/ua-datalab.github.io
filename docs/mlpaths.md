@@ -8,45 +8,50 @@ timeline
     title Machine Learning Learning Path
     A. General Data Science : 1. Introduction to Data Science and Machine Learning
     	    	 	     : 2. Python for Data Science
-			     : 12. Ethical Considerations in Data Science
-    B. Statistics : 3. Statistical Learning and Regression Models
-    C. Classical Machine Learning : 4. Classification Algorithms
-				 : 5. Ensemble Methods
-				 : 6. Unsupervised Learning
-    D. Deep Learning : 7. Introduction to Deep Learning
-    	   	    : 8. Recurrent Neural Networks and Sequence Models
-		    : 9. Generative Models
-		    : 10. Transfer Learning and Fine-tuning
-    E. Continuous Development / Continuous Integration  : 11. Model Deployment and Productionization
+			     : 3. Ethical Considerations in Data Science
+    B. Statistics : 4. Statistical Learning and Regression Models
+    C. Classical Machine Learning : 5. Classification Algorithms
+				 : 6. Ensemble Methods
+				 : 7. Unsupervised Learning
+    D. Deep Learning : 8. Introduction to Deep Learning
+    	   	    : 9. Recurrent Neural Networks and Sequence Models
+		    : 10. Generative Models
+		    : 11. Transfer Learning and Fine-tuning
+    E. Continuous Development / Continuous Integration  : 12. Model Deployment and Productionization
 
 ```
 
-A: General Data Science
+
+### A: General Data Science
+
    - Introduction to Data Science and Machine Learning
    - Python for Data Science
    - Ethical Considerations in Data Science
 
-B: Statistics
-   -  Statistical Learning and Regression Models
+### B: Statistics
 
-C: Classical Machine Learning
-   -  Classification Algorithms
-   - Ensemble Methods
-   -  Unsupervised Learning
+    -  Statistical Learning and Regression Models
 
-D: Deep Learning
+### C: Classical Machine Learning
+
+    -  Classification Algorithms
+    - Ensemble Methods
+    -  Unsupervised Learning
+
+### D: Deep Learning
+
    - Introduction to Deep Learning
    - Recurrent Neural Networks and Sequence Models
    - Generative Models
    - Transfer Learning and Fine-tuning
 
-E: Continuous Development / Continuous Integration 
+### E: Continuous Development / Continuous Integration 
 
    - Model Deployment and Productionization
 
 
 
-
+***
 
 
 ## Working with different data types.
