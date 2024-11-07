@@ -14,6 +14,34 @@ We present 12 topics in the data science learning path, providing learning objec
    eth --> D
 ```
 
+```mermaid
+timeline
+    title History of Social Media Platform
+    2002 : LinkedIn
+    2004 : Facebook
+         : Google
+    2005 : Youtube
+    2006 : Twitter
+```
+
+```mermaid
+timeline
+    title Machine Learning Learning Path
+    A.General Data Science   	 : 1.Introduction to Data Science and Machine Learning
+    	    	 	 	 : 2.Python for Data Science
+    B.Statistics		 : 3.Statistical Learning and Regression Models
+    C.Classical Machine Learning : 
+    				 : 4.Classification Algorithms
+				 : 5.Ensemble Methods
+				 : 6.Unsupervised Learning
+    D.Deep Learning		 : 7.Introduction to Deep Learning
+    	   			 : 8.Recurrent Neural Networks and Sequence Models
+				 : 9.Generative Models
+				 : 10.Transfer Learning and Fine-tuning
+    E.CDCI			 : 11.Model Deployment and Productionization
+    F.Ethics			 : 12.Ethical Considerations in Data Science
+
+```
 
 ```mermaid
 flowchart TB
