@@ -30,13 +30,13 @@ timeline
 
 ### B: Statistics
 
-    -  Statistical Learning and Regression Models
+    - Statistical Learning and Regression Models
 
 ### C: Classical Machine Learning
 
-    -  Classification Algorithms
+    - Classification Algorithms
     - Ensemble Methods
-    -  Unsupervised Learning
+    - Unsupervised Learning
 
 ### D: Deep Learning
 
