@@ -28,27 +28,27 @@ timeline
 
 ??? note "Content description"
 
-**Learning Objective**: Understand the fundamental concepts of data science and machine learning, and their real-world applications.
+    **Learning Objective**: Understand the fundamental concepts of data science and machine learning, and their real-world applications.
 
-**Related Skills**:
+    **Related Skills**:
 
-- Defining and framing data science problems
-- Identifying appropriate machine learning techniques for different tasks
-- Distinguishing between supervised and unsupervised learning
+    - Defining and framing data science problems
+    - Identifying appropriate machine learning techniques for different tasks
+    - Distinguishing between supervised and unsupervised learning
 
-**Subtopics**:
+    **Subtopics**:
 
-- Definition and scope of data science
-- Overview of machine learning algorithms (regression, classification, clustering)
-- Applications of data science in various industries (e.g., healthcare, finance, marketing)
-- Ethical considerations in data science
-- Hands-on introduction to machine learning using Python and scikit-learn
+    - Definition and scope of data science
+    - Overview of machine learning algorithms (regression, classification, clustering)
+    - Applications of data science in various industries (e.g., healthcare, finance, marketing)
+    - Ethical considerations in data science
+    - Hands-on introduction to machine learning using Python and scikit-learn
 
-**References and Resources**:
+    **References and Resources**:
 
-- "An Introduction to Statistical Learning" by Gareth James et al.
-- "Machine Learning for Absolute Beginners" by Oliver Theobald
-- Kaggle Learn courses on data science and machine learning fundamentals
+    - "An Introduction to Statistical Learning" by Gareth James et al.
+    - "Machine Learning for Absolute Beginners" by Oliver Theobald
+    - Kaggle Learn courses on data science and machine learning fundamentals
 
 
 ####  Python for Data Science
