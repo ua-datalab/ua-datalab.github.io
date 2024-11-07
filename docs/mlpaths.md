@@ -8,20 +8,15 @@ We present 12 topics in the data science learning path, providing learning objec
    eth["`**Ethics**`"] --> ds
    ds --> stats["`**Statistics**`"]
    eth --> stats
-   
-
    subgraph ds ["`**General Data Science**`"]
    introds["`**Intro to Data Science and Machine Learning**`"] --> pyds["`**Python for Data Science**`"]
    end
-
    subgraph C ["`**Classical Machine Learning**`"]
    class["`**4.Classification Algorithms**`"] --> ensemble["`**5. Ensemble Methods**`"] --> UL["`**6. Unsupervised Learning**`"]
    end
-
    subgraph D ["`**Deep Learning**`"]
    introdl["`**Intro to Deep Learning**`"] --> RNN["`**Recurrent Neural Networks and Sequence Models**`"] --> Gen["`**Generative Models**`"]  --> TL["`**Transfer Learning anf Fine Tuning**`"]
    end
-
    C --> cdci["`**Model Deployment and Productionization**`"]
    D --> cdci
    ds --> cdci
