@@ -10,7 +10,7 @@
       A-->D["`**Time Series Analysis and Forecasting**`"];
       A-->E["`**Natural Language Processing**`"];
       A-->F["`**Speech and Audio Processing**`"];
-      click B href "https://ua-datalab.github.io/mlpaths/paths/numeric.md" "Open this in a new tab" _blank
+      click B href "./paths/numeric.md" "Open this in a new tab" _blank
       click C href "https://ua-datalab.github.io/mlpaths/paths/images.md" "Open this in a new tab" _blank
       click D href "https://ua-datalab.github.io/mlpaths/paths/tseries.md" "Open this in a new tab" _blank
       click E href "https://ua-datalab.github.io/mlpaths/paths/nlp.md" "Open this in a new tab" _blank
