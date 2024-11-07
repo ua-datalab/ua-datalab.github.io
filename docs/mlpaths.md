@@ -11,7 +11,7 @@ timeline
          : Google
     2005 : Youtube 
     2006 : Twitter
-    click Youtube href 'http://www.youtube.com' 'Open'  _blank
+    click Youtube href "http://www.youtube.com" "Open"  _blank
 ```
 
 ```mermaid
