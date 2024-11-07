@@ -24,6 +24,7 @@ nav:
     - 'Special Events': events.md
     - 'AI/ML Development': apps-dev.md
     - 'PHIRE': phire.md
+    - 'ML Learning Paths': mlpaths.md
 
 theme: 
   name: material
