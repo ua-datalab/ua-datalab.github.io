@@ -8,7 +8,7 @@ timeline
     title History of Social Media Platform
     2002 : LinkedIn
     2004 : Facebook
-         : <a href='http://google.com'>Google</a>
+         : Google
     2005 : Youtube 
     2006 : Twitter
     click Youtube href 'http://www.youtube.com' 'Open'  _blank
