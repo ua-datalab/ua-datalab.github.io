@@ -5,10 +5,18 @@ We present 12 topics in the data science learning path, providing learning objec
 
 ```mermaid
    flowchart TB
+   intro --> eth["`**Ethics**`"]
+   ds --> stats["`**Statistics**`"]
 
-subgraph ds ["`**General Data Science**`"]
-intro --> Python
-end
+   subgraph ds ["`**General Data Science**`"]
+   intro["`**Intro to Data Science and Machine Learning**`"] --> pyds["`**Python for Data Science**`"]
+   end
+
+   subgraph C ["`**Classical Machine Learning**`"]
+   class["`**4.Classification Algorithms**`"] --> ensemble["`**5. Ensemble Methods**`"] --> UL["`**6. Unsupervised Learning**`"]
+   end
+
+   
 
 
 ```
@@ -27,11 +35,6 @@ B: Statistics
 
 C: Classical Machine Learning
 
-4. Classification Algorithms
-
-5. Ensemble Methods
-
-6. Unsupervised Learning
 
 D: Deep Learning
 
