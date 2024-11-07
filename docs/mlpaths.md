@@ -29,6 +29,7 @@ timeline
     title Machine Learning Learning Path
     A. General Data Science : 1. Introduction to Data Science and Machine Learning
     	    	 	     : 2. Python for Data Science
+			     : 12. Ethical Considerations in Data Science
     B. Statistics : 3.Statistical Learning and Regression Models
     C. Classical Machine Learning : 4. Classification Algorithms
 				 : 5. Ensemble Methods
@@ -38,7 +39,6 @@ timeline
 		    : 9. Generative Models
 		    : 10. Transfer Learning and Fine-tuning
     E.CDCI : 11. Model Deployment and Productionization
-    F.Ethics : 12. Ethical Considerations in Data Science
 
 ```
 
