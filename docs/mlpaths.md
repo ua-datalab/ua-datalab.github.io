@@ -29,6 +29,22 @@ flowchart TB
 
 ```
 
+
+```mermaid
+flowchart TB
+   subgraph ds 
+   introds-->pyds
+   end
+   subgraph C ["`**Classical Machine Learning**`"]
+   class["`**4.Classification Algorithms**`"]-->ensemble["`**5. Ensemble Methods**`"]-->UL["`**6. Unsupervised Learning**`"]
+   end
+   subgraph D ["`**Deep Learning**`"]
+   introdl["`**Intro to Deep Learning**`"]-->RNN["`**Recurrent Neural Networks and Sequence Models**`"]-->Gen["`**Generative Models**`"]-->TL["`**Transfer Learning and Fine Tuning**`"]
+   end
+
+```
+
+
 A: General Data Science
 
 1. Introduction to Data Science and Machine Learning
