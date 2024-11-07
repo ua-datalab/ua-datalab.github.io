@@ -3,25 +3,15 @@
 
 We present 12 topics in the data science learning path, providing learning objectives, related skills, subtopics, and references/resources for each. The goal is to give graduate students a structured and comprehensive program to acquire data science expertise, including hands-on experience with real-world open-source tools and libraries.
 
-```
-   eth["`**Ethics**`"] --> ds
-   ds --> stats["`**Statistics**`"]
-   eth --> stats
-   C --> cdci["`**Model Deployment and Productionization**`"]
-   D --> cdci
-   ds --> cdci
-   eth --> C
-   eth --> D
-```
-
 ```mermaid
 timeline
     title History of Social Media Platform
     2002 : LinkedIn
     2004 : Facebook
          : <a href='http://google.com'>Google</a>
-    2005 : Youtube
+    2005 : Youtube 
     2006 : Twitter
+    click Youtube href 'http://www.youtube.com' 'Open'  _blank
 ```
 
 ```mermaid
