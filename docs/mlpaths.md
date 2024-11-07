@@ -221,20 +221,139 @@ timeline
 
 #### 8. Introduction to Deep Learning
 
+??? note "Topic description"
+
+    **Learning Objective**: Develop an understanding of the fundamental concepts and architectures of deep neural networks.
+    
+    **Related Skills**:
+    
+    - Constructing and training feedforward neural networks
+    - Applying convolutional neural networks for image-related tasks
+    - Selecting appropriate activation functions and optimization techniques
+
+    **Subtopics**:
+
+    - Artificial neural networks (ANNs) and their structure
+    - Activation functions (sigmoid, ReLU, tanh)
+    - Feedforward neural networks and their training
+    - Convolutional neural networks (CNNs) for image recognition
+    - Hyperparameter tuning and optimization techniques
+
+    **References and Resources**:
+
+    - "Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
+    - "Deep Learning with Python" by François Chollet
+    - Coursera course "Deep Learning Specialization" by deeplearning.ai
+
 
 #### 9. Recurrent Neural Networks and Sequence Models
+
+??? note "Topic description"
+
+    **Learning Objective**: Understand the principles of recurrent neural networks and their applications in sequence-to-sequence problems.
+
+    **Related Skills**:
+
+    - Implementing LSTM and GRU models for sequence modeling
+    - Applying recurrent neural networks for time series forecasting
+    - Generating text and other sequential data using RNNs
+
+    **Subtopics**:
+    
+    - Recurrent neural networks (RNNs)
+    - Long short-term memory (LSTMs)
+    - Gated recurrent units (GRUs)
+    - Sequence-to-sequence modeling
+    - Time series forecasting with RNNs
+
+    **References and Resources**:
+
+    - "Deep Learning for Time Series Forecasting" by Jason Brownlee
+    - "Natural Language Processing with Python" by Steven Bird et al.
+    - Coursera course "Sequence Models" by deeplearning.ai
 
 
 #### 10. Generative Models
 
+??? note "Topic description"
+
+    **Learning Objective**: Explore generative models and their applications in synthesizing new data.
+    
+    **Related Skills**:
+    
+    - Implementing generative adversarial networks (GANs)
+    - Applying variational autoencoders (VAEs) for image and text generation
+    - Evaluating the performance of generative models
+
+    **Subtopics**:
+    
+    - Generative adversarial networks (GANs)
+    - Variational autoencoders (VAEs)
+    - Generative modeling for images, text, and other data types
+    - Evaluating generative models (Inception Score, FID, BLEU)
+    - Applications of generative models (data augmentation, creative generation)
+
+    **References and Resources**:
+    
+    - "Generative Adversarial Networks" by Ian Goodfellow et al.
+    - "Variational Autoencoders" by Diederik Kingma and Max Welling
+    - Deeplearning.ai course "Generative Adversarial Networks (GANs)"
+
+
 
 #### 11. Transfer Learning and Fine-tuning
+
+??? note "Topic description"
+
+    **Learning Objective**: Understand the principles of transfer learning and how to leverage pre-trained models for various tasks.
+
+    **Related Skills**:
+    
+    - Applying feature extraction with pre-trained models
+    - Finetuning pre-trained models for domain-specific tasks
+    - Evaluating the performance of transfer learning approaches
+
+    **Subtopics**:
+    
+    - Concept of transfer learning
+    - Feature extraction using pre-trained models (e.g., VGG, ResNet, BERT)
+    - Finetuning pre-trained models for specific applications
+    - Domain adaptation and dataset shift
+    - Evaluating transfer learning performance
+
+    **References and Resources**:
+    - "Transfer Learning with Deep Learning" by Sebastian Ruder
+    - "Practical Deep Learning for Cloud, Mobile, and Edge" by Anirudh Koul et al.
+    - Coursera course "Convolutional Neural Networks" by deeplearning.ai
 
 
 ### E: Continuous Development / Continuous Integration 
 
 #### 12. Model Deployment and Productionization
 
+??? note "Topic description"
+
+    **Learning Objective**: Gain knowledge on how to deploy and maintain machine learning models in production environments.
+
+    **Related Skills**:
+    
+    - Containerizing models using Docker
+    - Deploying models on cloud platforms (e.g., AWS, GCP, Azure)
+    - Monitoring and maintaining production models
+
+    **Subtopics**:
+    
+    - Containerization with Docker
+    - Cloud deployment on AWS, GCP, and Azure
+    - Serving models with Flask, FastAPI, or Streamlit
+    - Model monitoring and logging
+    - Continuous integration and deployment (CI/CD) pipelines
+
+    **References and Resources**:
+    
+    - "Deploying Machine Learning Models" by Abhishek Thakur
+    - "Kubernetes in Action" by Marko Lukša
+    - Coursera course "Machine Learning Engineering for Production (MLOps)" by deeplearning.ai
 
 
 ***
