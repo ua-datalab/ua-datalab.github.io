@@ -9,7 +9,7 @@ timeline
     A. General Data Science : 1. Introduction to Data Science and Machine Learning
     	    	 	     : 2. Python for Data Science
 			     : 12. Ethical Considerations in Data Science
-    B. Statistics : 3.Statistical Learning and Regression Models
+    B. Statistics : fa:fa-calculator 3.Statistical Learning and Regression Models
     C. Classical Machine Learning : 4. Classification Algorithms
 				 : 5. Ensemble Methods
 				 : 6. Unsupervised Learning
