@@ -91,18 +91,19 @@ timeline
     - Ensuring fair and equitable decision-making
     - Protecting privacy and data security
 
-   **Subtopics**:
+    **Subtopics**:
    
-   - Bias and fairness in machine learning
-   - Interpretability and explainability of models
-   - Privacy-preserving techniques (differential privacy, federated learning)
-   - Data provenance and provenance tracking
-   - Responsible AI principles and guidelines
+    - Bias and fairness in machine learning
+    - Interpretability and explainability of models
+    - Privacy-preserving techniques (differential privacy, federated learning)
+    - Data provenance and provenance tracking
+    - Responsible AI principles and guidelines
 
-   **References and Resources**:
-   - "Ethical Algorithms" by Michael Kearns and Aaron Roth
-   - "Artificial Intelligence: A Modern Approach" by Stuart Russell and Peter Norvig
-   - Coursera course "AI Ethics" by DeepLearning.AI
+    **References and Resources**:
+
+    - "Ethical Algorithms" by Michael Kearns and Aaron Roth
+    - "Artificial Intelligence: A Modern Approach" by Stuart Russell and Peter Norvig
+    - Coursera course "AI Ethics" by DeepLearning.AI
 
 
 ### B: Statistics
@@ -322,6 +323,7 @@ timeline
     - Evaluating transfer learning performance
 
     **References and Resources**:
+
     - "Transfer Learning with Deep Learning" by Sebastian Ruder
     - "Practical Deep Learning for Cloud, Mobile, and Edge" by Anirudh Koul et al.
     - Coursera course "Convolutional Neural Networks" by deeplearning.ai
