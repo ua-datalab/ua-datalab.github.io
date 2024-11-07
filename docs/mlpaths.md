@@ -4,7 +4,7 @@
 We present 12 topics in the data science learning path, providing learning objectives, related skills, subtopics, and references/resources for each. The goal is to give graduate students a structured and comprehensive program to acquire data science expertise, including hands-on experience with real-world open-source tools and libraries.
 
 ```mermaid
-   flowchart TB
+flowchart TB
    eth["`**Ethics**`"] --> ds
    ds --> stats["`**Statistics**`"]
    eth --> stats
@@ -15,7 +15,7 @@ We present 12 topics in the data science learning path, providing learning objec
    class["`**4.Classification Algorithms**`"] --> ensemble["`**5. Ensemble Methods**`"] --> UL["`**6. Unsupervised Learning**`"]
    end
    subgraph D ["`**Deep Learning**`"]
-   introdl["`**Intro to Deep Learning**`"] --> RNN["`**Recurrent Neural Networks and Sequence Models**`"] --> Gen["`**Generative Models**`"]  --> TL["`**Transfer Learning anf Fine Tuning**`"]
+   introdl["`**Intro to Deep Learning**`"] --> RNN["`**Recurrent Neural Networks and Sequence Models**`"] --> Gen["`**Generative Models**`"]  --> TL["`**Transfer Learning and Fine Tuning**`"]
    end
    C --> cdci["`**Model Deployment and Productionization**`"]
    D --> cdci
