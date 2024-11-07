@@ -107,6 +107,7 @@ Next you will find five specialized data science learning paths that branch off 
 
 
 ```mermaid
+  title: Branching subtopics related with type of data analyzed and model build
   flowchart LR;
       A@{shape:processes, label: "Data types"}-->B["`**Working with Numeric and Categorical Data**`"];
       A-->C["`**Computer Vision and Image-based Learning**`"];
