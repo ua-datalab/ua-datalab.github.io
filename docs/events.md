@@ -1,4 +1,6 @@
 
+![WordCloud](images/DataLab_WordCloud2.png)
+
 ## Your DataLab friendly weekly remainder! :alarm_clock:
 
 ###  :placard: [The University of Arizona DataLab Workshops](https://www.datascience.arizona.edu/education/uarizona-data-lab) Fall 2024
