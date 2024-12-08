@@ -1,5 +1,5 @@
 
-![WordCloud](images/DataLab_WordCloud2.png)
+![WordCloud](images/DataLab_WordCloud3.png)
 
 ## Your DataLab friendly weekly remainder! :alarm_clock:
 
