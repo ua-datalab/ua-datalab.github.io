@@ -20,7 +20,6 @@
 * [Eung-Joo Lee](https://ece.engineering.arizona.edu/faculty-staff/faculty/eung-joo-lee). Electrical & Computer Engineering. 
 * [Nirav Merchant](https://www.datascience.arizona.edu/person/nirav-merchant). Data Science Institute.
 * [Maliaca Oxnam](https://www.datascience.arizona.edu/person/maliaca-oxnam). Data Science Institute.
-* [Ajay Perumbeti](https://www.linkedin.com/in/ajay-perumbeti-62019514/). College of Medicine-Phoenix.
 * [Rudy G. Salcido](https://www.datascience.arizona.edu/person/rudy-salcido). Data Science Institute.
 * [Tyson Swetnam](https://datainsight.arizona.edu/person/tyson-swetnam). Institute for Computation & Data-Enabled Insight / CyVerse. 
 * [Chicheng Zhang](https://www.cs.arizona.edu/person/chicheng-zhang). Computer Science.
