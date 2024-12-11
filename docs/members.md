@@ -5,6 +5,7 @@
 
 * [Michele Cosi](https://www.datascience.arizona.edu/person/michele-cosi). Data Science Institute / CyVerse.
 * [Jeff Gillan](https://www.datascience.arizona.edu/person/jeffrey-gillan). Data Science Institute /  CyVerse.
+* [Nick Eddy](https://www.datascience.arizona.edu/person/nick-eddy). Data Science Institute. 
 * [Carlos Lizárraga](https://www.datascience.arizona.edu/person/carlos-lizarraga). Data Science Institute.
 * [Enrique Noriega](https://www.cs.arizona.edu/person/enrique-noriega-atala). Data Science Institute.
 * [Mithun Paul](https://www.datascience.arizona.edu/person/mithun-paul). Data Science Institute.
