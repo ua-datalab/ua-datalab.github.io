@@ -30,15 +30,15 @@ Please join us in-person at the **Weaver Science & Engineering Library Room 212*
 %%{init: { 'logLevel': 'debug', 'theme': 'base' } }%%
 timeline
     title U of A DataLab Workshops Spring 2025
-    **Tuesday** : Research Productivity
+    Tuesday : Research Productivity
     	    : Classical Machine Learning
 	    : Fundamental Skills for Open Science
 	    : AI Makerspace 
-    **Wednesday** : Data Science Tapas
-    **Thursday** : NLP for All
+    Wednesday : Data Science Tapas
+    Thursday : NLP for All
     	     : Mastering GenAI Applications
     	     : Bioinformatics
-    **Friday** : CyVerse Office Hours
+    Friday : CyVerse Office Hours
     	   : CyVerse Webinars
 ```
 
