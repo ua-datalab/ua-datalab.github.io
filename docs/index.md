@@ -31,10 +31,10 @@ timeline
     Tuesday : Research Productivity
     	    : Classical Machine Learning
 	    : Functional Open Source Skills
-	    : AI Makerspace
+	    : AI Makerspace 
     Wednesday : Data Science Tapas
     Thursday : NLP for All
-    	     : Mastering GenAi Applications
+    	     : Mastering GenAI Applications
     	     : Bioinformatics
     Friday : CyVerse Office Hours
     	   : CyVerse Webinar
