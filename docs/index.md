@@ -53,17 +53,17 @@ timeline
 * [Research Productivity](https://github.com/ua-datalab/ResearchProductivity/blob/main/README.md). Rudy Salcido. :black_nib: :chart_with_upwards_trend: (Virtual only): I. Tuesday Jan 28, 10:00 - 11:30 AM; II.   Thursday Feb 20, 10:00-11:30AM; III. Tuesday Mar 18 10:00-11:30 AM. 
 
 
-### Previous DataLab workshops
+### Previous DataLab workshops learning resources
 
 * [Advanced AI for Healthcare](https://github.com/ua-datalab/ai-healthcare/tree/main). Greg Chism.
-* [Craking the Coding Interview](https://github.com/ua-datalab/cracking_the_coding_interview)
-* [Data Engineering Technologies](https://github.com/ua-datalab/DataEngineering)
-* [Deep Learning](https://github.com/ua-datalab/DLWorkshops/wiki)
-* [Graph Machine Learning](https://github.com/ua-datalab/GraphML)
-* [Introduction to Data Science](https://github.com/ua-datalab/Workshops/wiki)
+* [Craking the Coding Interview](https://github.com/ua-datalab/cracking_the_coding_interview). Mithun Paul.
+* [Data Engineering Technologies](https://github.com/ua-datalab/DataEngineering). Shashank Yadav. 
+* [Deep Learning](https://github.com/ua-datalab/DLWorkshops/wiki). Mithun Paul.
+* [Graph Machine Learning](https://github.com/ua-datalab/GraphML). Shashank Yadav. 
+* [Introduction to Data Science](https://github.com/ua-datalab/Workshops/wiki). Carlos Lizárraga, Megh Krsihnaswamy.
 * [NextGen Geospatial](https://github.com/ua-datalab/Geospatial_Workshops/wiki). Jeff Gillan.  
-* [Neural Networks](https://github.com/ua-datalab/NeuralNetworks/wiki)
-* [Prompt Engineering & AI Application Deployment - GPT 101](https://ua-data7.github.io/introllms/)
+* [Neural Networks](https://github.com/ua-datalab/NeuralNetworks/wiki). Brenda Huppenthal, Megh Krishnaswamy, Carlos Lizárraga.
+* [Prompt Engineering & AI Application Deployment - GPT 101](https://ua-data7.github.io/introllms/). Tyson Swetnam. 
 
 ## University of Arizona HPC
 
