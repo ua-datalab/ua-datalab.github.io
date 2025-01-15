@@ -52,7 +52,7 @@ timeline
 * [Fundamental Skills for Open Science](https://github.com/ua-datalab/FunctionalOpenSourceSkills/wiki). Michele Cosi, Carlos Lizárraga, Enrique Noriega, Leonardo Soto Hernandez. :microscope: :dna: :herb:  Tuesdays 2:00 - 3:00 PM.
 * [Mastering Generative AI Applications](https://github.com/ua-datalab/Generative-AI/wiki).  Nick Eddy, Carlos Lizárraga, Enrique Noriega. :robot: :thought_balloon: Thursdays 1:00 - 2:00 PM.
 * [Natural Language Processing for All](https://github.com/ua-datalab/NLP-Speech).  Megh Krishnaswamy, Mithun Paul.  :robot: :speech_balloon:  Thursdays 12:00 - 1:00 PM.
-* [Research Productivity](https://github.com/ua-datalab/ResearchProductivity/blob/main/README.md). Rudy Salcido. :black_nib: :chart_with_upwards_trend: (Virtual only): P1)  Tuesday Jan 28, 10:00 - 11:30 AM; P2)   Thursday Feb 20, 10:00-11:30AM; P3) Tuesday Mar 18 10:00-11:30 AM. 
+* [Research Productivity](https://github.com/ua-datalab/ResearchProductivity/blob/main/README.md). Rudy Salcido. :black_nib: :chart_with_upwards_trend: (Virtual only): P1)  Tuesday Jan 28, 11:30 - 1:00 PM; P2)   Thursday Feb 20, 10:00-11:30AM; P3) Tuesday Mar 18 10:00-11:30 AM. 
 
 
 ### Previous DataLab workshops learning resources
