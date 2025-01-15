@@ -13,35 +13,36 @@ Our workshops focus on promoting Data Science Literacy among the university comm
 
 ***
 
-# 2024 Workshops
+# 2025 Workshops
 
 Are you interested in improving your professional skills in data analytics tools, methods, scientific analysis and statistics?
 
-The [University of Arizona DataLab](https://www.datascience.arizona.edu/education/uarizona-data-lab) team invites you to attend our weekly Workshops. All sessions are conducted in hybrid mode. Please join us in-person at the Weaver Science & Engineering Library Room 212, or join via Zoom: [**874 3375 8439**](https://arizona.zoom.us/s/87433758439)
+The [University of Arizona DataLab](https://www.datascience.arizona.edu/education/uarizona-data-lab) team invites you to attend our weekly Workshops. All sessions are conducted in hybrid mode. Please join us in-person at the Weaver Science & Engineering Library Room 212, or join via Zoom: [**896 6708 1542**](https://arizona.zoom.us/j/89667081542)
 
 
 ## Notes and code repositories  
 
-### University of Arizona DataLab Fall 2024 workshops and training materials (Sep-Oct 2024).
+### University of Arizona DataLab Spring 2025 workshops and training materials (Jan-Mar 2025).
 
-* [AI Makerspace](https://github.com/ua-datalab/AI-Makerspace). Enrique Noriega, Mithun Paul. :toolbox: :hammer_and_wrench: :robot: (Virtual only) Fridays 3-4PM. 
-* [Advanced AI for Healthcare](https://github.com/ua-datalab/ai-healthcare/tree/main). Greg Chism. :robot: :hospital: (Virtual only) Thursdays 1-2PM. 
-* [Bioinformatics & Genomics](https://github.com/ua-datalab/Bioinformatics/wiki). Michele Cosi, Carlos Lizárraga. :dna: :microscope: Tuesdays 3-4PM.  
-* [Exploring the LLM Frontier](https://github.com/ua-datalab/Generative-AI/wiki).  Carlos Lizárraga, Enrique Noriega. :robot: :thought_balloon: Thursdays 2-3PM.
-* [Natural Language Processing for All](https://github.com/ua-datalab/NLP-Speech).  Megh Krishnaswamy, Mithun Paul.  :robot: :speech_balloon:  Thursdays 3-4PM.
-* [NextGen Geospatial](https://github.com/ua-datalab/Geospatial_Workshops/wiki). Jeff Gillan.  :earth_americas: :rocket: Tuesdays 2-3PM.
-* [Research Productivity](https://www.datascience.arizona.edu/education/arizona-data-lab/research-productivity). Rudy Salcido. :black_nib: :chart_with_upwards_trend: (Virtual only) Wednesdays, 1:00 - 2:30 PM, Sep 18 - Oct 30, 2024. 
+* [AI Makerspace](https://github.com/ua-datalab/AI-Makerspace). Enrique Noriega, Carlos Lizárraga :toolbox: :hammer_and_wrench: :robot: In person consultations: Tuesdays 3:30 - 4:30 PM @ [Snakes & Lattes Tucson](https://www.snakesandlattes.com/tucson) (988 E University Blvd, Tucson, AZ). 
+* [Bioinformatics](https://github.com/ua-datalab/Bioinformatics/wiki). Michele Cosi, Carlos Lizárraga. :dna: :microscope: Thursdays 2:00 - 3:00 PM.  
+* [Classical Machine Learning](https://github.com/ua-datalab/MLWorkshops/wiki). Carlos Lizárraga. Tuesdays 1:00 - 2:00 PM.
+* [Data Science Tapas](https://github.com/ua-datalab/DataScience-Tapas/blob/main/README.md). Every other Wednesday 1:00 - 2:00 PM.
+* [Fundamental Skills for Open Science](https://github.com/ua-datalab/FunctionalOpenSourceSkills/wiki). Michele Cosi, Carlos Lizárraga, Enrique Noriega. Tuesdays 2:00 - 3:00 PM.
+* [Mastering Generative AI Applications](https://github.com/ua-datalab/Generative-AI/wiki).  Nick Eddy, Carlos Lizárraga, Enrique Noriega. :robot: :thought_balloon: Thursdays 1:00 - 2:00 PM.
+* [Natural Language Processing for All](https://github.com/ua-datalab/NLP-Speech).  Megh Krishnaswamy, Mithun Paul.  :robot: :speech_balloon:  Thursdays 12:00 - 1:00 PM.
+* [Research Productivity](https://github.com/ua-datalab/ResearchProductivity/blob/main/README.md). Rudy Salcido. :black_nib: :chart_with_upwards_trend: (Virtual only): I. Tuesday Jan 28, 10:00 - 11:30 AM; II.   Thursday Feb 20, 10:00-11:30AM; III. Tuesday Mar 18 10:00-11:30 AM. 
 
 
 ### Previous DataLab workshops
 
-* [Classical Machine Learning](https://github.com/ua-datalab/MLWorkshops/wiki)
+* [Advanced AI for Healthcare](https://github.com/ua-datalab/ai-healthcare/tree/main). Greg Chism.
 * [Craking the Coding Interview](https://github.com/ua-datalab/cracking_the_coding_interview)
 * [Data Engineering Technologies](https://github.com/ua-datalab/DataEngineering)
-* [Data Science Tapas](https://github.com/ua-datalab/DataScienceTapas/wiki)
 * [Deep Learning](https://github.com/ua-datalab/DLWorkshops/wiki)
 * [Graph Machine Learning](https://github.com/ua-datalab/GraphML)
 * [Introduction to Data Science](https://github.com/ua-datalab/Workshops/wiki)
+* [NextGen Geospatial](https://github.com/ua-datalab/Geospatial_Workshops/wiki). Jeff Gillan.  
 * [Neural Networks](https://github.com/ua-datalab/NeuralNetworks/wiki)
 * [Prompt Engineering & AI Application Deployment - GPT 101](https://ua-data7.github.io/introllms/)
 
