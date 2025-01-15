@@ -24,7 +24,7 @@ The [University of Arizona DataLab](https://www.datascience.arizona.edu/educatio
 
 ### University of Arizona DataLab Spring 2025 workshops and training materials (Jan-Mar 2025).
 
-
+```mermaid
 timeline
     title U of A DataLab Workshops
     Tuesday : Research Productivity
@@ -34,7 +34,11 @@ timeline
     Wednesday : Data Science Tapas
     Thursday : NLP for All
     	     : Mastering GenAi Applications
-	     : Bioinformatics
+    	     : Bioinformatics
+    Friday : CyVerse Office Hours
+    	   : CyVerse Webinar
+```
+
 
 ***
 
