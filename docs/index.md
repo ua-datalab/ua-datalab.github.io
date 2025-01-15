@@ -32,7 +32,7 @@ timeline
     title U of A DataLab Workshops S2025
     Tuesday : Research Productivity
     	    : Classical Machine Learning
-	    : Functional Open Source Skills
+	    : Fundamental Skills for Open Science
 	    : AI Makerspace 
     Wednesday : Data Science Tapas
     Thursday : NLP for All
