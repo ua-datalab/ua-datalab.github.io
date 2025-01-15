@@ -47,7 +47,7 @@ timeline
 * [Bioinformatics](https://github.com/ua-datalab/Bioinformatics/wiki). Michele Cosi, Carlos Lizárraga. :dna: :microscope: Thursdays 2:00 - 3:00 PM.  
 * [Classical Machine Learning](https://github.com/ua-datalab/MLWorkshops/wiki). Carlos Lizárraga. :man_technologist: :woman_technologist:  Tuesdays 1:00 - 2:00 PM.
 * [Data Science Tapas](https://github.com/ua-datalab/DataScience-Tapas/blob/main/README.md). :woman_scientist: :scientist: :bar_chart:  Every other Wednesday 1:00 - 2:00 PM.
-* [Fundamental Skills for Open Science](https://github.com/ua-datalab/FunctionalOpenSourceSkills/wiki). Michele Cosi, Carlos Lizárraga, Enrique Noriega. :microscope: :dna: :herb:  Tuesdays 2:00 - 3:00 PM.
+* [Fundamental Skills for Open Science](https://github.com/ua-datalab/FunctionalOpenSourceSkills/wiki). Michele Cosi, Carlos Lizárraga, Enrique Noriega, Leonardo Soto Hernandez :microscope: :dna: :herb:  Tuesdays 2:00 - 3:00 PM.
 * [Mastering Generative AI Applications](https://github.com/ua-datalab/Generative-AI/wiki).  Nick Eddy, Carlos Lizárraga, Enrique Noriega. :robot: :thought_balloon: Thursdays 1:00 - 2:00 PM.
 * [Natural Language Processing for All](https://github.com/ua-datalab/NLP-Speech).  Megh Krishnaswamy, Mithun Paul.  :robot: :speech_balloon:  Thursdays 12:00 - 1:00 PM.
 * [Research Productivity](https://github.com/ua-datalab/ResearchProductivity/blob/main/README.md). Rudy Salcido. :black_nib: :chart_with_upwards_trend: (Virtual only): I. Tuesday Jan 28, 10:00 - 11:30 AM; II.   Thursday Feb 20, 10:00-11:30AM; III. Tuesday Mar 18 10:00-11:30 AM. 
@@ -60,14 +60,14 @@ timeline
 * [Data Engineering Technologies](https://github.com/ua-datalab/DataEngineering). Shashank Yadav. 
 * [Deep Learning](https://github.com/ua-datalab/DLWorkshops/wiki). Mithun Paul.
 * [Graph Machine Learning](https://github.com/ua-datalab/GraphML). Shashank Yadav. 
-* [Introduction to Data Science](https://github.com/ua-datalab/Workshops/wiki). Carlos Lizárraga, Megh Krsihnaswamy.
-* [NextGen Geospatial](https://github.com/ua-datalab/Geospatial_Workshops/wiki). Jeff Gillan.  
+* [Introduction to Data Science](https://github.com/ua-datalab/Workshops/wiki). Carlos Lizárraga, Megh Krishnaswamy.
 * [Neural Networks](https://github.com/ua-datalab/NeuralNetworks/wiki). Brenda Huppenthal, Megh Krishnaswamy, Carlos Lizárraga.
+* [NextGen Geospatial](https://github.com/ua-datalab/Geospatial_Workshops/wiki). Jeff Gillan.  
 * [Prompt Engineering & AI Application Deployment - GPT 101](https://ua-data7.github.io/introllms/). Tyson Swetnam. 
 
 ## University of Arizona HPC
 
-* [HPC Fall 2024 Workshops Calendar](https://hpcdocs.hpc.arizona.edu/events/calendar/)
+* [HPC Workshops Calendar](https://hpcdocs.hpc.arizona.edu/events/calendar/)
 * [HPC Workshops and Training Materials](https://hpcdocs.hpc.arizona.edu/events/workshop_materials/)
 * [HPC Documentation](https://hpcdocs.hpc.arizona.edu/)
 
@@ -80,7 +80,7 @@ timeline
 
 ****
 
-## Other resources
+## Other learning resources
 
 * [Previous Data Science Institute Workshops](https://workshops-uad7.github.io/)
 * [Data Science Learning Resources wiki](https://github.com/ua-data7/LearningResources/wiki)
@@ -93,7 +93,6 @@ timeline
 
 * [Github](https://github.com/ua-datalab)
 * [Linkedin](https://www.linkedin.com/company/100483432/admin/feed/posts/)
-* [Twitter/X](https://twitter.com/UArizonaDataLab)
 * [Facebook Page](https://www.facebook.com/profile.php?id=61556132138807)
 * Workshop videorecordings [YouTube Channel](https://www.youtube.com/@UArizonaDataLab)
 * Questions / Contact Us: UA Data Science Slack (uadatascience.slack.com) `#datalab-chatter`
