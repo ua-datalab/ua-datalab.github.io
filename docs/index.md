@@ -66,7 +66,7 @@ timeline
 * [Neural Networks](https://github.com/ua-datalab/NeuralNetworks/wiki). Brenda Huppenthal, Megh Krishnaswamy, Carlos Lizárraga.
 * [NextGen Geospatial](https://github.com/ua-datalab/Geospatial_Workshops/wiki). Jeff Gillan.  
 * [Prompt Engineering & AI Application Deployment - GPT 101](https://ua-data7.github.io/introllms/). Tyson Swetnam. 
-* [Previous Data Science Institute Workshops](https://workshops-uad7.github.io/)
+* [Previous Data Science Institute Workshops](https://workshops-uad7.github.io/). Carlos Lizárraga. 
 
 ## University of Arizona HPC
 
