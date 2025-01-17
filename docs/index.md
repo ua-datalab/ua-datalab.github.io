@@ -46,7 +46,7 @@ timeline
 ***
 
 * [AI Makerspace](https://github.com/ua-datalab/AI-Makerspace). Enrique Noriega, Carlos Lizárraga. :toolbox: :hammer_and_wrench: :robot: In person consultations: Tuesdays 3:30 - 4:30 PM @ [Snakes & Lattes Tucson](https://www.snakesandlattes.com/tucson) (988 E University Blvd, Tucson, AZ). 
-* [Bioinformatics](https://github.com/ua-datalab/Bioinformatics/wiki). Michele Cosi, Clement Remi, Francesca Vitali, Simona Merlini. :dna: :microscope: Thursdays 2:00 - 3:00 PM.  
+* [Bioinformatics](https://github.com/ua-datalab/Bioinformatics/wiki). Michele Cosi, Clement Goubert, Francesca Vitali, Simona Merlini. :dna: :microscope: Thursdays 2:00 - 3:00 PM.  
 * [Classical Machine Learning](https://github.com/ua-datalab/MLWorkshops/wiki). Carlos Lizárraga. :man_technologist: :woman_technologist:  Tuesdays 1:00 - 2:00 PM.
 * [Data Science Tapas](https://github.com/ua-datalab/DataScience-Tapas/blob/main/README.md). :woman_scientist: :scientist: :bar_chart:  Every other Wednesday 1:00 - 2:00 PM.
 * [Fundamental Skills for Open Science](https://github.com/ua-datalab/FunctionalOpenSourceSkills/wiki). Michele Cosi, Carlos Lizárraga, Enrique Noriega, Leonardo Soto Hernandez. :microscope: :dna: :herb:  Tuesdays 2:00 - 3:00 PM.
