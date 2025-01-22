@@ -46,6 +46,8 @@ timeline
     	   : CyVerse Webinars
 ```
 
+(*) This three-session series will be offered twice in Spring 2025.
+(**) Happening every other Wednesday.
 
 ***
 
