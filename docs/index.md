@@ -32,8 +32,8 @@ timeline
     title U of A DataLab Workshops Spring 2025
     Tuesday : Research Productivity
     	    : Classical Machine Learning
-	    : Fundamental Skills for Open Science
-	    : AI Makerspace 
+	    : Functional Open Science Skills for AI/ML Applications
+	    : AI Makerspace Meet Up
     Wednesday : Data Science Tapas
     Thursday : NLP for All
     	     : Mastering GenAI Applications
