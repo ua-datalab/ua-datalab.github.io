@@ -29,7 +29,7 @@ Please join us in-person at the **Weaver Science & Engineering Library Room 212*
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'base' } }%%
 timeline
-    title U of A DataLab Workshops Schedule for Spring 2025
+    title U of A DataLab Workshops Spring 2025
     Tuesday : Research Productivity (†)
     	    : Classical Machine Learning
 	    : Functional Open Science Skills for AI/ML Applications
