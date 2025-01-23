@@ -37,7 +37,7 @@ timeline
     Wednesday : Data Science Tapas (††)
     Thursday : Research Productivity (†)
     	     : NLP for All
-    	     : Mastering GenAI Applications
+    	     : Mastering Generative AI Foundation Models for Research
     	     : Bioinformatics
     Friday : CyVerse Office Hours (†††)
     	   : CyVerse Webinars (†††)
@@ -54,7 +54,7 @@ timeline
 * [Classical Machine Learning](https://github.com/ua-datalab/MLWorkshops/blob/main/README.md). Carlos Lizárraga. :man_technologist: :woman_technologist:  Tuesdays 1:00 - 2:00 PM.
 * [Data Science Tapas](https://github.com/ua-datalab/DataScience-Tapas/blob/main/README.md). :woman_scientist: :scientist: :bar_chart:  Every other Wednesday 1:00 - 2:00 PM.
 * [Functional Open Science  Skills for AI/ML Applications](https://github.com/ua-datalab/FunctionalOpenSourceSkills/wiki). Michele Cosi, Carlos Lizárraga, Enrique Noriega, Leonardo Soto Hernandez. :microscope: :dna: :herb:  Tuesdays 2:00 - 3:00 PM.
-* [Mastering Generative AI Applications](https://github.com/ua-datalab/Generative-AI/blob/main/README.md).  Nick Eddy, Enrique Noriega. :robot: :thought_balloon: Thursdays 1:00 - 2:00 PM.
+* [Mastering Generative AI Foundation Models for Research](https://github.com/ua-datalab/Generative-AI/blob/main/README.md).  Nick Eddy, Enrique Noriega. :robot: :thought_balloon: Thursdays 1:00 - 2:00 PM.
 * [Natural Language Processing for All](https://github.com/ua-datalab/NLP-Speech/blob/main/README.md).  Megh Krishnaswamy, Mithun Paul.  :robot: :speech_balloon:  Thursdays 12:00 - 1:00 PM.
 * [Research Productivity](https://github.com/ua-datalab/ResearchProductivity/blob/main/README.md). Rudy Salcido. :black_nib: :chart_with_upwards_trend: (Virtual only): P1)  Tuesday Jan 28, 11:30 - 1:00 PM; P2)   Thursday Feb 20, 10:00-11:30AM; P3) Tuesday Mar 18 10:00-11:30 AM. 
 
