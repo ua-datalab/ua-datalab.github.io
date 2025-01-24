@@ -7,7 +7,7 @@ Join us for an exciting series of hands-on workshops and learning opportunities!
 
 ### :placard: Spring 2025 [U of A DataLab Workshops](https://www.datascience.arizona.edu/education/uarizona-data-lab)
 
-Interested in enhancing your proficiency with AI/ML tools, foundation models, and methodologies? The U of A DataLab team invites you to join our weekly workshops. [REGISTER for the workshop](https://datascience.arizona.edu/education/uarizona-data-lab) and join us for the workshop sessions that interest you.
+Interested in enhancing your proficiency with AI/ML tools, foundation models, and methodologies? The U of A DataLab team invites you to join our weekly workshops. [REGISTER for the workshop](https://datascience.arizona.edu/education/uarizona-data-lab) and join us for the workshop sessions that interest you. The workshops are open and free.
 
 Unless otherwise noted, workshop sessions are held at the **Weaver Science & Engineering Library, room 212** or via **Zoom** – register for Zoom link.
 
