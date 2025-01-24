@@ -101,6 +101,7 @@ timeline
 * [Github](https://github.com/ua-datalab)
 * [Linkedin](https://www.linkedin.com/company/100483432/admin/feed/posts/)
 * [Facebook Page](https://www.facebook.com/profile.php?id=61556132138807)
+* [Bluesky Social](https://bsky.app/profile/uarizonadatalab.bsky.social)
 * Workshop videorecordings [YouTube Channel](https://www.youtube.com/@UArizonaDataLab)
 * Questions / Contact Us: UA Data Science Slack (uadatascience.slack.com) `#datalab-chatter`
 
