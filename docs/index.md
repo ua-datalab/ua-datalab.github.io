@@ -52,6 +52,9 @@ timeline
 * [AI Makerspace Meet-Up](https://github.com/ua-datalab/AI-Makerspace/blob/main/README.md). Enrique Noriega, Carlos Lizárraga. :toolbox: :hammer_and_wrench: :robot: Meet-Ups: Tuesdays 3:30 - 4:30 PM @ [Snakes & Lattes Tucson](https://www.snakesandlattes.com/tucson) (988 E University Blvd, Tucson, AZ). 
 * [Bioinformatics & Genomics](https://github.com/ua-datalab/Bioinformatics/wiki). Michele Cosi, Clement Goubert, Francesca Vitali, Simona Merlini. :dna: :microscope: Thursdays 2:00 - 3:00 PM.  
 * [Classical Machine Learning](https://github.com/ua-datalab/MLWorkshops/blob/main/README.md). Carlos Lizárraga. :man_technologist: :woman_technologist:  Tuesdays 1:00 - 2:00 PM.
+* [CyVerse Office Hours]((https://learning.cyverse.org/) 
+[[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_d0F8WzR8CjuF6Qe)] - [BSRL
+Lobby](https://bsrl.arizona.edu/)
 * [Data Science Tapas](https://github.com/ua-datalab/DataScience-Tapas/blob/main/README.md). :woman_scientist: :scientist: :bar_chart:  Every other Wednesday 1:00 - 2:00 PM.
 * [Functional Open Science  Skills for AI/ML Applications](https://github.com/ua-datalab/FunctionalOpenSourceSkills/wiki). Michele Cosi, Carlos Lizárraga, Enrique Noriega, Leonardo Soto Hernandez. :microscope: :dna: :herb:  Tuesdays 2:00 - 3:00 PM.
 * [Mastering Generative AI Foundation Models for Research](https://github.com/ua-datalab/Generative-AI/blob/main/README.md).  Nick Eddy, Enrique Noriega. :robot: :thought_balloon: Thursdays 1:00 - 2:00 PM.
