@@ -16,6 +16,7 @@
 * [Andrew Bennett](https://has.arizona.edu/person/andrew-bennett). Hydrology and Atmospheric Sciences.
 * [Angela Cruze](https://datainsight.arizona.edu/person/angela-cruze). Institute for Computation & Data-Enabled Insight. 
 * [Chi-Kwan Chan](https://www.as.arizona.edu/people/faculty/chi-kwan-chan). Astronomy and Stewards Observatory.
+* [Devin Bayly](https://campuschampions.cyberinfrastructure.org/user/devin-bayly-0). Research Technologies. 
 * [Greg Chism](https://ischool.arizona.edu/person/greg-chism). School of Information.
 * [Tina L. Johnson](https://www.datascience.arizona.edu/person/tina-l-johnson). Data Science Institute.
 * [Eung-Joo Lee](https://ece.engineering.arizona.edu/faculty-staff/faculty/eung-joo-lee). Electrical & Computer Engineering. 
