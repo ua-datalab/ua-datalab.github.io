@@ -27,7 +27,7 @@ Find all U of A DataLab workshop series and sessions on the [Data Science Instit
 
 1:00 PM - 2:00 PM [Mastering GenAI Foundation Models for Research](https://github.com/ua-datalab/Generative-AI/blob/main/README.md) [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_0wWiJ946ta9ExzE)]
 
-2:00 PM - 3:00 PM [Bioinformatics](https://github.com/ua-datalab/Bioinformatics/wiki) [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_eUHXcEqBSFo44d0)]
+2:00 PM - 3:00 PM [Bioinformatics & Genomics](https://github.com/ua-datalab/Bioinformatics/wiki) [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_eUHXcEqBSFo44d0)]
 
 #### :pushpin: Friday Jan. 31st
 10:00 AM - 11:00 [AM CyVerse Office Hours](https://github.com/ua-datalab/Bioinformatics/wiki)  [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_d0F8WzR8CjuF6Qe)] - [BSRL Lobby](https://bsrl.arizona.edu/)
