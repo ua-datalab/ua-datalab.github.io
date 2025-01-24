@@ -32,8 +32,15 @@ Find all U of A DataLab workshop series and sessions on the [Data Science Instit
 #### :pushpin: Friday Jan. 31st
 10:00 AM - 11:00 [AM CyVerse Office Hours](https://github.com/ua-datalab/Bioinformatics/wiki)  [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_d0F8WzR8CjuF6Qe)] - [BSRL Lobby](https://bsrl.arizona.edu/)
  
-Questions / Contact: Please join the [UA Data Science Slack channel](https://uadatascience.slack.com/#datalab-chatter) #datalab-chatter or the workshop presenter.
-Additional resources:  [U of A DataLab GitHub repository](https://ua-datalab.github.io/). Watch previous U of A DataLab workshops on our [UArizona DataLab YouTube Channel](https://www.youtube.com/@UArizonaDataLab/playlists).
+Questions / Contact: Please join the [UA Data Science Slack channel](https://uadatascience.slack.com/#datalab-chatter)
+```
+#datalab-chatter
+```
+or the workshop presenter.
+
+Additional resources:  [U of A DataLab GitHub repository](https://ua-datalab.github.io/).
+
+Watch previous U of A DataLab workshops on our [UArizona DataLab YouTube Channel](https://www.youtube.com/@UArizonaDataLab/playlists).
 
 **We look forward to seeing you at the workshops. Register soon!**
 
