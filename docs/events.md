@@ -3,43 +3,44 @@
 
 ## Your DataLab friendly weekly remainder! :alarm_clock:
 
-###  :placard: [The University of Arizona DataLab Workshops](https://www.datascience.arizona.edu/education/uarizona-data-lab) Fall 2024
+Join us for an exciting series of hands-on workshops and learning opportunities!                    
 
-In collaboration with the Wheeler and Vitali Labs, the DataLab is proud to present four advanced bioinformatics workshops covering key techniques in genomics and transcriptomics.
+### :placard: Spring 2025 [U of A DataLab Workshops](https://www.datascience.arizona.edu/education/uarizona-data-lab)
 
-These workshops provide training in:
-- Identifying and annotating transposable elements;
-- Building genome-graphs for structural variation analysis;
-- Processing RNA-Seq data in R to identify differential gene expression;
-- Performing Gene Set Enrichment and Protein-Protein Interaction.
-Each session offers practical applications and discussion on the latest tools in bioinformatics research.
+Interested in enhancing your proficiency with AI/ML tools, foundation models, and methodologies? The U of A DataLab team invites you to join our weekly workshops. [REGISTER for the workshop](https://datascience.arizona.edu/education/uarizona-data-lab) and join us for the workshop sessions that interest you.
 
-:pushpin: **Tuesday Nov 12 at the Albert B. Weaver Science-Engineering Library (Learning Studio, room 212)**, or join online via Zoom.
+Unless otherwise noted, workshop sessions are held at the **Weaver Science & Engineering Library, room 212** or via **Zoom** – register for Zoom link.
 
-* [De-novo Detection and Annotation of Transposable Elements](https://datascience.arizona.edu/events/de-novo-detection-and-annotation-transposable-elements) (2-3pm)
-* [RNA-Seq Data Analysis in R: From Raw Counts to Differential Expression Analysis](https://datascience.arizona.edu/events/rna-seq-data-analysis-r-raw-counts-differential-expression-analysis) (3-4pm) 
+Find all U of A DataLab workshop series and sessions on the [Data Science Institute calendar events](s://www.datascience.arizona.edu/calendar).
 
-:pushpin: **Tuesday Nov 19 at the Main Library (Learning Studio CATalyst, room B252)**, or join online via Zoom.
+#### :pushpin: Tuesday Jan. 28th
+11:30 AM - 1:00 PM. [Leadership through Project Management: Team Culture Tips for Successful Research Projects](https://github.com/ua-datalab/ResearchProductivity/blob/main/README.md) (Zoom only). [[Register for Zoom link](https://uarizona.co1.qualtrics.com/survey-builder/SV_cw3FdoEFy1SSp26)]
 
-* [Building a Pangenome and Analysis of Structural Variation](https://datascience.arizona.edu/events/building-pangenome-and-analysis-structural-variation) (2-3pm) 
-* [Downstream Analysis of RNA-Seq Results in R: GSEA, PPI Networks, and Biological Interpretation](https://datascience.arizona.edu/events/downstream-analysis-rna-seq-results-r-gsea-ppi-networks-and-biological-interpretation) (3-4pm)
+1:00 PM - 2:00 PM. [Classical Machine Learning](https://github.com/ua-datalab/MLWorkshops/blob/main/README.md). [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_0CyWx6D43C7ZsmG)]
 
-:email:  Please contact Michele Cosi (cosi@arizona.edu) for further information.
+2:00 PM - 3:00 PM. [Functional Open Science Skills for AI/ML Applications](https://github.com/ua-datalab/FunctionalOpenSourceSkills/wiki). [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_cI55gABtcr9GjfE)]
 
-:computer: Want to level up your skills in AI/Machine Learning tools and methods?
+3:30 PM - 4:30 PM. AI Makerspace Meet Up. [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_5mRIgo8t54wO3Ii)]
 
-:pushpin: Friday Nov 8
+#### :pushpin: Thursday Jan. 30th
+12:00 PM - 1:00 PM [NLP for All](https://github.com/ua-datalab/NLP-Speech/blob/main/README.md)  [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_3pEBKSiN4ejcY86)]
 
-3-4pm: :round_pushpin: :new: [AI Makerspace](https://www.datascience.arizona.edu/education/u-datalab/ai-makerspace). Zoom only.
+1:00 PM - 2:00 PM [Mastering GenAI Foundation Models for Research](https://github.com/ua-datalab/Generative-AI/blob/main/README.md) [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_0wWiJ946ta9ExzE)]
 
-Questions / Contact: Please join the [UA Data Science Slack channel](https://uadatascience.slack.com/#datalab-chatter)
-```
-#datalab-chatter
-```
+2:00 PM - 3:00 PM [Bioinformatics](https://github.com/ua-datalab/Bioinformatics/wiki) [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_eUHXcEqBSFo44d0)]
 
-Also, check out our workshop learning resources at the [Arizona DataLab GitHub repository](https://ua-datalab.github.io/) and the [UArizona DataLab YouTube Channel](https://www.youtube.com/@UArizonaDataLab/playlists) for workshop recordings. For detailed information, please see the [UArizona Data Science Institute Events Calendar](https://www.datascience.arizona.edu/calendar).
+#### :pushpin: Friday Jan. 31st
+10:00 AM - 11:00 [AM CyVerse Office Hours](https://github.com/ua-datalab/Bioinformatics/wiki)  [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_d0F8WzR8CjuF6Qe)] - [BSRL Lobby](https://bsrl.arizona.edu/)
+ 
+Questions / Contact: Please join the [UA Data Science Slack channel](https://uadatascience.slack.com/#datalab-chatter) #datalab-chatter or the workshop presenter.
+Additional resources:  [U of A DataLab GitHub repository](https://ua-datalab.github.io/). Watch previous U of A DataLab workshops on our [UArizona DataLab YouTube Channel](https://www.youtube.com/@UArizonaDataLab/playlists).
+
+**We look forward to seeing you at the workshops. Register soon!**
+
+**Please share this opportunity with your friends and colleagues.**
 
 ***
 
-Updated 11/04/2024 (C. Lizárraga - clizarraga AT arizona.edu)
+
+Updated 01/23/2025 (C. Lizárraga - clizarraga AT arizona.edu)
 
