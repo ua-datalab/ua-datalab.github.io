@@ -13,25 +13,35 @@ Unless otherwise noted, workshop sessions are held at the **Weaver Science & Eng
 
 Find all U of A DataLab workshop series and sessions on the [Data Science Institute calendar events](s://www.datascience.arizona.edu/calendar).
 
-#### :pushpin: Tuesday Jan. 28th
+#### :pushpin: Tuesday Feb. 4th
+<!--
 11:30 AM - 1:00 PM. [Leadership through Project Management: Team Culture Tips for Successful Research Projects](https://github.com/ua-datalab/ResearchProductivity/blob/main/README.md) (Zoom only). [[Register for Zoom link](https://uarizona.co1.qualtrics.com/survey-builder/SV_cw3FdoEFy1SSp26)]
+-->
 
-1:00 PM - 2:00 PM. [Classical Machine Learning](https://github.com/ua-datalab/MLWorkshops/blob/main/README.md). [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_0CyWx6D43C7ZsmG)]
+1:00 PM - 2:00 PM. [Classical Machine Learning](https://github.com/ua-datalab/MLWorkshops/blob/main/README.md). _Supervised Learning: Regression_. [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_0CyWx6D43C7ZsmG)]
 
-2:00 PM - 3:00 PM. [Functional Open Science Skills for AI/ML Applications](https://github.com/ua-datalab/FunctionalOpenSourceSkills/wiki). [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_cI55gABtcr9GjfE)]
+2:00 PM - 3:00 PM. [Functional Open Science Skills for AI/ML Applications](https://github.com/ua-datalab/FunctionalOpenSourceSkills/wiki). _AI's Role and Tools in Open Science_. [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_cI55gABtcr9GjfE)]
 
-3:30 PM - 4:30 PM. [AI Makerspace Meet Up](https://github.com/ua-datalab/AI-Makerspace/blob/main/README.md). [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_5mRIgo8t54wO3Ii)]
+3:30 PM - 4:30 PM. [AI Makerspace MeetUp](https://github.com/ua-datalab/AI-Makerspace/blob/main/README.md). [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_5mRIgo8t54wO3Ii)]. Snakes & Lattes - Tucson (988 E University Blvd, Tucson, AZ).
 
-#### :pushpin: Thursday Jan. 30th
-12:00 PM - 1:00 PM [NLP for All](https://github.com/ua-datalab/NLP-Speech/blob/main/README.md)  [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_3pEBKSiN4ejcY86)]
 
-1:00 PM - 2:00 PM [Mastering GenAI Foundation Models for Research](https://github.com/ua-datalab/Generative-AI/blob/main/README.md) [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_0wWiJ946ta9ExzE)]
+#### :pushpin: Wednesday Feb. 5th
+1:00 PM - 2:00 PM. [Data Science Tapas](https://github.com/ua-datalab/DataScience-Tapas/blob/main/README.md). _Introduction to Python for Data Science_. [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_brM5XGZHc4AhHgO)] 
 
-2:00 PM - 3:00 PM [Bioinformatics & Genomics](https://github.com/ua-datalab/Bioinformatics/wiki) [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_eUHXcEqBSFo44d0)]
+#### :pushpin: Thursday Feb. 6th
+12:00 PM - 1:00 PM [NLP for All](https://github.com/ua-datalab/NLP-Speech/blob/main/README.md). _Regular Expressions for NLP_.  [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_3pEBKSiN4ejcY86)]
 
-#### :pushpin: Friday Jan. 31st
+1:00 PM - 2:00 PM [Mastering GenAI Foundation Models for Research](https://github.com/ua-datalab/Generative-AI/blob/main/README.md). _Using UofA AI Verde Chatbot_ [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_0wWiJ946ta9ExzE)]
+
+2:00 PM - 3:00 PM [Bioinformatics & Genomics](https://github.com/ua-datalab/Bioinformatics/wiki). _A Beginner's Guide to RNA-seq with DESeq2_. [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_eUHXcEqBSFo44d0)]
+
+#### :pushpin: Friday Feb 7th.
 10:00 AM - 11:00 AM [CyVerse Office Hours](https://learning.cyverse.org/)  [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_d0F8WzR8CjuF6Qe)] - [BSRL Lobby](https://bsrl.arizona.edu/)
- 
+
+_**Upcoming**_
+#### :pushpin: Friday Feb 14th.
+10:00 AM - 11:00 AM [CyVerse Webinars](https://cyverse.org/webinars). _Strategies for Managing Data for Team Projects part 1_. [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_cMggVcnCLwAWL6m)]
+
 Questions / Contact: Please join the [UA Data Science Slack channel](https://uadatascience.slack.com/#datalab-chatter)
 ```
 #datalab-chatter
@@ -49,5 +59,6 @@ Watch previous U of A DataLab workshops on our [UArizona DataLab YouTube Channel
 ***
 
 
-Updated 01/23/2025 (C. Lizárraga - clizarraga AT arizona.edu)
+Updated 01/31/2025 (C. Lizárraga - clizarraga AT arizona.edu). [UArizona DataLab](https://ua-datalab.github.io/)
+
 
