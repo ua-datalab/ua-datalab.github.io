@@ -40,7 +40,10 @@ Find all U of A DataLab workshop series and sessions on the [Data Science Instit
 
 _**Upcoming**_
 #### :pushpin: Friday Feb 14th.
-10:00 AM - 11:00 AM [CyVerse Webinars](https://cyverse.org/webinars). _Strategies for Managing Data for Team Projects part 1_. [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_cMggVcnCLwAWL6m)]
+10:00 AM - 11:00 AM [CyVerse Webinars](https://cyverse.org/webinars). _Strategies for Managing Data for Team Projects. Part 1_. [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_cMggVcnCLwAWL6m)]
+ (_Zoom only)_
+
+***
 
 Questions / Contact: Please join the [UA Data Science Slack channel](https://uadatascience.slack.com/#datalab-chatter)
 ```
@@ -48,7 +51,7 @@ Questions / Contact: Please join the [UA Data Science Slack channel](https://uad
 ```
 or the workshop presenter.
 
-Additional resources:  [U of A DataLab GitHub repository](https://ua-datalab.github.io/).
+Additional learning resources:  [U of A DataLab GitHub repository](https://ua-datalab.github.io/).
 
 Watch previous U of A DataLab workshops on our [UArizona DataLab YouTube Channel](https://www.youtube.com/@UArizonaDataLab/playlists).
 
