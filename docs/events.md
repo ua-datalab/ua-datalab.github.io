@@ -38,8 +38,8 @@ Find all U of A DataLab workshop series and sessions on the [Data Science Instit
 #### :pushpin: Friday Feb 7th.
 10:00 AM - 11:00 AM [CyVerse Office Hours](https://learning.cyverse.org/)  [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_d0F8WzR8CjuF6Qe)] - [BSRL Lobby](https://bsrl.arizona.edu/)
 
-_**Upcoming Events Spring 2025**
-_
+:calendar: _**Upcoming Events Spring 2025**_ 
+
 #### :pushpin: [CyVerse Webinars](https://cyverse.org/webinars)
 * Friday Feb 14th. 10:00 AM - 11:00 AM. _Strategies for Managing Data for Team Projects. Part 1_. [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_cMggVcnCLwAWL6m)]
  (_Zoom only)_
