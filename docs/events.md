@@ -26,6 +26,8 @@ Find all U of A DataLab workshop series and sessions on the [Data Science Instit
 
 
 #### :pushpin: Wednesday Feb. 5th
+8:30 Am - 10:30 AM. Coffee :coffee: and Code :computer: . Catalyst Café - [BSRL Lobby](https://bsrl.arizona.edu/)
+
 1:00 PM - 2:00 PM. [Data Science Tapas](https://github.com/ua-datalab/DataScience-Tapas/blob/main/README.md). _Introduction to Python for Data Science_. [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_brM5XGZHc4AhHgO)] 
 
 #### :pushpin: Thursday Feb. 6th
@@ -36,7 +38,8 @@ Find all U of A DataLab workshop series and sessions on the [Data Science Instit
 2:00 PM - 3:00 PM [Bioinformatics & Genomics](https://github.com/ua-datalab/Bioinformatics/wiki). _A Beginner's Guide to RNA-seq with DESeq2_. [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_eUHXcEqBSFo44d0)]
 
 #### :pushpin: Friday Feb 7th.
-10:00 AM - 11:00 AM [CyVerse Office Hours](https://learning.cyverse.org/)  [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_d0F8WzR8CjuF6Qe)] - [BSRL Lobby](https://bsrl.arizona.edu/)
+10:00 AM - 11:00 AM [CyVerse Office Hours](https://learning.cyverse.org/)  [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_d0F8WzR8CjuF6Qe)]
+- [BSRL Lobby](https://bsrl.arizona.edu/)
 
 :calendar: _**Upcoming Events Spring 2025**_ 
 
