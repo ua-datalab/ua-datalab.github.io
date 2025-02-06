@@ -44,11 +44,10 @@ Find all U of A DataLab workshop series and sessions on the [Data Science Instit
 * Friday Feb 14th. 10:00 AM - 11:00 AM. _Strategies for Managing Data for Team Projects. Part 1_. [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_cMggVcnCLwAWL6m)]
  (_Zoom only)_
 
-#### :pushpin:  UArizona HPC -  Accelerated Data Science with NVIDIA RAPIDS. [[Register](https://docs.google.com/forms/d/e/1FAIpQLSdBFAqG9AzDnupatWYyxWmxK_PTLO5C9NNfT6BMGJejENfruQ/viewform?usp=header)]
-* Thursday, February 20th. 9:00 AM - 12:00 PM. Science & Engineering Library Room 212.
-* Friday, February 21st. 1:00 PM - 5:00 PM. Main Library Room 252.
+#### :pushpin:  UArizona HPC -  [Accelerated Data Science with NVIDIA RAPIDS](https://www.nvidia.com/content/dam/en-zz/Solutions/deep-learning/deep-learning-education/DLI-Workshop-Fundamentals-of-Accelerated-Data-Science-with-RAPIDS.pdf).   [[Register](https://docs.google.com/forms/d/e/1FAIpQLSdBFAqG9AzDnupatWYyxWmxK_PTLO5C9NNfT6BMGJejENfruQ/viewform?usp=header)]
+* Thursday, Feb 20th. 9:00 AM - 12:00 PM. Science & Engineering Library Room 212.
+* Friday, Feb 21st. 1:00 PM - 5:00 PM. Main Library Room 252.
 
-[Learn more information](https://www.nvidia.com/content/dam/en-zz/Solutions/deep-learning/deep-learning-education/DLI-Workshop-Fundamentals-of-Accelerated-Data-Science-with-RAPIDS.pdf)
 
 
 ***
@@ -70,6 +69,6 @@ Watch previous U of A DataLab workshops on our [UArizona DataLab YouTube Channel
 ***
 
 
-Updated 01/31/2025 (C. Lizárraga - clizarraga AT arizona.edu). [UArizona DataLab](https://ua-datalab.github.io/)
+Updated 02/06/2025 (C. Lizárraga - clizarraga AT arizona.edu). [UArizona DataLab](https://ua-datalab.github.io/)
 
 
