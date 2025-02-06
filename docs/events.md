@@ -48,7 +48,8 @@ Find all U of A DataLab workshop series and sessions on the [Data Science Instit
 * Thursday, Feb 20th. 9:00 AM - 12:00 PM. Science & Engineering Library Room 212.
 * Friday, Feb 21st. 1:00 PM - 5:00 PM. Main Library Room 252.
 
-
+#### :pushpin: CCT Data Science Team
+* Wednesday, Feb 26th. 11:00 AM - 1:00 PM. [Managing Complicated Research Workflows In R With {targets}](https://datascience.cct.arizona.edu/events/managing-complicated-research-workflows-r-targets).  
 
 ***
 
