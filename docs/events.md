@@ -11,7 +11,7 @@ Are you interested in enhancing your proficiency with AI/ML tools, foundation mo
 
 Unless otherwise noted, workshop sessions are held at the **Weaver Science & Engineering Library, room 212** or via **Zoom** – register for Zoom link.
 
-Find all U of A DataLab workshop series and sessions on the [Data Science Institute calendar events](s://www.datascience.arizona.edu/calendar).
+**Find all U of A DataLab workshop series and sessions on the [Data Science Institute calendar events](s://www.datascience.arizona.edu/calendar).**
 
 #### :pushpin: Tuesday Feb. 11th
 <!--
