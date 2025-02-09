@@ -22,7 +22,7 @@ Find all U of A DataLab workshop series and sessions on the [Data Science Instit
 
 2:00 PM - 3:00 PM. [Functional Open Science Skills for AI/ML Applications](https://github.com/ua-datalab/FunctionalOpenSourceSkills/wiki). _Learning to Working in the Cloud: JetStream2 and Reproducibility_. [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_cI55gABtcr9GjfE)]
 
-3:30 PM - 4:30 PM. [AI Makerspace MeetUp](https://github.com/ua-datalab/AI-Makerspace/blob/main/README.md). [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_5mRIgo8t54wO3Ii)]. :man_technologist: :woman_technologist: Snakes & Lattes - Tucson (988 E University Blvd, Tucson, AZ).
+3:30 PM - 4:30 PM. [AI Makerspace MeetUp](https://github.com/ua-datalab/AI-Makerspace/blob/main/README.md). [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_5mRIgo8t54wO3Ii)]. :man_technologist: :woman_technologist: Snakes & Lattes - Tucson (988 E University Blvd, Tucson, AZ). :game_die: :chess_pawn: :snake: :coffee: 
 
 
 
