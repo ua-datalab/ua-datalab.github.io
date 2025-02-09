@@ -27,7 +27,7 @@ Unless otherwise noted, workshop sessions are held at the **Weaver Science & Eng
 
 
 #### :pushpin: Wednesday Feb. 12th
-8:30 AM - 10:30 AM. _**Coffee &  Code**_. :coffee:  :computer: . Catalyst Café - [BSRL Lobby](https://bsrl.arizona.edu/) (Weekly event)
+8:30 AM - 10:30 AM. _**Coffee &  Code**_. :coffee:  :computer:  :man_technologist: :woman_technologist: . Catalyst Café - [BSRL Lobby](https://bsrl.arizona.edu/) (Weekly event)
 
 <!--
 1:00 PM - 2:00 PM. [**Data Science Tapas**](https://github.com/ua-datalab/DataScience-Tapas/blob/main/README.md). _Introduction to Python for Data Science_. [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_brM5XGZHc4AhHgO)] 
@@ -40,7 +40,7 @@ Unless otherwise noted, workshop sessions are held at the **Weaver Science & Eng
 
 2:00 PM - 3:00 PM. [**Bioinformatics & Genomics**](https://github.com/ua-datalab/Bioinformatics/wiki). _RNA-Seq Data Analysis in R: From Raw Counts to Differential Expression Analysis_. [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_eUHXcEqBSFo44d0)]
 
-4:00 PM - 7:00 PM. _**Hacky Hour**_. Snakes & Lattes - Tucson (988 E University Blvd, Tucson, AZ). :game_die: :chess_pawn: :snake: :coffee: (Weekly event)  
+4:00 PM - 7:00 PM. _**Hacky Hour**_.  :man_technologist: :woman_technologist: Snakes & Lattes - Tucson (988 E University Blvd, Tucson, AZ). :game_die: :chess_pawn: :snake: :coffee: (Weekly event)  
 
 
 #### :pushpin: Friday Feb 14th.
