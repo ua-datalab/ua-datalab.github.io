@@ -62,7 +62,6 @@ Find all U of A DataLab workshop series and sessions on the [Data Science Instit
 * Wednesday, Feb 26th. 11:00 AM - 1:00 PM. [**Managing Complicated Research Workflows In R With {targets}**](https://datascience.cct.arizona.edu/events/managing-complicated-research-workflows-r-targets).  
 
 ***
-***
 
 Questions / Contact: Please join the [UA Data Science Slack channel](https://uadatascience.slack.com/#datalab-chatter)
 ```
