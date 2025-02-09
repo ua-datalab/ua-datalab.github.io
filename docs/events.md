@@ -27,7 +27,7 @@ Find all U of A DataLab workshop series and sessions on the [Data Science Instit
 
 
 #### :pushpin: Wednesday Feb. 12th
-8:30 AM - 10:30 AM. _Coffee and Code_. :coffee: & :computer: . Catalyst Café - [BSRL Lobby](https://bsrl.arizona.edu/)
+8:30 AM - 10:30 AM. _Coffee and Code_. :coffee:  :computer: . Catalyst Café - [BSRL Lobby](https://bsrl.arizona.edu/)
 
 <!--
 1:00 PM - 2:00 PM. [Data Science Tapas](https://github.com/ua-datalab/DataScience-Tapas/blob/main/README.md). _Introduction to Python for Data Science_. [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_brM5XGZHc4AhHgO)] 
