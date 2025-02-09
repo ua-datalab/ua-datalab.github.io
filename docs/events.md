@@ -13,6 +13,10 @@ Unless otherwise noted, workshop sessions are held at the **Weaver Science & Eng
 
 **Find all U of A DataLab workshop series and sessions on the [Data Science Institute calendar events](s://www.datascience.arizona.edu/calendar).**
 
+***
+
+## Events this week:
+
 #### :pushpin: Tuesday Feb. 11th
 <!--
 11:30 AM - 1:00 PM. [**Leadership through Project Management: Team Culture Tips for Successful Research Projects**](https://github.com/ua-datalab/ResearchProductivity/blob/main/README.md) (Zoom only). [[Register for Zoom link](https://uarizona.co1.qualtrics.com/survey-builder/SV_cw3FdoEFy1SSp26)]
