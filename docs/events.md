@@ -73,9 +73,9 @@ Additional learning resources:  [U of A DataLab GitHub repository](https://ua-da
 
 Watch previous U of A DataLab workshops on our [UArizona DataLab YouTube Channel](https://www.youtube.com/@UArizonaDataLab/playlists).
 
-**We look forward to seeing you at the workshops. Register soon!**
+_**We look forward to seeing you at the workshops. Register soon!**_
 
-**Please share this opportunity with your friends and colleagues.**
+_**Please feel free to share this with your friends and colleagues.**_
 
 ***
 
