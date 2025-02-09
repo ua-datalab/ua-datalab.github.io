@@ -33,20 +33,19 @@ Find all U of A DataLab workshop series and sessions on the [Data Science Instit
 -->
 
 #### :pushpin: Thursday Feb. 13th
-12:00 PM - 1:00 PM [NLP for All](https://github.com/ua-datalab/NLP-Speech/blob/main/README.md). _Text pre-processing for NLP_.  [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_3pEBKSiN4ejcY86)]
+12:00 PM - 1:00 PM. [NLP for All](https://github.com/ua-datalab/NLP-Speech/blob/main/README.md). _Text pre-processing for NLP_.  [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_3pEBKSiN4ejcY86)]
 
-1:00 PM - 2:00 PM [Mastering GenAI Foundation Models for Research](https://github.com/ua-datalab/Generative-AI/blob/main/README.md). _Best practices of Prompt Engineering using UArizona AI Verde Chatbot_ [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_0wWiJ946ta9ExzE)]
+1:00 PM - 2:00 PM. [Mastering GenAI Foundation Models for Research](https://github.com/ua-datalab/Generative-AI/blob/main/README.md). _Best practices of Prompt Engineering using UArizona AI Verde Chatbot_ [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_0wWiJ946ta9ExzE)]
 
-2:00 PM - 3:00 PM [Bioinformatics & Genomics](https://github.com/ua-datalab/Bioinformatics/wiki). _RNA-Seq Data Analysis in R: From Raw Counts to Differential Expression Analysis_. [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_eUHXcEqBSFo44d0)]
+2:00 PM - 3:00 PM. [Bioinformatics & Genomics](https://github.com/ua-datalab/Bioinformatics/wiki). _RNA-Seq Data Analysis in R: From Raw Counts to Differential Expression Analysis_. [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_eUHXcEqBSFo44d0)]
 
 #### :pushpin: Friday Feb 14th.
 <!--
-10:00 AM - 11:00 AM [CyVerse Office Hours](https://learning.cyverse.org/)  [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_d0F8WzR8CjuF6Qe)]
+10:00 AM - 11:00 AM. [CyVerse Office Hours](https://learning.cyverse.org/)  [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_d0F8WzR8CjuF6Qe)]
 - [BSRL Lobby](https://bsrl.arizona.edu/)
 -->
 
-#### :pushpin: [CyVerse Webinars](https://cyverse.org/webinars) 
-10:00 AM - 11:00 AM. _Strategies for Managing Data for Team Projects. Part 1_. [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_cMggVcnCLwAWL6m)]
+10:00 AM - 11:00 AM. [CyVerse Webinars](https://cyverse.org/webinars). _Strategies for Managing Data for Team Projects. Part 1_. [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_cMggVcnCLwAWL6m)]
  (_Zoom only)_
 
 ***
