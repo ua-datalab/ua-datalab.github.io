@@ -63,7 +63,7 @@ Find all U of A DataLab workshop series and sessions on the [Data Science Instit
 
 ***
 
-Questions / Contact: Please join the [UA Data Science Slack channel](https://uadatascience.slack.com/#datalab-chatter)
+Questions / Contact: Please join the [UA Data Science Slack channel](https://uadatascience.slack.com/#datalab-chatter):
 ```
 #datalab-chatter
 ```
