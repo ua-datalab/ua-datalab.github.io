@@ -22,12 +22,12 @@ Unless otherwise noted, workshop sessions are held at the **Weaver Science & Eng
 
 2:00 PM - 3:00 PM. [**Functional Open Science Skills for AI/ML Applications**](https://github.com/ua-datalab/FunctionalOpenSourceSkills/wiki). _Learning to Working in the Cloud: JetStream2 and Reproducibility_. [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_cI55gABtcr9GjfE)]
 
-3:30 PM - 4:30 PM. [_**AI Makerspace MeetUp**_](https://github.com/ua-datalab/AI-Makerspace/blob/main/README.md). [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_5mRIgo8t54wO3Ii)]. :man_technologist: :woman_technologist: Snakes & Lattes - Tucson (988 E University Blvd, Tucson, AZ). :game_die: :chess_pawn: :snake: :coffee: 
+3:30 PM - 4:30 PM. [_**AI Makerspace MeetUp**_](https://github.com/ua-datalab/AI-Makerspace/blob/main/README.md). [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_5mRIgo8t54wO3Ii)]. :man_technologist: :woman_technologist: @ Snakes & Lattes - Tucson (988 E University Blvd, Tucson, AZ). :game_die: :chess_pawn: :snake: :coffee: 
 
 
 
 #### :pushpin: Wednesday Feb. 12th
-8:30 AM - 10:30 AM. _**Coffee &  Code**_. :coffee:  :computer:  :man_technologist: :woman_technologist: . Catalyst Café - [BSRL Lobby](https://bsrl.arizona.edu/) (Weekly event)
+8:30 AM - 10:30 AM. _**Coffee &  Code**_.  :man_technologist: :woman_technologist: @ Catalyst Café - [BSRL Lobby](https://bsrl.arizona.edu/) :coffee:  :computer: (Weekly event)
 
 <!--
 1:00 PM - 2:00 PM. [**Data Science Tapas**](https://github.com/ua-datalab/DataScience-Tapas/blob/main/README.md). _Introduction to Python for Data Science_. [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_brM5XGZHc4AhHgO)] 
@@ -40,7 +40,7 @@ Unless otherwise noted, workshop sessions are held at the **Weaver Science & Eng
 
 2:00 PM - 3:00 PM. [**Bioinformatics & Genomics**](https://github.com/ua-datalab/Bioinformatics/wiki). _RNA-Seq Data Analysis in R: From Raw Counts to Differential Expression Analysis_. [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_eUHXcEqBSFo44d0)]
 
-4:00 PM - 7:00 PM. _**Hacky Hour**_.  :man_technologist: :woman_technologist: Snakes & Lattes - Tucson (988 E University Blvd, Tucson, AZ). :game_die: :chess_pawn: :snake: :coffee: (Weekly event)  
+4:00 PM - 7:00 PM. _**Hacky Hour**_.  :man_technologist: :woman_technologist: @ Snakes & Lattes - Tucson (988 E University Blvd, Tucson, AZ). :game_die: :chess_pawn: :snake: :coffee: (Weekly event)  
 
 
 #### :pushpin: Friday Feb 14th.
