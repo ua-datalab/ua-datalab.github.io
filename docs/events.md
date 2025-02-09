@@ -55,11 +55,11 @@ Unless otherwise noted, workshop sessions are held at the **Weaver Science & Eng
 
 
 #### :pushpin:  UArizona HPC -  [**Accelerated Data Science with NVIDIA RAPIDS**](https://www.nvidia.com/content/dam/en-zz/Solutions/deep-learning/deep-learning-education/DLI-Workshop-Fundamentals-of-Accelerated-Data-Science-with-RAPIDS.pdf).   [[Register](https://docs.google.com/forms/d/e/1FAIpQLSdBFAqG9AzDnupatWYyxWmxK_PTLO5C9NNfT6BMGJejENfruQ/viewform?usp=header)]
-* Thursday, Feb 20th. 9:00 AM - 12:00 PM. Science & Engineering Library Room 212.
-* Friday, Feb 21st. 1:00 PM - 5:00 PM. Main Library Room 252.
+* Thursday Feb 20th. 9:00 AM - 12:00 PM. Science & Engineering Library Room 212.
+* Friday Feb 21st. 1:00 PM - 5:00 PM. Main Library Room 252.
 
 #### :pushpin: CCT Data Science Team
-* Wednesday, Feb 26th. 11:00 AM - 1:00 PM. [**Managing Complicated Research Workflows In R With {targets}**](https://datascience.cct.arizona.edu/events/managing-complicated-research-workflows-r-targets).  
+* Wednesday Feb 26th. 11:00 AM - 1:00 PM. [**Managing Complicated Research Workflows In R With {targets}**](https://datascience.cct.arizona.edu/events/managing-complicated-research-workflows-r-targets).  
 
 ***
 
