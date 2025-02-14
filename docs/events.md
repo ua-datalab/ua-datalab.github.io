@@ -37,7 +37,7 @@ Unless otherwise noted, workshop sessions are held at the **Weaver Science & Eng
 #### :pushpin: Thursday Feb. 20th
 
 
-9:00 AM - 12:00 PM UArizona HPC -  [**Accelerated Data Science with NVIDIA RAPIDS**](https://www.nvidia.com/content/dam/en-zz/Solutions/deep-learning/deep-learning-education/DLI-Workshop-Fundamentals-of-Accelerated-Data-Science-with-RAPIDS.pdf).   [[Register](https://docs.google.com/forms/d/e/1FAIpQLSdBFAqG9AzDnupatWYyxWmxK_PTLO5C9NNfT6BMGJejENfruQ/viewform?usp=header)]. :man_technologist: :woman_technologist: @ Science & Engineering Library **Room 212**.
+9:00 AM - 12:00 PM. **UArizona HPC** -  [**Accelerated Data Science with NVIDIA RAPIDS**](https://www.nvidia.com/content/dam/en-zz/Solutions/deep-learning/deep-learning-education/DLI-Workshop-Fundamentals-of-Accelerated-Data-Science-with-RAPIDS.pdf).   [[Register](https://docs.google.com/forms/d/e/1FAIpQLSdBFAqG9AzDnupatWYyxWmxK_PTLO5C9NNfT6BMGJejENfruQ/viewform?usp=header)]. :man_technologist: :woman_technologist: @ Science & Engineering Library **Room 212**.
 
 10:00 AM - 11:30:00 AM. [**Planning for Your Next Research Project**](https://github.com/ua-datalab/ResearchProductivity/blob/main/README.md) (Zoom only). [[Register for Zoom link](https://uarizona.co1.qualtrics.com/survey-builder/SV_cw3FdoEFy1SSp26)]
 
@@ -57,9 +57,7 @@ Unless otherwise noted, workshop sessions are held at the **Weaver Science & Eng
 10:00 AM - 11:00 AM. [**CyVerse Office Hours**](https://learning.cyverse.org/)  [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_d0F8WzR8CjuF6Qe)]
 - [BSRL Lobby](https://bsrl.arizona.edu/)
 
-1:00 PM - 5:00 PM. UArizona HPC -  [**Accelerated Data Science with NVIDIA RAPIDS**](https://www.nvidia.com/content/dam/en-zz/Solutions/deep-learning/deep-learning-education/DLI-Workshop-Fundamentals-of-Accelerated-Data-Science-with-RAPIDS.pdf).   [[Register](https://docs.google.com/forms/d/e/1FAIpQLSdBFAqG9AzDnupatWYyxWmxK_PTLO5C9NNfT6BMGJejENfruQ/viewform?usp=header)].  :man_technologist: :woman_technologist: @ Main Library **Room 252**.
-
-
+1:00 PM - 5:00 PM. **UArizona HPC** -  [**Accelerated Data Science with NVIDIA RAPIDS**](https://www.nvidia.com/content/dam/en-zz/Solutions/deep-learning/deep-learning-education/DLI-Workshop-Fundamentals-of-Accelerated-Data-Science-with-RAPIDS.pdf).   [[Register](https://docs.google.com/forms/d/e/1FAIpQLSdBFAqG9AzDnupatWYyxWmxK_PTLO5C9NNfT6BMGJejENfruQ/viewform?usp=header)].  :man_technologist: :woman_technologist: @ Main Library **Room 252**.
 
 <!--
 10:00 AM - 11:00 AM. [**CyVerse Webinars**](https://cyverse.org/webinars). _Strategies for Managing Data for Team Projects. Part 1_. [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_cMggVcnCLwAWL6m)]
@@ -73,7 +71,9 @@ Unless otherwise noted, workshop sessions are held at the **Weaver Science & Eng
 
 
 #### :pushpin: CCT Data Science Team
-* Wednesday Feb 26th. 11:00 AM - 1:00 PM. [**Managing Complicated Research Workflows In R With {targets}**](https://datascience.cct.arizona.edu/events/managing-complicated-research-workflows-r-targets).  
+
+* Wednesday Feb 26th. 11:00 AM - 1:00 PM. 
+ [**Managing Complicated Research Workflows In R With {targets}**](https://datascience.cct.arizona.edu/events/managing-complicated-research-workflows-r-targets).  
 
 ***
 
