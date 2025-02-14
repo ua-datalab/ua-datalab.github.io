@@ -17,7 +17,7 @@
 * [Angela Cruze](https://datainsight.arizona.edu/person/angela-cruze). Institute for Computation & Data-Enabled Insight. 
 * [Chi-Kwan Chan](https://www.as.arizona.edu/people/faculty/chi-kwan-chan). Astronomy and Stewards Observatory.
 * [Devin Bayly](https://campuschampions.cyberinfrastructure.org/user/devin-bayly-0). Research Technologies. 
-* [Francesca Vitali](https://bio5.org/about/directory/francesca-vitali). Neurology and Center for Innovation in Brain Sciences (CIBS). 
+* [Francesca Vitali](https://bio5.org/about/directory/francesca-vitali). Neurology; Center for Innovation in Brain Sciences (CIBS), Bio5 Institute.
 * [Greg Chism](https://ischool.arizona.edu/person/greg-chism). College of Information.
 * [Tina L. Johnson](https://www.datascience.arizona.edu/person/tina-l-johnson). Data Science Institute.
 * [Eung-Joo Lee](https://ece.engineering.arizona.edu/faculty-staff/faculty/eung-joo-lee). Electrical & Computer Engineering. 
