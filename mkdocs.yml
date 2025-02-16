@@ -101,6 +101,11 @@ extra:
     - icon: fontawesome/brands/slack
       link: https://uadatascience.slack.com/archives/C062QJ91PTP
 
+  analytics:
+    provider: google
+    property: G-J75WXHX6HC
+
+
 # Extensions
 markdown_extensions:
   - admonition
