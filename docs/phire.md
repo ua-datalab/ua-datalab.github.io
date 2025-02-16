@@ -10,5 +10,5 @@
 * [Introduction to Git](https://github.com/ua-datalab/DataScienceTapas/wiki/GitHub-and-Git)
 * [Introduction to Command Line Interface](https://github.com/clizarraga-UAD7/Workshops/wiki/The-Command-Line-Interface-Shell)
 * [Basic Prompt Engineering](https://ua-data7.github.io/introllms/chatgpt_prompts/)
-
+* [Not there!](https://github.com/ua-datalab/R_intro2)
 
