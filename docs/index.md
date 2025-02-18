@@ -1,6 +1,7 @@
-{% extends "base.html" %}
 
-{% block analytics %}
+<!--
+{% extends "base.html" %}
+{% block analytics %} -->
   <!-- Add scripts that need to run before here -->
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-J75WXHX6HC"></script>
@@ -12,7 +13,7 @@
   </script>
   {{ super() }}
   <!-- Add scripts that need to run afterwards here -->
-{% endblock %}
+<!-- {% endblock %} -->
 
 (**URL: https://ua-datalab.github.io**)
 
