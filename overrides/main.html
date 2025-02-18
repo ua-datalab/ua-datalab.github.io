@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block analytics %}
+  <!-- Add scripts that need to run before here -->
+  {{ super() }}
+<!-- Add scripts that need to run afterwards here -->
+{% extends "base.html" %}
+
+{% block analytics %}
+  <!-- Add scripts that need to run before here -->
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-J75WXHX6HC"></script>
+  <script>
+	window.dataLayer = window.dataLayer || [];
+  	function gtag(){dataLayer.push(arguments);}
+  	gtag('js', new Date());
+  	gtag('config', 'G-J75WXHX6HC');
+  </script>
+  {{ super() }}
+  <!-- Add scripts that need to run afterwards here -->
+{% endblock %}
