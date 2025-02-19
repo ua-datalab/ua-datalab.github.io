@@ -38,7 +38,7 @@ timeline
 
     **Subtopics**:
 
-    - Definition and scope of data science: [Lies, Damned Lies, and Data Science](https://beabytes.com/data-science-lies/). Béatrice Moissinac.
+    - Definition and scope of data science: [Lies, Damned Lies, and Data	Science](https://beabytes.com/data-science-lies/). Béatrice Moissinac.
     - Overview of machine learning algorithms (regression, classification, clustering): [Introduction to  Machine Learning](https://developers.google.com/machine-learning/intro-to-ml). Developers Google.
     - Applications of data science in various industries (e.g., healthcare, finance, marketing): [Data Science Applications Across 10 Different Industries](https://csweb.rice.edu/academics/graduate-programs/online-mds/blog/data-science-industry-applications). Rice University.
     - Ethical considerations in data science: [A Guide for Ethical Data Science](https://rss.org.uk/RSS/media/News-and-publications/Publications/Reports%20and%20guides/A-Guide-for-Ethical-Data-Science-Final-Oct-2019.pdf). Royal Statistical Society.
@@ -49,6 +49,7 @@ timeline
     - [Data Science; Concepts and Practice](https://asolanki.co.in/wp-content/uploads/2019/04/Data-Science-Concepts-and-Practice-2nd-Edition-3.pdf). V. Kotu and B. Deshpande. 
     - [Data Science for Beginners - A curriculum](https://github.com/microsoft/Data-Science-For-Beginners/blob/main/README.md). Microsoft 10-week, 20-lesson curriculum all about Data Science. 
     - [General Data Science Learning Resources](https://github.com/ua-data7/LearningResources/wiki/General-Data-Science) 
+
 
 
 ####  2. Python for Data Science
