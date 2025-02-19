@@ -48,7 +48,7 @@ timeline
 
     - [Data Science; Concepts and Practice](https://asolanki.co.in/wp-content/uploads/2019/04/Data-Science-Concepts-and-Practice-2nd-Edition-3.pdf). V. Kotu and B. Deshpande. 
     - [Data Science for Beginners - A curriculum](https://github.com/microsoft/Data-Science-For-Beginners/blob/main/README.md). Microsoft 10-week, 20-lesson curriculum all about Data Science. 
-    - [General Data Science Learning Resources](https://github.com/ua-data7/LearningResources/wiki/General-Data-Science) 
+    - [General Data Science Learning Resources](https://github.com/ua-data7/LearningResources/wiki/General-Data-Science). Data Science Institute, University of Arizona.
 
 
 
@@ -66,17 +66,19 @@ timeline
 
     **Subtopics**:
 
-    - Python programming basics (variables, data types, control structures, functions)
-    - NumPy arrays and universal functions
-    - Pandas DataFrames and Series for data manipulation
-    - Data visualization with Matplotlib and Seaborn
+    - Python programming basics (variables, data types, control structures, functions): [Chap 2.](https://wesmckinney.com/book/python-basics), and [Chap 3, McKinney](https://wesmckinney.com/book/python-builtin).
+    - NumPy arrays and universal functions: [Chap 4. McKinney](https://wesmckinney.com/book/numpy-basics) 
+    - Pandas DataFrames and Series for data manipulation: [Chap 5.](https://wesmckinney.com/book/pandas-basics), [Chap 6.](https://wesmckinney.com/book/accessing-data), and [Chap 7., McKinney](https://wesmckinney.com/book/data-cleaning) 
+    - Data visualization with Matplotlib and Seaborn: [Matplotlib tutorials](https://matplotlib.org/stable/tutorials/index.html), and [Seaborn tutorials](https://seaborn.pydata.org/tutorial.html).
     - Integrating Python with data science libraries (scikit-learn, TensorFlow, PyTorch)
 
     **References and Resources**:
 
-    - "Python for Data Analysis" by Wes McKinney
-    - "Python Data Science Handbook" by Jake VanderPlas
-    - Datacamp's Python for Data Science Track
+    - [Python for Data Analysis, 3E](https://wesmckinney.com/book/). Wes McKinney.
+    - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/).  Jake VanderPlas.
+    - [Data Visualization: A practical introduction](https://socviz.co/index.html#preface). Kieran Healy.
+    - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/). Claus O. Wilke.
+    - [Python Programming Language Learning Resources](https://github.com/ua-data7/LearningResources/wiki/Python-Programming-Language). Data Science Institute, University of Arizona.
 
 
 
