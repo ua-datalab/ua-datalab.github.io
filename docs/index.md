@@ -1,9 +1,10 @@
 
-(**URL: https://ua-datalab.github.io**)
 
 # Welcome to the University of Arizona DataLab Github!
 
-![UA DataLab](images/UADL_Composition.png){width=1200}
+![UA DataLab](images/UADL_Composition2025.png){width=1200}
+
+(**URL: https://ua-datalab.github.io**)
 
 ***
 
@@ -14,7 +15,7 @@ Our workshops focus on promoting Data Science Literacy among the university comm
 
 ***
 
-# 2025 Workshops
+# Spring 2025 Workshops
 
 Are you interested in improving your professional skills in data analytics tools, methods, scientific analysis and statistics?
 
