@@ -1,6 +1,8 @@
 
 ![WordCloud](images/UADL_Composition_Events2025.png)
 
+**(URL: https://ua-datalab.github.io/events/)** 
+
 ## Your DataLab friendly weekly remainder! :alarm_clock:
 
 Join us for an exciting series of hands-on workshops and learning opportunities!                    
