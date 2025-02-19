@@ -3,6 +3,8 @@
 
 **(URL: https://ua-datalab.github.io/events/)** 
 
+***
+
 ## Your DataLab friendly weekly remainder! :alarm_clock:
 
 Join us for an exciting series of hands-on workshops and learning opportunities!                    
