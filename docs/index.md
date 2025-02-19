@@ -64,6 +64,9 @@ Lobby](https://bsrl.arizona.edu/)
 * [Research Productivity](https://github.com/ua-datalab/ResearchProductivity/blob/main/README.md). Rudy Salcido. :black_nib: :chart_with_upwards_trend: (Virtual only): P1)  Tuesday Jan 28, 11:30 - 1:00 PM; P2)   Thursday Feb 20, 10:00-11:30AM; P3) Tuesday Mar 18 10:00-11:30 AM. 
 
 
+**Please visit the [Events Calendar](https://ua-datalab.github.io/events/) for weekly activities details.**
+
+
 ### Previous DataLab workshops learning resources
 
 * [Advanced AI for Healthcare](https://github.com/ua-datalab/ai-healthcare/tree/main). Greg Chism.
