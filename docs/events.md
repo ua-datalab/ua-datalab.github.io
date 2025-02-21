@@ -19,7 +19,7 @@ Unless otherwise noted, workshop sessions are held at the **Weaver Science & Eng
 
 ***
 
-## Events this week (February 24th., 2025)
+## Events this week (February 24th, 2025)
 
 #### :pushpin: Tuesday Feb. 25th.
 
@@ -42,7 +42,7 @@ Unless otherwise noted, workshop sessions are held at the **Weaver Science & Eng
 -->
 
 
-11:00 AM - 1:00 PM. [CCT Data Science Team](https://datascience.cct.arizona.edu/workshops).  [**Managing Complicated Research Workflows In R With {targets}**](https://datascience.cct.arizona.edu/events/managing-complicated-research-workflows-r-targets).  
+11:00 AM - 1:00 PM. [**CCT Data Science Team**](https://datascience.cct.arizona.edu/workshops).  _Managing Complicated Research Workflows In R With {targets}_. [Register](https://datascience.cct.arizona.edu/events/managing-complicated-research-workflows-r-targets).  
 
 #### :pushpin: Thursday Feb. 27th.
 
@@ -72,10 +72,11 @@ Unless otherwise noted, workshop sessions are held at the **Weaver Science & Eng
 
 
 ***
-
+<--
 :calendar: _**Upcoming Events Spring 2025**_ 
 
 ***
+-->
 
 **Questions / Contact:** Please join the [UA Data Science Slack channel](https://uadatascience.slack.com/#datalab-chatter):
 ```
