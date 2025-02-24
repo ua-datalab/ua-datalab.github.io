@@ -23,8 +23,10 @@ nav:
     - 'Consultations': consultations.md
     - 'Events Calendar': events.md
     - 'AI/ML Development': apps-dev.md
-    - 'PHIRE': phire.md
+    - 'Capstone Projects': capstone.md
     - 'ML Learning Paths': mlpaths.md
+    - 'PHIRE': phire.md
+
 
 theme: 
   name: material
