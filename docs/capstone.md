@@ -12,6 +12,7 @@ Here is a list of projects being developed in the U of A Datalab, that allows st
 
 ### Current ongoing projects
 
+#### College of Information 
 
 * [PubMed Central RAG Agent Chatbot](https://github.com/enoriega/info698-capstone).  
 
@@ -20,6 +21,17 @@ Here is a list of projects being developed in the U of A Datalab, that allows st
 * [Improving Navigation and Accessibility for the Visually Impaired](). Visually impaired individuals at the University of Arizona face significant navigation challenges across campus buildings, streets, and walkways.
 
 This project explores solutions to enhance accessibility through detailed spatial information and precise guidance for navigation around the University of Arizona campus and surrounding areas. Recent advances in Large Language Models and Vision-Language Models offer promising new opportunities for improved assistive navigation.
+
+
+* [Analyzing how effective the 2023 rule changes were to MLB viewership & attendance](). The project analyzes MLB attendance data (2001-2024) to assess how 2023 rule changes affected fan engagement, excluding pandemic-affected 2020-2021 seasons due to attendance restrictions.
+
+***
+
+## Other
+
+* [BASIS Charter School Senior Project: ML Weather Forecasting](https://github.com/clizarraga-UAD7/MLWeatherForecasting/wiki). 
+
+
 
 ***
 
