@@ -12,6 +12,9 @@ Here is a list of projects being developed in the U of A Datalab, that allows st
 
 ### Current ongoing projects
 
+
+* [PubMed Central RAG Agent Chatbot](https://github.com/enoriega/info698-capstone).  
+
 * [Deep Learning Pose Estimation](https://github.com/ua-datalab/DL-pose-estimation/wiki). Tracking animal behavior noninvasively is crucial for many scientific fields. Extracting [animal poses](https://en.wikipedia.org/wiki/Articulated_body_pose_estimation) without markers is essential in biomechanics, genetics, ethology, and neuroscience but challenging in dynamic backgrounds.
 
 * [Improving Navigation and Accessibility for the Visually Impaired](). Visually impaired individuals at the University of Arizona face significant navigation challenges across campus buildings, streets, and walkways.
