@@ -25,7 +25,7 @@ Here is a list of projects being developed in the U of A Datalab, that allows st
 
 ***
 
-## Other
+### Other projects
 
 * [BASIS Charter School Senior Project: ML Weather Forecasting](https://github.com/clizarraga-UAD7/MLWeatherForecasting/wiki). 
 
@@ -35,7 +35,7 @@ Here is a list of projects being developed in the U of A Datalab, that allows st
 
 Created: 02/24/2025 Carlos Lizárraga.
 
-Updated: 02/24/2025 Carlos Lizárraga.
+Updated: 02/25/2025 Carlos Lizárraga.
 
 [DataLab](https://www.datascience.arizona.edu/education/uarizona-data-lab), Data Science Institute,
 University of Arizona. 
