@@ -72,11 +72,14 @@ Unless otherwise noted, workshop sessions are held at the **Weaver Science & Eng
 
 
 ***
-<--
+
 :calendar: _**Upcoming Events Spring 2025**_ 
 
+* :pushpin:  Mar 22- 23. 9:00 AM - 5:00 PM [The Carpentries: Computational Skills for Researchers](https://ua-carpentries-workshops.github.io/2025-03-22-Tucson/). University of Arizona. 
+
+
 ***
--->
+
 
 **Questions / Contact:** Please join the [UA Data Science Slack channel](https://uadatascience.slack.com/#datalab-chatter):
 ```
