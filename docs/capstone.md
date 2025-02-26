@@ -8,7 +8,7 @@
 
 ***
 
-Here is a list of projects being developed in the U of A Datalab, that allows students to showcase the knowledge and skills in AI/Machine Learning they have gained throughout their academic program and apply them to real-world problems and issues.
+The U of A DataLab develops projects that enable students to apply their AI/Machine Learning knowledge and skills to real-world problems, demonstrating what they've learned throughout their academic program.
 
 ### Current ongoing projects
 
