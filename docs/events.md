@@ -98,6 +98,6 @@ _**Please feel free to share this with your friends and colleagues.**_
 ***
 
 
-Updated 02/14/2025 (C. Lizárraga - clizarraga AT arizona.edu). [UArizona DataLab](https://ua-datalab.github.io/).
+Updated 02/24/2025 (C. Lizárraga - clizarraga AT arizona.edu). [UArizona DataLab](https://ua-datalab.github.io/).
 
 
