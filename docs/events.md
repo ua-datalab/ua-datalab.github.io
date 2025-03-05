@@ -23,7 +23,7 @@ Unless otherwise noted, workshop sessions are held at the **Weaver Science & Eng
 
 #### :pushpin: Tuesday Mar. 4th.
 
-9:00 AM - 11:00 AM. [Data & Viz Drop-in](https://lib.arizona.edu/about/events/data-viz-drop).
+9:00 AM - 11:00 AM. [_**Data & Viz Drop-in**_](https://lib.arizona.edu/about/events/data-viz-drop). Your one-stop-shop for R, Python, Data Management and Data Visualization help. 
  :man_technologist: :woman_technologist:  In-person @ Main Library B201, [Data Studio - CATalyst Studios](https://lib.arizona.edu/study/spaces/data-studio) :coffee:  :computer: (Weekly event)
 
 1:00 PM - 2:00 PM. [**Classical Machine Learning**](https://github.com/ua-datalab/MLWorkshops/blob/main/README.md). _Ensemble Learning: Bagging_. [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_0CyWx6D43C7ZsmG)]
