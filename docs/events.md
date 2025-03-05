@@ -61,8 +61,8 @@ Unless otherwise noted, workshop sessions are held at the **Weaver Science & Eng
 #### :pushpin: Friday Mar. 7th.
 
 
-10:00 AM - 11:00 AM. [**CyVerse Office Hours**](https://learning.cyverse.org/)  [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_d0F8WzR8CjuF6Qe)]
-- [BSRL Lobby](https://bsrl.arizona.edu/)
+10:00 AM - 11:00 AM. [_**CyVerse Office Hours**_](https://learning.cyverse.org/)  [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_d0F8WzR8CjuF6Qe)] :man_technologist: :woman_technologist:  In-person @ Catalyst Café - [BSRL Lobby](https://bsrl.arizona.edu/) :coffee:  :computer:
+
 
 
 <!--
