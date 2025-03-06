@@ -14,7 +14,7 @@ The U of A DataLab develops projects that enable students to apply their AI/Mach
 
 #### College of Information 
 
-* [PubMed Central RAG Agent Chatbot](https://github.com/enoriega/info698-capstone) (TBD).
+* [PubMed Central RAG Agent Chatbot](https://github.com/enoriega/info698-capstone) Agent-based _Retrieval Augmented Generation_ of biological sciences research using LLMs. The outcome of this project will be a conversational chatbot able to retrieve and respond questions from an expansive database created with hundeds of thousands of papers.
 
 * [Deep Learning Pose Estimation](https://github.com/ua-datalab/DL-pose-estimation/wiki). Tracking animal behavior noninvasively is crucial for many scientific fields. Extracting [animal poses](https://en.wikipedia.org/wiki/Articulated_body_pose_estimation) without markers is essential in biomechanics, genetics, ethology, and neuroscience but challenging in dynamic backgrounds.
 
