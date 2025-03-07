@@ -20,7 +20,9 @@ Unless otherwise noted, workshop sessions are held at the **Weaver Science & Eng
 ***
 
 # Spring Break Week March 10th, 2025
-# (No DataLab Workshops)
+# (:cactus: :golfing: No DataLab Workshops :beach_umbrella: :surfer:)
+
+***
 
 ## Events week (March 17th, 2025)
 
@@ -30,8 +32,7 @@ Unless otherwise noted, workshop sessions are held at the **Weaver Science & Eng
  :man_technologist: :woman_technologist:  In-person @ Main Library B201, [Data Studio - CATalyst Studios](https://lib.arizona.edu/study/spaces/data-studio) :coffee:  :computer: (Weekly event)
 
 
-10:00 AM - 11:30:00 AM. [**Pragmatic Project Management for Everyone
-**](https://github.com/ua-datalab/ResearchProductivity/blob/main/README.md) (Zoom only). [[Register for Zoom link](https://uarizona.co1.qualtrics.com/survey-builder/SV_cw3FdoEFy1SSp26)]
+10:00 AM - 11:30:00 AM. [**Pragmatic Project Management for Everyone**](https://github.com/ua-datalab/ResearchProductivity/blob/main/README.md) (Zoom only). [[Register for Zoom link](https://uarizona.co1.qualtrics.com/survey-builder/SV_cw3FdoEFy1SSp26)]
 
 
 1:00 PM - 2:00 PM. [**Classical Machine Learning**](https://github.com/ua-datalab/MLWorkshops/blob/main/README.md). _Ensemble Learning: Bagging, Boosting, & Stacking_. [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_0CyWx6D43C7ZsmG)]
@@ -103,6 +104,6 @@ _**Please feel free to share this with your friends and colleagues.**_
 ***
 
 
-Updated 03/03/2025 (C. Lizárraga - clizarraga AT arizona.edu). [UArizona DataLab](https://ua-datalab.github.io/).
+Updated 03/07/2025 (C. Lizárraga - clizarraga AT arizona.edu). [UArizona DataLab](https://ua-datalab.github.io/).
 
 
