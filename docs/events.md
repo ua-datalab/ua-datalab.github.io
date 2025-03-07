@@ -20,7 +20,8 @@ Unless otherwise noted, workshop sessions are held at the **Weaver Science & Eng
 ***
 
 # Spring Break Week March 10th, 2025
-# (:cactus: :golfing: No DataLab Workshops :beach_umbrella: :surfer:)
+
+# :cactus: :golfing_woman: -  No DataLab Workshops - :beach_umbrella: :surfer:
 
 ***
 
