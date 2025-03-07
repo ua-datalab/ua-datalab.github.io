@@ -25,7 +25,7 @@ Unless otherwise noted, workshop sessions are held at the **Weaver Science & Eng
 
 ***
 
-## Events week (March 17th, 2025)
+## Events on the  week of March 17th, 2025 :mage: :four_leaf_clover:
 
 #### :pushpin: Tuesday Mar. 18th.
 
