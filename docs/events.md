@@ -49,7 +49,7 @@ Unless otherwise noted, workshop sessions are held at the **Weaver Science & Eng
 8:30 AM - 10:30 AM. _**Coffee &  Code**_.  :man_technologist: :woman_technologist:  In-person @ Catalyst Café - [BSRL Lobby](https://bsrl.arizona.edu/) :coffee:  :computer: (Weekly event)
 
 
-1:00 PM - 2:00 PM. [**Data Science Tapas**](https://github.com/ua-datalab/DataScience-Tapas/blob/main/README.md). _Introduction to Deep Learning for Healthcare_. [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_brM5XGZHc4AhHgO)] 
+1:00 PM - 2:00 PM. [**Data Science Tapas**](https://github.com/ua-datalab/DataScience-Tapas/blob/main/README.md). _Introduction to Deep Learning for Healthcare_. (Zoom only).  [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_brM5XGZHc4AhHgO)] 
 
 
 #### :pushpin: Thursday Mar. 20th.
