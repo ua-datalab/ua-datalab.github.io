@@ -31,7 +31,10 @@ Unless otherwise noted, workshop sessions are held at the **Weaver Science & Eng
 
 10:00 AM - 11:00 AM. _**Leveraging National Supercomputing Resources for Research and Education**_. Stephen Deems. Director of Strategic Initiatives, Pittsburgh Supercomputing Center (PSC). University of Arizona Research Computing ([https://arizona.zoom.us/j/7386028099](https://arizona.zoom.us/j/7386028099)).
 
-      Join us for a discussion about accessing computational resources around the country for scientific research and education. Specifically, the NAIRR Pilot and the NSF-funded ACCESS Allocations program will be explored showcasing how researchers and educators can take advantage of advanced computing systems.
+> [!NOTE]  
+>  Join us for a discussion about accessing computational resources around the country for
+scientific research and education. Specifically, the NAIRR Pilot and the NSF-funded ACCESS
+Allocations program will be explored showcasing how researchers and educators can take advantage  of advanced computing systems.
 
 
 #### :pushpin: Tuesday Mar. 18th.
