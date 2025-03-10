@@ -33,7 +33,7 @@ Unless otherwise noted, workshop sessions are held at the **Weaver Science & Eng
 
 >[!NOTE]  
 >Join us for a discussion about accessing computational resources around the country for
-scientific research and education. Specifically, the NAIRR Pilot and the NSF-funded ACCESS
+scientific research and education. Specifically, the [NAIRR Pilot](https://nairrpilot.org/) and the [NSF-funded ACCESS](https://access-ci.org/)
 Allocations program will be explored showcasing how researchers and educators can take advantage  of advanced computing systems.
 
 
