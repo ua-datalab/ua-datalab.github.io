@@ -29,7 +29,7 @@ Unless otherwise noted, workshop sessions are held at the **Weaver Science & Eng
 
 #### :pushpin: Monday Mar. 17th.
 
-10:00 AM - 11:00 AM. _**Leveraging National Supercomputing Resources for Research and Education**_. Stephen Deems. Director of Strategic Initiatives, Pittsburgh Supercomputing Center (PSC). University of Arizona Research Computing ([https://arizona.zoom.us/j/7386028099](https://arizona.zoom.us/j/7386028099)).
+10:00 AM - 11:00 AM. _**Leveraging National Supercomputing Resources for Research and Education**_. Stephen Deems. Director of Strategic Initiatives, Pittsburgh Supercomputing Center (PSC). University of Arizona Research Computing. (Zoom only:   [https://arizona.zoom.us/j/7386028099](https://arizona.zoom.us/j/7386028099)).
 
 > [!NOTE]  
 >  Join us for a discussion about accessing computational resources around the country for
