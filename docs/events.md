@@ -90,7 +90,7 @@ Allocations program will be explored showcasing how researchers and educators ca
 
 ***
 
-:calendar: _**Upcoming Events Spring 2025**_ 
+:calendar: _**Upcoming Event for the Weekend Mar 22-23, 2025**_ 
 
 * :pushpin:  Mar 22- 23. 9:00 AM - 5:00 PM [The Carpentries: Computational Skills for Researchers](https://ua-carpentries-workshops.github.io/2025-03-22-Tucson/). BIO5 Institute, Data Science Institute, University Libraries. University of Arizona :carpentry_saw:  [[Register](https://docs.google.com/forms/d/e/1FAIpQLScu0eeHgx799QUtxOfmuA45AiBqEAWKup9FxLDu3sXjIMF3Mw/viewform)]
 
