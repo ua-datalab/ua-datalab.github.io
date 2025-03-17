@@ -18,12 +18,13 @@ Unless otherwise noted, workshop sessions are held at the **Weaver Science & Eng
 **Find all U of A DataLab workshop series and sessions on the [Data Science Institute calendar events](s://www.datascience.arizona.edu/calendar).**
 
 ***
-
+<!--
 # Spring Break Week March 10th, 2025
 
 # :cactus: :mountain_bicyclist:  -  No DataLab Workshops - :beach_umbrella: :surfer:
 
 ***
+-->
 
 ## Events on the  week of March 17th, 2025 :mage: :four_leaf_clover:
 
