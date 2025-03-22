@@ -26,7 +26,7 @@ Unless otherwise noted, workshop sessions are held at the **Weaver Science & Eng
 ***
 -->
 
-## Events on the  week of March 24th, 2025 :mage: :four_leaf_clover:
+## Events on the  week of March 24th, 2025 
 
 
 :calendar: _**Event the Weekend Mar 22-23, 2025**_ 
