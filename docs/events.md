@@ -99,11 +99,11 @@ Allocations program will be explored showcasing how researchers and educators ca
 #### :pushpin: Friday Mar. 28th.
 
 
-<!--
+
 
 10:00 AM - 11:00 AM. [_**CyVerse Office Hours**_](https://learning.cyverse.org/)  [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_d0F8WzR8CjuF6Qe)] :man_technologist: :woman_technologist:  In-person @ Catalyst Café - [BSRL Lobby](https://bsrl.arizona.edu/) :coffee:  :computer:
 
-
+<!--
 10:00 AM - 11:00 AM. [**CyVerse Webinars**](https://cyverse.org/webinars). _Strategies for Managing Data for Team Projects. Part 2_. [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_0v0wroSX28lhiL4)]
  (_Zoom only)_
 -->
