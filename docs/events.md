@@ -26,7 +26,7 @@ Unless otherwise noted, workshop sessions are held at the **Weaver Science & Eng
 ***
 -->
 
-## Events on the  week of March 31st, 2025 
+## Events on the  week of Apr. 7th, 2025 
 
 
 <!--
@@ -42,25 +42,15 @@ Unless otherwise noted, workshop sessions are held at the **Weaver Science & Eng
 
 
 <!--
-#### :pushpin: Monday Mar. 17th.
-
-10:00 AM - 11:00 AM. _**Leveraging National Supercomputing Resources for Research and Education**_. Stephen Deems. Director of Strategic Initiatives, Pittsburgh Supercomputing Center (PSC). University of Arizona Research Computing. (Zoom only:   [https://arizona.zoom.us/j/7386028099](https://arizona.zoom.us/j/7386028099)).
-
->[!NOTE]  
->Join us for a discussion about accessing computational resources around the country for
-scientific research and education. Specifically, the [NAIRR Pilot](https://nairrpilot.org/) and the [NSF-funded ACCESS](https://access-ci.org/)
-Allocations program will be explored showcasing how researchers and educators can take advantage  of advanced computing systems.
-
+#### :pushpin: Monday Apr. 7th.
 -->
 
-#### :pushpin: Tuesday Apr. 1st.
+#### :pushpin: Tuesday Apr. 8th.
 
 9:00 AM - 11:00 AM. [_**Data & Viz Drop-in**_](https://lib.arizona.edu/about/events/data-viz-drop). Your one-stop-shop for R, Python, Data Management and Data Visualization help. 
  :man_technologist: :woman_technologist:  In-person @ Main Library B201, [Data Studio - CATalyst Studios](https://lib.arizona.edu/study/spaces/data-studio) :coffee:  :computer: (Weekly event)
 
 <!--
-10:00 AM - 11:30:00 AM. [**Pragmatic Project Management for Everyone**](https://github.com/ua-datalab/ResearchProductivity/blob/main/README.md) (Zoom only). [[Register for Zoom link](https://uarizona.co1.qualtrics.com/survey-builder/SV_cw3FdoEFy1SSp26)]
-
 
 1:00 PM - 2:00 PM. [**Classical Machine Learning**](https://github.com/ua-datalab/MLWorkshops/blob/main/README.md). _Reinforcement Learning_. [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_0CyWx6D43C7ZsmG)]
 
@@ -72,20 +62,31 @@ Allocations program will be explored showcasing how researchers and educators ca
 
 
 
-#### :pushpin: Wednesday Apr. 2nd.
+#### :pushpin: Wednesday Apr. 9th.
 
 8:30 AM - 10:30 AM. _**Coffee &  Code**_.  :man_technologist: :woman_technologist:  In-person @ Catalyst Café - [BSRL Lobby](https://bsrl.arizona.edu/) :coffee:  :computer: (Weekly event)
 
 
-1:00 PM - 2:00 PM. [**Data Science Tapas**](https://github.com/ua-datalab/DataScience-Tapas/blob/main/README.md). _Introduction to Speech to text with Whisper AI_. (Zoom only).  [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_brM5XGZHc4AhHgO)] 
+10:00 AM - 11:30:00 AM. [**Leadership through Project Management: Team Culture Tips for Successful Research Projects**](https://github.com/ua-datalab/ResearchProductivity/blob/main/README.md) (Zoom only). [[Register for Zoom link](https://uarizona.co1.qualtrics.com/survey-builder/SV_cw3FdoEFy1SSp26)]
 
 
-
-#### :pushpin: Thursday Apr 3rd.
-
-12:00 PM - 1:00 PM. [**NLP for All**](https://github.com/ua-datalab/NLP-Speech/blob/main/README.md). _AI applications for Audio data_.  [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_3pEBKSiN4ejcY86)]
 
 <!--
+1:00 PM - 2:00 PM. [**Data Science Tapas**](https://github.com/ua-datalab/DataScience-Tapas/blob/main/README.md). _Introduction to Speech to text with Whisper AI_. (Zoom only).  [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_brM5XGZHc4AhHgO)] 
+-->
+
+
+2:00 PM - 6:00 PM. [**Code Commons**](https://codecommons.net/) :man_technologist: :woman_technologist:  In-person @ [CATalyst Studios](https://lib.arizona.edu/catalyst). Main Library.
+
+#### :pushpin: Thursday Apr 10th.
+
+10:00 AM - 11:30:00 AM. [**Planning for Your Next Research Project
+**](https://github.com/ua-datalab/ResearchProductivity/blob/main/README.md) (Zoom only). [[Register for Zoom link](https://uarizona.co1.qualtrics.com/survey-builder/SV_cw3FdoEFy1SSp26)]
+
+
+<!--
+12:00 PM - 1:00 PM. [**NLP for All**](https://github.com/ua-datalab/NLP-Speech/blob/main/README.md). _AI applications for Audio data_.  [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_3pEBKSiN4ejcY86)]
+
 1:00 PM - 2:00 PM. [**Mastering GenAI Foundation Models for Research**](https://github.com/ua-datalab/Generative-AI/blob/main/README.md). _Code generation assistants_ [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_0wWiJ946ta9ExzE)]
 
 2:00 PM - 3:00 PM. [**Bioinformatics & Genomics**](https://github.com/ua-datalab/Bioinformatics/wiki). _Explore Current AI/ML Trends and Tools in Bioinformatics_. [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_eUHXcEqBSFo44d0)]
@@ -96,8 +97,9 @@ Allocations program will be explored showcasing how researchers and educators ca
 
 
 
-#### :pushpin: Friday Mar. 28th.
+#### :pushpin: Friday Apr. 11th.
 
+10:00 AM - 11:30:00 AM. [**Pragmatic Project Management for Everyone**](https://github.com/ua-datalab/ResearchProductivity/blob/main/README.md) (Zoom only). [[Register for Zoom link](https://uarizona.co1.qualtrics.com/survey-builder/SV_cw3FdoEFy1SSp26)]
 
 
 
