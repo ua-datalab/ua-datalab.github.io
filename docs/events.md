@@ -55,8 +55,7 @@ Unless otherwise noted, workshop sessions are held at the **Weaver Science & Eng
 
 #### :pushpin: Thursday Apr 10th.
 
-10:00 AM - 11:30:00 AM. [**Planning for Your Next Research Project
-**](https://github.com/ua-datalab/ResearchProductivity/blob/main/README.md) (Zoom only). [[Register for Zoom link](https://uarizona.co1.qualtrics.com/survey-builder/SV_cw3FdoEFy1SSp26)]
+10:00 AM - 11:30:00 AM. [**Planning for Your Next Research Project**](https://github.com/ua-datalab/ResearchProductivity/blob/main/README.md) (Zoom only). [[Register for Zoom link](https://uarizona.co1.qualtrics.com/survey-builder/SV_cw3FdoEFy1SSp26)]
 
 
 4:00 PM - 7:00 PM. _**Hacky Hour**_.  :man_technologist: :woman_technologist: In-person @ Snakes & Lattes - Tucson (988 E University Blvd, Tucson, AZ). :game_die: :chess_pawn: :snake: :coffee: (Weekly event)  
