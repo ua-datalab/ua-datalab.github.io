@@ -41,8 +41,8 @@ Unless otherwise noted, workshop sessions are held at the **Weaver Science & Eng
 
 8:30 AM - 10:30 AM. _**Coffee &  Code**_.  :man_technologist: :woman_technologist:  In-person @ Catalyst Café - [BSRL Lobby](https://bsrl.arizona.edu/) :coffee:  :computer: (Weekly event)
 
-10:00 AM - 11:30:00 AM. [**Leadership through Project Management: Team Culture Tips for Successful Research Projects**](https://github.com/ua-datalab/ResearchProductivity/blob/main/README.md) (Zoom only). [[Register for Zoom link](https://uarizona.co1.qualtrics.com/survey-builder/SV_cw3FdoEFy1SSp26)]
-
+10:00 AM - 11:30:00 AM. [**Leadership through Project Management: Team Culture Tips for Successful Research Projects**](https://github.com/ua-datalab/ResearchProductivity/blob/main/README.md) (Zoom only). [[Register for Zoom link](https://uarizona.co1.qualtrics.com/jfe/form/SV_cw3FdoEFy1SSp26)]
+(*Updated)
 
 
 <!--
@@ -50,12 +50,12 @@ Unless otherwise noted, workshop sessions are held at the **Weaver Science & Eng
 -->
 
 
-2:00 PM - 6:00 PM. [**Code Commons**](https://codecommons.net/) :man_technologist: :woman_technologist:  In-person @ [CATalyst Studios](https://lib.arizona.edu/catalyst). Main Library :school: (Weekly event)
+2:00 PM - 6:00 PM. [**Code Commons**](https://codecommons.net/) :man_technologist :woman_technologist:  In-person @ [CATalyst Studios](https://lib.arizona.edu/catalyst). Main Library :school: (Weekly event)
 
 
 #### :pushpin: Thursday Apr 10th.
 
-10:00 AM - 11:30:00 AM. [**Planning for Your Next Research Project**](https://github.com/ua-datalab/ResearchProductivity/blob/main/README.md) (Zoom only). [[Register for Zoom link](https://uarizona.co1.qualtrics.com/survey-builder/SV_cw3FdoEFy1SSp26)]
+10:00 AM - 11:30:00 AM. [**Planning for Your Next Research Project**](https://github.com/ua-datalab/ResearchProductivity/blob/main/README.md) (Zoom only). [[Register for Zoom link](https://uarizona.co1.qualtrics.com/jfe/form/SV_cw3FdoEFy1SSp26)] (*Updated)
 
 
 4:00 PM - 7:00 PM. _**Hacky Hour**_.  :man_technologist: :woman_technologist: In-person @ Snakes & Lattes - Tucson (988 E University Blvd, Tucson, AZ). :game_die: :chess_pawn: :snake: :coffee: (Weekly event)  
@@ -63,7 +63,7 @@ Unless otherwise noted, workshop sessions are held at the **Weaver Science & Eng
 
 #### :pushpin: Friday Apr. 11th.
 
-10:00 AM - 11:30:00 AM. [**Pragmatic Project Management for Everyone**](https://github.com/ua-datalab/ResearchProductivity/blob/main/README.md) (Zoom only). [[Register for Zoom link](https://uarizona.co1.qualtrics.com/survey-builder/SV_cw3FdoEFy1SSp26)]
+10:00 AM - 11:30:00 AM. [**Pragmatic Project Management for Everyone**](https://github.com/ua-datalab/ResearchProductivity/blob/main/README.md) (Zoom only). [[Register for Zoom link](https://uarizona.co1.qualtrics.com/jfe/form/SV_cw3FdoEFy1SSp26)] (*Updated)
 
 
 
