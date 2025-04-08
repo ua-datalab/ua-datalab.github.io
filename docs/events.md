@@ -31,7 +31,7 @@ Unless otherwise noted, workshop sessions are held at the **Weaver Science & Eng
 #### :pushpin: Tuesday Apr. 8th.
 
 9:00 AM - 11:00 AM. [_**Data & Viz Drop-in**_](https://lib.arizona.edu/about/events/data-viz-drop). Your one-stop-shop for R, Python, Data Management and Data Visualization help. 
- :man_technologist: :woman_technologist:  In-person @ Main Library B201, [Data Studio - CATalyst Studios](https://lib.arizona.edu/study/spaces/data-studio) :coffee:  :computer: (Weekly event)
+ :man_technologist: :woman_technologist:  In-person @ Main Library B201, [Data Studio - CATalyst Studios](https://lib.arizona.edu/study/spaces/data-studio) :computer: :school: (Weekly event)
 
 3:30 PM - 4:30 PM. [_**AI Makerspace MeetUp**_](https://github.com/ua-datalab/AI-Makerspace/blob/main/README.md). [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_5mRIgo8t54wO3Ii)]. :man_technologist: :woman_technologist:  In-person @ Snakes & Lattes - Tucson (988 E University Blvd, Tucson, AZ). :game_die: :chess_pawn: :snake: :coffee: 
 
@@ -50,7 +50,7 @@ Unless otherwise noted, workshop sessions are held at the **Weaver Science & Eng
 -->
 
 
-2:00 PM - 6:00 PM. [**Code Commons**](https://codecommons.net/) :man_technologist: :woman_technologist:  In-person @ [CATalyst Studios](https://lib.arizona.edu/catalyst). Main Library.
+2:00 PM - 6:00 PM. [**Code Commons**](https://codecommons.net/) :man_technologist: :woman_technologist:  In-person @ [CATalyst Studios](https://lib.arizona.edu/catalyst). Main Library :school: (Weekly event)
 
 
 #### :pushpin: Thursday Apr 10th.
