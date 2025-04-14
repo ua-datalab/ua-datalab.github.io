@@ -44,7 +44,7 @@ Unless otherwise noted, workshop sessions are held at the **Weaver Science & Eng
 
 
 
-1:00 PM - 2:00 PM. [**Data Science Tapas**](https://github.com/ua-datalab/DataScience-Tapas/blob/main/README.md). _Introduction to Speech to text with Whisper AI_. (Zoom only).  [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_brM5XGZHc4AhHgO)] 
+1:00 PM - 2:00 PM. [**Data Science Tapas**](https://github.com/ua-datalab/DataScience-Tapas/blob/main/README.md). _Introduction to Python Accelerated Data Science with RAPIDS_. Devin Bayly. (Zoom only).  [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_brM5XGZHc4AhHgO)] 
 
 
 
