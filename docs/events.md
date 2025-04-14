@@ -77,7 +77,7 @@ Unless otherwise noted, workshop sessions are held at the **Weaver Science & Eng
 ```
 #datalab-chatter
 ```
-or the workshop presenter.
+
 
 Additional learning resources:  [U of A DataLab GitHub repository](https://ua-datalab.github.io/).
 
