@@ -21,49 +21,43 @@ Unless otherwise noted, workshop sessions are held at the **Weaver Science & Eng
 
 ***
 
-## Events on the  week of Apr. 7th, 2025 
+## Events on the  week of Apr. 14th, 2025 
 
 
 <!--
 #### :pushpin: Monday Apr. 7th.
 -->
 
-#### :pushpin: Tuesday Apr. 8th.
+#### :pushpin: Tuesday Apr. 15th.
 
 9:00 AM - 11:00 AM. [_**Data & Viz Drop-in**_](https://lib.arizona.edu/about/events/data-viz-drop). Your one-stop-shop for R, Python, Data Management and Data Visualization help. 
  :man_technologist: :woman_technologist:  In-person @ Main Library B201, [Data Studio - CATalyst Studios](https://lib.arizona.edu/study/spaces/data-studio) :computer: :school: (Weekly event)
 
+<!--
 3:30 PM - 4:30 PM. [_**AI Makerspace MeetUp**_](https://github.com/ua-datalab/AI-Makerspace/blob/main/README.md). [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_5mRIgo8t54wO3Ii)]. :man_technologist: :woman_technologist:  In-person @ Snakes & Lattes - Tucson (988 E University Blvd, Tucson, AZ). :game_die: :chess_pawn: :snake: :coffee: 
+-->
 
 
-
-#### :pushpin: Wednesday Apr. 9th.
+#### :pushpin: Wednesday Apr. 16th.
 
 8:30 AM - 10:30 AM. _**Coffee &  Code**_.  :man_technologist: :woman_technologist:  In-person @ Catalyst Café - [BSRL Lobby](https://bsrl.arizona.edu/) :coffee:  :computer: (Weekly event)
 
-10:00 AM - 11:30:00 AM. [**Leadership through Project Management: Team Culture Tips for Successful Research Projects**](https://github.com/ua-datalab/ResearchProductivity/blob/main/README.md) (Zoom only). [[Register for Zoom link](https://uarizona.co1.qualtrics.com/jfe/form/SV_cw3FdoEFy1SSp26)]
-(*Updated)
 
 
-<!--
 1:00 PM - 2:00 PM. [**Data Science Tapas**](https://github.com/ua-datalab/DataScience-Tapas/blob/main/README.md). _Introduction to Speech to text with Whisper AI_. (Zoom only).  [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_brM5XGZHc4AhHgO)] 
--->
+
 
 
 2:00 PM - 6:00 PM. [**Code Commons**](https://codecommons.net/) :man_technologist :woman_technologist:  In-person @ [CATalyst Studios](https://lib.arizona.edu/catalyst). Main Library :school: (Weekly event)
 
 
-#### :pushpin: Thursday Apr 10th.
-
-10:00 AM - 11:30:00 AM. [**Planning for Your Next Research Project**](https://github.com/ua-datalab/ResearchProductivity/blob/main/README.md) (Zoom only). [[Register for Zoom link](https://uarizona.co1.qualtrics.com/jfe/form/SV_cw3FdoEFy1SSp26)] (*Updated)
+#### :pushpin: Thursday Apr 17th.
 
 
 4:00 PM - 7:00 PM. _**Hacky Hour**_.  :man_technologist: :woman_technologist: In-person @ Snakes & Lattes - Tucson (988 E University Blvd, Tucson, AZ). :game_die: :chess_pawn: :snake: :coffee: (Weekly event)  
 
 
-#### :pushpin: Friday Apr. 11th.
-
-10:00 AM - 11:30:00 AM. [**Pragmatic Project Management for Everyone**](https://github.com/ua-datalab/ResearchProductivity/blob/main/README.md) (Zoom only). [[Register for Zoom link](https://uarizona.co1.qualtrics.com/jfe/form/SV_cw3FdoEFy1SSp26)] (*Updated)
+#### :pushpin: Friday Apr. 18th.
 
 
 
@@ -96,6 +90,6 @@ _**Please feel free to share this with your friends and colleagues.**_
 ***
 
 
-Updated 03/30/2025 (C. Lizárraga - clizarraga AT arizona.edu). [UArizona DataLab](https://ua-datalab.github.io/).
+Updated 04/14/2025 (C. Lizárraga - clizarraga AT arizona.edu). [UArizona DataLab](https://ua-datalab.github.io/).
 
 
