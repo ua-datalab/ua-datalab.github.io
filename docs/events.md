@@ -48,7 +48,7 @@ Unless otherwise noted, workshop sessions are held at the **Weaver Science & Eng
 
 
 
-2:00 PM - 6:00 PM. [**Code Commons**](https://codecommons.net/) :man_technologist :woman_technologist:  In-person @ [CATalyst Studios](https://lib.arizona.edu/catalyst). Main Library :school: (Weekly event)
+2:00 PM - 6:00 PM. [**Code Commons**](https://codecommons.net/) :man_technologist: :woman_technologist:  In-person @ [CATalyst Studios](https://lib.arizona.edu/catalyst). Main Library :school: (Weekly event)
 
 
 #### :pushpin: Thursday Apr 17th.
