@@ -1,6 +1,6 @@
 ## The Data Science Ecosystem
 
-<img src="images/DS-Ecosystem-UA.jpg" width=640>
+![UA DS Ecosystem](images/DS-Ecosystem-UA.jpg){width=1200}
 
 The University of Arizona campus has diverse data science needs served by specialized campus units. These units collaborate both formally and informally, each providing unique expertise to specific audiences. Together, they deliver comprehensive campus support that would be impossible for any single unit alone.
 
