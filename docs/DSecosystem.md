@@ -8,7 +8,7 @@ The University of Arizona campus has diverse data science needs served by specia
 
 * [**Data Science Team**](https://datascience.cct.arizona.edu/). Delivers workshops on reproducible research for CALES/ALVSCE researchers, focusing on ecology and bioinformatics. Offers in-depth support through the Data Science Incubator for research analysis and stakeholder outreach.
 
-* [**DataLab**](https://datascience.arizona.edu/education/uarizona-data-lab) Is a joint initiative of the [Data Science Institute](https://www.datascience.arizona.edu/) and the [Institute for Computation and Data-enabled Insight](https://datainsight.arizona.edu/) offering intermediate workshops on AI, machine learning, genomics, and natural language processing. 
+* [**DataLab**](https://datascience.arizona.edu/education/uarizona-data-lab). Is a joint initiative of the [Data Science Institute](https://www.datascience.arizona.edu/) and the [Institute for Computation and Data-enabled Insight](https://datainsight.arizona.edu/) offering intermediate workshops on AI, machine learning, genomics, and natural language processing. 
 
 * [**Research Bazaar**](https://researchbazaar.arizona.edu/). A research computing community hosting twice-weekly office hours for advanced users on and off campus.
 
