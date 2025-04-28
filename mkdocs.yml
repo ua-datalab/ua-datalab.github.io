@@ -20,6 +20,7 @@ nav:
     - 'Home': index.md
     - 'About': about.md
     - 'DataLab Team': members.md
+    - 'Data Science Ecosystem': DSEcosystem.md
     - 'Consultations': consultations.md
     - 'Events Calendar': events.md
     - 'AI/ML Development': apps-dev.md
