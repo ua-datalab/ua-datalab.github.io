@@ -56,7 +56,7 @@ timeline
 [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_d0F8WzR8CjuF6Qe)] - [BSRL
 Lobby](https://bsrl.arizona.edu/)
 
-
+[**Also see UofA regular weekly Data Science support events**](https://ua-datalab.github.io/events/)
 **Please visit our [Events Calendar](https://ua-datalab.github.io/events/) for weekly activities details.**
 
 
