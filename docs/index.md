@@ -65,7 +65,7 @@ Lobby](https://bsrl.arizona.edu/)
 ### Previous DataLab Workshops Learning Resources
 
 * [Advanced AI for Healthcare](https://github.com/ua-datalab/ai-healthcare/tree/main). Greg Chism.
-* [https://github.com/ua-datalab/AI-for-Public-Health-Professionals/wiki](https://github.com/ua-datalab/AI-for-Public-Health-Professionals/wiki)
+* [AI for Public Health Professionals Tools](https://github.com/ua-datalab/AI-for-Public-Health-Professionals/wiki)
 * [Bioinformatics & Genomics](https://github.com/ua-datalab/Bioinformatics/wiki). Michele Cosi, Clement Goubert, Francesca Vitali, Simona Merlini.
 * [Classical Machine Learning](https://github.com/ua-datalab/MLWorkshops/blob/main/README.md). Carlos Lizárraga. 
 * [Craking the Coding Interview](https://github.com/ua-datalab/cracking_the_coding_interview). Mithun Paul.
