@@ -14,7 +14,7 @@ Our workshops focus on promoting Data Science Literacy among the university comm
 
 
 ***
-
+<!--
 # Spring 2025 Workshops
 
 Are you interested in improving your professional skills in data analytics tools, methods, scientific analysis and statistics?
@@ -47,7 +47,7 @@ timeline
 
 (†) This three-session series will be offered twice in Spring 2025. 
 (††)  Happening every other Wednesday. (†††) Alternating on Fridays.
-
+-->
 
 ***
 
@@ -57,9 +57,6 @@ timeline
 * [CyVerse Office Hours](https://learning.cyverse.org/) 
 [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_d0F8WzR8CjuF6Qe)] - [BSRL
 Lobby](https://bsrl.arizona.edu/)
-* [Data Science Tapas](https://github.com/ua-datalab/DataScience-Tapas/blob/main/README.md). :woman_scientist: :scientist: :bar_chart:  Every other Wednesday 1:00 - 2:00 PM.
-* [Natural Language Processing for All](https://github.com/ua-datalab/NLP-Speech/blob/main/README.md).  Megh Krishnaswamy, Mithun Paul.  :robot: :speech_balloon:  Thursdays 12:00 - 1:00 PM.
-* [Research Productivity](https://github.com/ua-datalab/ResearchProductivity/blob/main/README.md). Rudy Salcido. :black_nib: :chart_with_upwards_trend: (Virtual only): P1)  Tuesday Jan 28, 11:30 - 1:00 PM; P2)   Thursday Feb 20, 10:00-11:30AM; P3) Tuesday Mar 18 10:00-11:30 AM. 
 
 
 **Please visit our [Events Calendar](https://ua-datalab.github.io/events/) for weekly activities details.**
@@ -68,17 +65,21 @@ Lobby](https://bsrl.arizona.edu/)
 ### Previous DataLab Workshops Learning Resources
 
 * [Advanced AI for Healthcare](https://github.com/ua-datalab/ai-healthcare/tree/main). Greg Chism.
+* [https://github.com/ua-datalab/AI-for-Public-Health-Professionals/wiki](https://github.com/ua-datalab/AI-for-Public-Health-Professionals/wiki)
 * [Bioinformatics & Genomics](https://github.com/ua-datalab/Bioinformatics/wiki). Michele Cosi, Clement Goubert, Francesca Vitali, Simona Merlini.
 * [Classical Machine Learning](https://github.com/ua-datalab/MLWorkshops/blob/main/README.md). Carlos Lizárraga. 
 * [Craking the Coding Interview](https://github.com/ua-datalab/cracking_the_coding_interview). Mithun Paul.
 * [Data Engineering Technologies](https://github.com/ua-datalab/DataEngineering). Shashank Yadav. 
+* [Data Science Tapas](https://github.com/ua-datalab/DataScience-Tapas/blob/main/README.md). :woman_scientist: :scientist: :bar_chart:  Every other Wednesday 1:00 - 2:00 PM.
 * [Deep Learning](https://github.com/ua-datalab/DLWorkshops/wiki). Mithun Paul.
 * [Functional Open Science  Skills for AI/ML Applications](https://github.com/ua-datalab/FunctionalOpenSourceSkills/wiki). Michele Cosi, Carlos Lizárraga, Enrique Noriega, Leonardo Soto Hernandez.
 * [Generative AI Foundation Models for Research](https://github.com/ua-datalab/Generative-AI/blob/main/README.md).  Nick Eddy, Enrique Noriega.
 * [Graph Machine Learning](https://github.com/ua-datalab/GraphML). Shashank Yadav. 
 * [Introduction to Data Science](https://github.com/ua-datalab/Workshops/wiki). Carlos Lizárraga, Megh Krishnaswamy.
+* [Natural Language Processing for All](https://github.com/ua-datalab/NLP-Speech/blob/main/README.md).  Megh Krishnaswamy, Mithun Paul.  :robot: :speech_balloon:  Thursdays 12:00 - 1:00 PM.
 * [Neural Networks](https://github.com/ua-datalab/NeuralNetworks/wiki). Brenda Huppenthal, Megh Krishnaswamy, Carlos Lizárraga.
-* [NextGen Geospatial](https://github.com/ua-datalab/Geospatial_Workshops/wiki). Jeff Gillan.  
+* [NextGen Geospatial](https://github.com/ua-datalab/Geospatial_Workshops/wiki). Jeff Gillan.
+* [Research Productivity](https://github.com/ua-datalab/ResearchProductivity/blob/main/README.md). Rudy Salcido. :black_nib: :chart_with_upwards_trend:
 * [Prompt Engineering & AI Application Deployment - GPT 101](https://tyson-swetnam.github.io/intro-gpt/) ([Previous version 2023](https://ua-data7.github.io/introllms/)). Tyson Swetnam. 
 * [Previous Data Science Institute Workshops](https://workshops-uad7.github.io/). Carlos Lizárraga. 
 
