@@ -32,7 +32,7 @@ The U of A DataLab develops projects that enable students to apply their AI/Mach
 
 ### Capstone Products Repository
 
-* [Products](capstone/readme.md)
+* [Products](capstones/readme.md)
 
 
 ***
