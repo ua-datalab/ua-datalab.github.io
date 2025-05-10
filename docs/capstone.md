@@ -24,18 +24,22 @@ The U of A DataLab develops projects that enable students to apply their AI/Mach
 * [Analyzing how effective the 2023 rule changes were to MLB viewership & attendance]() (TBD). The project analyzes MLB attendance data (2001-2024) to assess how 2023 rule changes affected fan engagement, excluding pandemic-affected 2020-2021 seasons due to attendance restrictions.
 
 ***
-
+<!--
 ### Other projects
 
 * [BASIS Charter School Senior Project: ML Weather Forecasting](https://github.com/clizarraga-UAD7/MLWeatherForecasting/wiki). 
+-->
 
+### Capstone Products Repository
+
+* [Products](capstone/readme.md)
 
 
 ***
 
 Created: 02/24/2025 Carlos Lizárraga.
 
-Updated: 02/25/2025 Carlos Lizárraga.
+Updated: 05/09/2025 Carlos Lizárraga.
 
 [DataLab](https://www.datascience.arizona.edu/education/uarizona-data-lab), Data Science Institute,
 University of Arizona. 
