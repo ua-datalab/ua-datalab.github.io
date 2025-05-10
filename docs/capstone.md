@@ -21,7 +21,7 @@ The U of A DataLab develops projects that enable students to apply their AI/Mach
 * [Improving Navigation and Accessibility for the Visually Impaired](https://github.com/ua-datalab/ImprovingNavigationUA/wiki). Visually impaired individuals at the University of Arizona face significant navigation challenges across campus buildings, streets, and walkways. This project explores solutions to enhance accessibility through detailed spatial information and precise guidance for navigation around the University of Arizona campus and surrounding areas. Recent advances in Large Language Models and Vision-Language Models offer promising new opportunities for improved assistive navigation.
 
 
-* [Analyzing how effective the 2023 rule changes were to MLB viewership & attendance]() (TBD). The project analyzes MLB attendance data (2001-2024) to assess how 2023 rule changes affected fan engagement, excluding pandemic-affected 2020-2021 seasons due to attendance restrictions.
+* [Analyzing how effective the 2023 rule changes were to MLB viewership & attendance](capstones/readme.md) (TBD). The project analyzes MLB attendance data (2001-2024) to assess how 2023 rule changes affected fan engagement, excluding pandemic-affected 2020-2021 seasons due to attendance restrictions.
 
 ***
 <!--
