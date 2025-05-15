@@ -17,7 +17,7 @@ Tracking animal behavior noninvasively is crucial for many scientific fields. Ex
 
 Agent-based Retrieval Augmented Generation of biological sciences research using LLMs. The outcome of this project will be a conversational chatbot able to retrieve and respond questions from an expansive database created with hundeds of thousands of papers.
 
-* [**Poster**](S2025_PubMedRAG/PubMed_RAG_poster_final_pfd.pdf)
+* [**Poster**](S2025_PubMedRAG/PubMed_RAG_poster_final_pdf.pdf)
 * [**GitHub Repo**](https://github.com/INFO-698-InfoSci-Capstone/pubmed-agentic-rag)
 * [**Report**](S2025_PubMedRAG/INFO-698-pubmed-report.pdf)
 
