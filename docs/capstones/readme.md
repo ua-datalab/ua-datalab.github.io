@@ -13,6 +13,15 @@ Tracking animal behavior noninvasively is crucial for many scientific fields. Ex
 * [**Poster**](S2025_PoseEstimation/iShowcase_Pose_Estimation_DL.pdf)
 * [**GitHub Repo**](https://github.com/INFO-698-InfoSci-Capstone/pose-estimation-dl/wiki)
 
+### PubMed Central RAG Agent Chatbot
+
+Agent-based Retrieval Augmented Generation of biological sciences research using LLMs. The outcome of this project will be a conversational chatbot able to retrieve and respond questions from an expansive database created with hundeds of thousands of papers.
+
+* [**Poster**](S2025_PubMedRAG/PubMed_RAG_poster_final_pfd.pdf)
+* [**GitHub Repo**](https://github.com/INFO-698-InfoSci-Capstone/pubmed-agentic-rag)
+* [**Report**](S2025_PubMedRAG/INFO-698-pubmed-report.pdf)
+
+
 ### Analyzing how effective the 2023 rule changes were to MLB viewership & attendance.
 
 The project analyzes MLB attendance data (2001-2024) to assess how 2023 rule changes affected fan engagement, excluding pandemic-affected 2020-2021 seasons due to attendance restriction. **Contributors: Alvaro Borbon, Alec Fernandez, and Marissa Ronquillo.**  
