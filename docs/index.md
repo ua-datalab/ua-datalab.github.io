@@ -73,6 +73,7 @@ Lobby](https://bsrl.arizona.edu/)
 * [Deep Learning](https://github.com/ua-datalab/DLWorkshops/wiki). Mithun Paul.
 * [Functional Open Science  Skills for AI/ML Applications](https://github.com/ua-datalab/FunctionalOpenSourceSkills/wiki). Michele Cosi, Carlos Lizárraga, Enrique Noriega, Leonardo Soto Hernandez.
 * [Generative AI Foundation Models for Research](https://github.com/ua-datalab/Generative-AI/blob/main/README.md).  Nick Eddy, Enrique Noriega.
+* [Data Science Tools and Methods in Earth Sciences](https://github.com/clizarraga-UAD7/geo-datascience2/blob/main/docs/README.md)
 * [Graph Machine Learning](https://github.com/ua-datalab/GraphML). Shashank Yadav. 
 * [Introduction to Data Science](https://github.com/ua-datalab/Workshops/wiki). Carlos Lizárraga, Megh Krishnaswamy.
 * [Natural Language Processing for All](https://github.com/ua-datalab/NLP-Speech/blob/main/README.md).  Megh Krishnaswamy, Mithun Paul.  :robot: :speech_balloon:  Thursdays 12:00 - 1:00 PM.
