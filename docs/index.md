@@ -63,7 +63,7 @@ Lobby](https://bsrl.arizona.edu/)
 ### Previous DataLab Workshops Learning Resources
 
 * [Advanced AI for Healthcare](https://github.com/ua-datalab/ai-healthcare/tree/main). Greg Chism.
-* [AI for Public Health Professionals Tools](https://github.com/ua-datalab/AI-for-Public-Health-Professionals/wiki)
+* [AI Toolkit for Professionals](https://github.com/ua-datalab/AI-for-Professionals/wiki). Carlos Lizárraga.
 * [AI Makerspace Meet-Up](https://github.com/ua-datalab/AI-Makerspace/blob/main/README.md). Enrique Noriega, Carlos Lizárraga. :toolbox: :hammer_and_wrench: :robot: Meet-Ups:(Resuming Aug 26, 2025) Tuesdays 3:30 - 4:30 PM @ [Snakes & Lattes Tucson](https://www.snakesandlattes.com/tucson) (988 E University Blvd, Tucson, AZ). 
 * [Bioinformatics & Genomics](https://github.com/ua-datalab/Bioinformatics/wiki). Michele Cosi, Clement Goubert, Francesca Vitali, Simona Merlini.
 * [Classical Machine Learning](https://github.com/ua-datalab/MLWorkshops/blob/main/README.md). Carlos Lizárraga. 
