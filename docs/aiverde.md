@@ -1,6 +1,7 @@
+
 <p style="text-align: center">
 
-<img src="https://github.com/ua-datalab/ua-datalab.github.io/blob/main/docs/images/AI-verde-header.png?raw=true" width=1000>
+<p><img src="https://github.com/ua-datalab/ua-datalab.github.io/blob/main/docs/images/AI-verde-header.png?raw=true" width=1000>
 
 
 <p><table>
@@ -48,9 +49,9 @@
 
 <table>
         <tr>
-            <td width="400">
-	    </td><a href="https://datascience.arizona.edu/"><img src="https://datascience.arizona.edu/sites/default/files/Data%20Science%20Institute_Webheader%20%281%29.svg" width=400></a>
-            <td width="400"><a href="https://cyverse.org/"><img src="https://cyverse.org/sites/default/files/cyverse_logo_1_0.png" width=400></a></td>
+            <td width="305">
+	    </td><a href="https://datascience.arizona.edu/"><img src="https://datascience.arizona.edu/sites/default/files/Data%20Science%20Institute_Webheader%20%281%29.svg" width=300></a>
+            <td width="305"><a href="https://cyverse.org/"><img src="https://cyverse.org/sites/default/files/cyverse_logo_1_0.png" width=300></a></td>
         </tr>
 </table>
 
