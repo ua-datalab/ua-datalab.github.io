@@ -47,12 +47,12 @@
 
 <hr>
 
-<table>
-        <tr>
-            <td width="305">
-	    </td><a href="https://datascience.arizona.edu/"><img src="https://datascience.arizona.edu/sites/default/files/Data%20Science%20Institute_Webheader%20%281%29.svg" width=300></a>
-            <td width="305"><a href="https://cyverse.org/"><img src="https://cyverse.org/sites/default/files/cyverse_logo_1_0.png" width=300></a></td>
-        </tr>
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+      <td style="width: 305px">
+      <a href="https://datascience.arizona.edu/"><img src="https://datascience.arizona.edu/sites/default/files/Data%20Science%20Institute_Webheader%20%281%29.svg" width=300></a></td>
+       <td style="width: 305px"><a href="https://cyverse.org/"><img src="https://cyverse.org/sites/default/files/cyverse_logo_1_0.png" width=300></a></td>
+   </tr>
 </table>
 
 </p>
