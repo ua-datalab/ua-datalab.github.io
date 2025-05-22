@@ -42,10 +42,11 @@
 <a href="https://chat.cyverse.ai/"><img src="https://github.com/ua-datalab/ua-datalab.github.io/blob/main/docs/images/AI-verde-sign-in.png?raw=true" width=1000></a>
 </p>
 
-***
+
+<hr>
 
 
-|   Sponsor organizations  |
+|  Sponsors|  |
 | :--: | :--: |
 | [![Data Science Institute](https://datascience.arizona.edu/sites/default/files/Data%20Science%20Institute_Webheader%20%281%29.svg){width="600"}](https://datascience.arizona.edu) | [![CyVerse](https://cyverse.org/sites/default/files/cyverse_logo_1_0.png){width="300"}](https://cyverse.org/) |
 
