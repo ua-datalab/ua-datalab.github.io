@@ -38,7 +38,10 @@
 
 <p><img src="https://github.com/ua-datalab/ua-datalab.github.io/blob/main/docs/images/AI-verde-bottom.png?raw=true" width=1000>
 
-<p>[<img src="https://github.com/ua-datalab/ua-datalab.github.io/blob/main/docs/images/AI-verde-sign-in.png?raw=true" width=400>](https://chat.cyverse.ai/))
+
+<p style="text-align: center">
+[<img src="https://github.com/ua-datalab/ua-datalab.github.io/blob/main/docs/images/AI-verde-sign-in.png?raw=true" width=1000>](https://chat.cyverse.ai/)
+</p>
 
 ***
 
