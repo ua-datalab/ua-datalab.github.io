@@ -45,9 +45,12 @@
 
 <hr>
 
-
-|  Sponsors|  |
-| :--: | :--: |
-| [![Data Science Institute](https://datascience.arizona.edu/sites/default/files/Data%20Science%20Institute_Webheader%20%281%29.svg){width="600"}](https://datascience.arizona.edu) | [![CyVerse](https://cyverse.org/sites/default/files/cyverse_logo_1_0.png){width="300"}](https://cyverse.org/) |
+<table>
+        <tr>
+            <td width="500">
+	    </td><a href="https://datascience.arizona.edu/"><img src=href="https://datascience.arizona.edu/sites/default/files/Data%20Science%20Institute_Webheader%20%281%29_0.svg" width=400></a>
+            <td width="500"><a href="https://cyverse.org/"><img src="https://cyverse.org/sites/default/files/cyverse_logo_1_0.png" width=300></a></td>
+        </tr>
+</table>
 
 
