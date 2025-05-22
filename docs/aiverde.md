@@ -43,15 +43,17 @@
 
 <a href="https://chat.cyverse.ai/"><img src="https://github.com/ua-datalab/ua-datalab.github.io/blob/main/docs/images/AI-verde-sign-in.png?raw=true" width=1000></a>
 
-
+</p>
 
 <hr>
 
+<p style="text-align: center">
+
 <table style="width: 100%; table-layout: fixed;">
   <tr>
-      <td style="width: 305px">
-      <a href="https://datascience.arizona.edu/"><img src="https://datascience.arizona.edu/sites/default/files/Data%20Science%20Institute_Webheader%20%281%29.svg" width=300></a></td>
-       <td style="width: 305px"><a href="https://cyverse.org/"><img src="https://cyverse.org/sites/default/files/cyverse_logo_1_0.png" width=300></a></td>
+      <td style="width: 500px">
+      <a href="https://datascience.arizona.edu/"><img src="https://datascience.arizona.edu/sites/default/files/Data%20Science%20Institute_Webheader%20%281%29.svg" width=500></a></td>
+       <td style="width: 500px"><a href="https://cyverse.org/"><img src="https://cyverse.org/sites/default/files/cyverse_logo_1_0.png" width=500></a></td>
    </tr>
 </table>
 
