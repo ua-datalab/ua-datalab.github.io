@@ -6,8 +6,8 @@
 <p><table>
   <tr>
     <td width="640">
-    AI-VERDE is a custom-built AI integration platform that
-    provides research teams and educators with seamless, secure,
+    <b>AI-VERDE is a custom-built AI integration platform</b> that
+    <b>provides research teams and educators</b> with seamless, secure,
     and compliant access to essential building blocks for exploring
     and developing GenAI powered solutions.
     VERDE provides connectivity to a wide range of commercial
