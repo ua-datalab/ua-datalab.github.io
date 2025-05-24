@@ -45,6 +45,10 @@
 
 </p>
 
+
+<p><a href="https://datascience.arizona.edu/research/tools/ai-verde)">**Read more about Ai-VERDE**</a>
+
+
 <hr>
 
 <p style="text-align: center">
@@ -59,4 +63,4 @@
 
 </p>
 
-[**Read more about Ai-VERDE**](https://datascience.arizona.edu/research/tools/ai-verde)
+
