@@ -127,6 +127,6 @@ Please visit the University of Arizona [**Data Science Institute Events Calendar
 [University of Arizona DataLab](https://www.datascience.arizona.edu/education/uarizona-data-lab), is a strategic program between the [University of Arizona's](https://www.arizona.edu/)  [Data Science Institute](https://www.datascience.arizona.edu/), and [CyVerse](https://cyverse.org/).
 
 
-|  | Sponsor organizations | |
-| :--: | :--: | :--: |
+| Sponsor organizations  |
+| :--: | :--: |
 | [![Data Science Institute](https://datascience.arizona.edu/sites/default/files/Data%20Science%20Institute_Webheader%20%281%29.svg){width="600"}](https://datascience.arizona.edu) | [![CyVerse](https://cyverse.org/sites/default/files/cyverse_logo_1_0.png){width="300"}](https://cyverse.org/) | 
