@@ -58,3 +58,5 @@
 </table>
 
 </p>
+
+[**Read more about Ai-VERDE**](https://datascience.arizona.edu/research/tools/ai-verde)
