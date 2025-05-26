@@ -29,6 +29,29 @@ timeline
 
 <div class="grid cards" markdown>
 
+-   Markdown
+
+    ---
+
+    ```markdown
+    1. first line
+
+         second line
+
+    1. third line
+    ```
+
+-   Rendered
+
+    ---
+
+    1. first line
+
+         second line
+
+    1. third line
+
+
 <h4>A1: Data Science and Machine Learning</h4>
 
 <p><a href="mlpaths/A1_Intro_to_DataScience_and_ML.md"><b>Introduction to Data Science and Machine Learning</b></a></p>
