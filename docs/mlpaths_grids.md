@@ -10,9 +10,9 @@ timeline
     	    	 	     : 2. Python for Data Science
 			     : 3. Ethical Considerations in Data Science
     B. Statistics : 4. Statistical Learning and Regression Models
-    C. Classical Machine Learning : 5. Classification Algorithms
-				 : 6. Ensemble Methods
-				 : 7. Unsupervised Learning
+    C. Classical Machine Learning : 5. Supervised Learning
+				 : 6. Unsupervised Learning
+				 : 7. Ensemble Methods
     D. Deep Learning : 8. Introduction to Deep Learning
     	   	    : 9. Recurrent Neural Networks and Sequence Models
 		    : 10. Generative Models
@@ -21,21 +21,21 @@ timeline
 
 ```
 
-### General Data Science
+### A General Data Science
 
-
+<!--
 [**A1: Introduction to Data Science and Machine Learning**](mlpaths/A1_Intro_to_DataScience_and_ML.md)
-
+-->
 
 <div class="grid cards" markdown>
 
--   [**A1: Introduction to Data Science and Machine Learning**](mlpaths/A1_Intro_to_DataScience_and_ML.md)
+-   [**1. Introduction to Data Science and Machine Learning**](mlpaths/A1_Intro_to_DataScience_and_ML.md)
 
     ---
 
     <p>Data Science is an interdisciplinary field focused on extracting knowledge and insights from data. Machine Learning (ML), a key component of Artificial Intelligence (AI), enables systems to learn from data to make decisions or predictions.</p>
 
--   [<b>A2: Python for Data Science</b>](mlpaths/A2_Python_for_DataScience.md)
+-   [<b>2. Python for Data Science</b>](mlpaths/A2_Python_for_DataScience.md)
 
     ---
 
@@ -48,8 +48,13 @@ timeline
 
     <p>Ethics ...
 
+</div>
 
--   <b>4: Statistical Learning and Regression Models</b>
+### B. Statistics
+
+<div class="grid cards" markdown>
+
+-   <b>4. Statistical Learning and Regression Models</b>
 
     ---
 
@@ -57,6 +62,50 @@ timeline
 
 
 </div>
+
+
+### C. Classical Machine Learning
+
+<div class="grid cards" markdown>
+
+-   <b>5. Supervised Learning</b>
+
+    ---
+
+    <p>S
+
+-   <b>6. Unsupervised Learning</b>
+
+    ---
+
+    <p>S
+
+-   <b>7. Ensemble Methods</b>
+
+    ---
+
+    <p>S
+
+
+</div>
+
+### B. Statistics
+
+<div class="grid cards" markdown>
+
+-   <b>4. Statistical Learning and Regression Models</b>
+
+    ---
+
+    <p>Statistics
+
+
+</div>
+
+
+
+
+
 
 
 <!--
