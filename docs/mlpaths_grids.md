@@ -29,7 +29,11 @@ timeline
 
 <div class="grid cards" markdown>
 
+- <i class="fa-solid fa-chart-column">AA</i>
+
 - :fa-solid fa-chart-column:{ .lg .middle } __A1: Data Science and Machine Learning__
+
+
 
 ---
 
