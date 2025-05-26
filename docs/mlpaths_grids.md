@@ -29,28 +29,27 @@ timeline
 
 <div class="grid cards" markdown>
 
--   <b>1. Introduction to Data Science and Machine Learning</b>
+-   <a href="mlpaths/A1_Intro_to_DataScience_and_ML.md"><b>Introduction to Data Science and Machine Learning</b></a></p>
 
     ---
-
-    <p><a href="mlpaths/A1_Intro_to_DataScience_and_ML.md"><b>Introduction to Data Science and Machine Learning</b></a></p>
 
     <p>Data Science is an interdisciplinary field focused on extracting knowledge and insights from data. Machine Learning (ML), a key component of Artificial Intelligence (AI), enables systems to learn from data to make decisions or predictions.</p>
 
--   <b>2. Python for Data Science</>
+-   <b>2. Python for Data Science</b>
 
     ---
 
-    <p>**Python's** simplicity, versatility, and vast ecosystem of specialized libraries have made it the cornerstone of modern data science. 
+    <p>Python's simplicity, versatility, and vast ecosystem of specialized libraries have made it the cornerstone of modern data science. 
  
 
--   **3. Ethical Considerations of Data Science**
+-   <b>3. Ethical Considerations of Data Science</b>
 
     ---
 
-    <p>**Ethics** ...
+    <p>Ethics ...
 
--   **4: Statistical Learning and Regression Models**
+
+-   <b>4: Statistical Learning and Regression Models</b>
 
     ---
 
@@ -434,6 +433,8 @@ Next you will find five specialized data science learning paths that branch off 
 ```
 -->
 
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/64px-Cc.logo.circle.svg.png" width=20> 2025. [University of Arizona DataLab](https://datascience.arizona.edu/education/uarizona-data-lab), [Data Science Institute](https://datascience.arizona.edu/)
 
 
 
