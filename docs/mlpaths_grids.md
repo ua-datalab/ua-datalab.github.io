@@ -29,6 +29,21 @@ timeline
 
 <div class="grid cards" markdown>
 
+-   <b>A1: Introduction to Data Science and Machine Learning</b>
+
+    ---
+
+    <p><a href="mlpaths/A1_Intro_to_DataScience_and_ML.md"><b>Introduction to Data Science and Machine Learning</b></a></p>
+
+    <p>Data Science is an interdisciplinary field focused on extracting knowledge and insights from data. Machine Learning (ML), a key component of Artificial Intelligence (AI), enables systems to learn from data to make decisions or predictions.</p>
+
+-   A2: Python for Data Science
+
+    ---
+
+    <p>**Python's** simplicity, versatility, and vast ecosystem of specialized libraries have made it the cornerstone of modern data science. 
+
+
 -   Markdown
 
     ---
@@ -50,27 +65,6 @@ timeline
          second line
 
     1. third line
-
-
-<h4>A1: Data Science and Machine Learning</h4>
-
-<p><a href="mlpaths/A1_Intro_to_DataScience_and_ML.md"><b>Introduction to Data Science and Machine Learning</b></a></p>
-
-<p>Data Science is an interdisciplinary field focused on extracting knowledge and insights from data. Machine Learning (ML), a key component of Artificial Intelligence (AI), enables systems to learn from data to make decisions or predictions.</p>
-{ .card }
-
-<h4>A2: Python for Data Science</h4>
-
-<p>**Python's** simplicity, versatility, and vast ecosystem of specialized libraries have made it the cornerstone of modern data science. 
-{ .card }
-
-<h4>A3: Ethical Considerations in Data Science</h4>
-<p>**Ethics**
-{ .card }
-
-<h4>A4: Statistical Learning and Regression Models</h4>
-<p>**Statistics**
-{ .card }
 
 </div>
 
