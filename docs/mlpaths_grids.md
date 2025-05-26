@@ -29,39 +29,23 @@ timeline
 
 <div class="grid cards" markdown>
 
-- <i class="fa-solid fa-chart-column"></i> __A1: Data Science and Machine Learning__
+* <h2>A1: Data Science and Machine Learning</h2>
 
+<p>[**Introduction to Data Science and Machine Learning**](mlpaths/A1_Intro_to_DataScience_and_ML.md)
 
+<p>Data Science is an interdisciplinary field focused on extracting knowledge and insights from data. Machine Learning (ML), a key component of Artificial Intelligence (AI), enables systems to learn from data to make decisions or predictions.
 
----
+* <h2>A2: Python for Data Science</h2>
 
-[**Introduction to Data Science and Machine Learning**](mlpaths/A1_Intro_to_DataScience_and_ML.md).
+<p>**Python's** simplicity, versatility, and vast ecosystem of specialized libraries have made it the cornerstone of modern data science. 
 
-Data Science is an interdisciplinary field focused on extracting knowledge and insights from data. Machine Learning (ML), a key component of Artificial Intelligence (AI), enables systems to learn from data to make decisions or predictions.
+- <h2>A3: Ethical Considerations in Data Science</h2>
 
+<p>**Ethics**
 
+- > <h2>A4: Statistical Learning and Regression Models</h2>
 
-- :fa-brands fa-python:{ .lg .middle } __A2: Python for Data Science__
-
----
-
-**Python's** simplicity, versatility, and vast ecosystem of specialized libraries have made it the cornerstone of modern data science. 
-
-
-
-- :fa-solid fa-scale-balanced:{ .lg .middle } __A3: Ethical Considerations in Data Science__
-
----
-
-**Ethics**
-
-
-
-
-- > :fa-solid fa-chart-line:{ .lg .middle }  __A4: Statistical Learning and Regression Models__
-
-**Statistics**
-
+<p>**Statistics**
 
 </div>
 
