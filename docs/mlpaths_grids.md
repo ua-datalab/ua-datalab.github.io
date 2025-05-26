@@ -29,21 +29,21 @@ timeline
 
 <div class="grid cards" markdown>
 
-* <h2>A1: Data Science and Machine Learning</h2>
+- <h4>A1: Data Science and Machine Learning</h4>
 
-<p>[**Introduction to Data Science and Machine Learning**](mlpaths/A1_Intro_to_DataScience_and_ML.md)
+<p><a href="mlpaths/A1_Intro_to_DataScience_and_ML.md"><b>Introduction to Data Science and Machine Learning</b></a></p>
 
-<p>Data Science is an interdisciplinary field focused on extracting knowledge and insights from data. Machine Learning (ML), a key component of Artificial Intelligence (AI), enables systems to learn from data to make decisions or predictions.
+<p>Data Science is an interdisciplinary field focused on extracting knowledge and insights from data. Machine Learning (ML), a key component of Artificial Intelligence (AI), enables systems to learn from data to make decisions or predictions.</p>
 
-* <h2>A2: Python for Data Science</h2>
+- <h4>A2: Python for Data Science</h4>
 
 <p>**Python's** simplicity, versatility, and vast ecosystem of specialized libraries have made it the cornerstone of modern data science. 
 
-- <h2>A3: Ethical Considerations in Data Science</h2>
+- <h4>A3: Ethical Considerations in Data Science</h4>
 
 <p>**Ethics**
 
-- > <h2>A4: Statistical Learning and Regression Models</h2>
+- > <h4>A4: Statistical Learning and Regression Models</h4>
 
 <p>**Statistics**
 
