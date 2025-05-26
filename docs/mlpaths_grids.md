@@ -29,7 +29,7 @@ timeline
 
 <div class="grid cards" markdown>
 
--   <b>A1: Introduction to Data Science and Machine Learning</b>
+-   <b>1. Introduction to Data Science and Machine Learning</b>
 
     ---
 
@@ -37,34 +37,25 @@ timeline
 
     <p>Data Science is an interdisciplinary field focused on extracting knowledge and insights from data. Machine Learning (ML), a key component of Artificial Intelligence (AI), enables systems to learn from data to make decisions or predictions.</p>
 
--   A2: Python for Data Science
+-   <b>2. Python for Data Science</>
 
     ---
 
     <p>**Python's** simplicity, versatility, and vast ecosystem of specialized libraries have made it the cornerstone of modern data science. 
+ 
 
-
--   Markdown
-
-    ---
-
-    ```markdown
-    1. first line
-
-         second line
-
-    1. third line
-    ```
-
--   Rendered
+-   **3. Ethical Considerations of Data Science**
 
     ---
 
-    1. first line
+    <p>**Ethics** ...
 
-         second line
+-   **4: Statistical Learning and Regression Models**
 
-    1. third line
+    ---
+
+    <p>Statistics
+
 
 </div>
 
