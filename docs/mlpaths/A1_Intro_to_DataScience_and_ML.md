@@ -1,4 +1,4 @@
-
+[**Back to ML Paths**](https://ua-datalab.github.io/mlpaths_grids/)
 
 # Self-Directed Learning Module: Introduction to Data Science and Machine Learning 🚀📊
 
