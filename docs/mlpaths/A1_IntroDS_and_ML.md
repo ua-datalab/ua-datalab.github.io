@@ -68,7 +68,8 @@ Upon completion, students will be able to:
 * **Goal/Outcome:** Students will successfully install Anaconda (or Miniconda), create a virtual environment, and install the core libraries (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn) and confirm their installation within a Jupyter Notebook.
 * **Suggested Python & AI/LLM Tools:**
     * **Python:**
-     ```conda create -n ds_intro python=3.9
+     ```
+     conda create -n ds_intro python=3.9
      conda activate ds_intro
      pip install numpy pandas matplotlib seaborn scikit-learn jupyterlab
      ```
@@ -98,7 +99,8 @@ Upon completion, students will be able to:
 * **Goal/Outcome:** Students will load a provided CSV file (e.g., a simplified Iris dataset or a small student grades dataset) into a Pandas DataFrame, and use functions like `.head()`, `.tail()`, `.info()`, `.describe()`, and `.shape` to inspect its basic properties.
 * **Suggested Python & AI/LLM Tools:**
     * **Python:**
-    ```import pandas as pd
+    ```
+    import pandas as pd
     df = pd.read_csv('dataset.csv')
     print(df.head())
     df.info()
@@ -111,7 +113,8 @@ Upon completion, students will be able to:
 * **Goal/Outcome:** Students will identify missing values in a DataFrame column, and apply a simple strategy to handle them (e.g., filling with the mean/median or dropping rows/columns with missing values).
 * **Suggested Python & AI/LLM Tools:**
     * **Python:**
-    ```df.isnull().sum()
+    ```
+     df.isnull().sum()
      df['column_name'].fillna(df['column_name'].mean(), inplace=True)
      ```
     * **AI/LLM Tools:** "How to check for missing values in a pandas DataFrame?" or "Generate Python code to fill missing numerical values in a pandas column with its median."
@@ -122,7 +125,8 @@ Upon completion, students will be able to:
 * **Goal/Outcome:** Students will select specific columns from a DataFrame and filter rows based on one or more conditions (e.g., select all students with a grade above 80).
 * **Suggested Python & AI/LLM Tools:**
     * **Python:**
-    ```df[['column1', 'column2']], df[df['grade'] > 80]
+    ```
+    df[['column1', 'column2']], df[df['grade'] > 80]
     ```
     * **AI/LLM Tools:** "How to select multiple columns in pandas?" or "Show me pandas code to filter rows where column 'Age' is greater than 30 and column 'City' is 'New York'."
 
@@ -136,7 +140,8 @@ Upon completion, students will be able to:
 
 * **Suggested Python & AI/LLM Tools:**
     * **Python:**
-    ```import matplotlib.pyplot as plt
+    ```
+    import matplotlib.pyplot as plt
     import seaborn as sns
     plt.hist(df['numeric_column'])
     sns.boxplot(x=df['numeric_column'])
@@ -149,7 +154,8 @@ Upon completion, students will be able to:
 * **Goal/Outcome:** Students will create a scatter plot to visualize the relationship between two numerical variables and a bar plot to compare a numerical variable across different categories of a categorical variable.
 * **Suggested Python & AI/LLM Tools:**
     * **Python:**
-    ```plt.scatter(df['var1'], df['var2'])
+    ```
+    plt.scatter(df['var1'], df['var2'])
     sns.barplot(x='categorical_var', y='numerical_var', data=df)
     ```
     * **AI/LLM Tools:** "Python code for a scatter plot between two pandas columns." or "How to make a bar plot showing average sales per region using seaborn?"
@@ -160,7 +166,8 @@ Upon completion, students will be able to:
 * **Goal/Outcome:** Students will take a basic plot they created and use an LLM to learn how to add titles, axis labels, change colors, or adjust font sizes.
 * **Suggested Python & AI/LLM Tools:**
     * **Python:**
-    ```plt.title('My Plot Title')
+    ```
+    plt.title('My Plot Title')
     plt.xlabel('X-axis Label')
     plt.ylabel('Y-axis Label')
     ```
@@ -174,7 +181,8 @@ Upon completion, students will be able to:
 * **Goal/Outcome:** Students will identify a simple classification problem from a given dataset (e.g., predict species of iris flower based on measurements), and separate the data into features (X) and target (y).
 * **Suggested Python & AI/LLM Tools:**
     * **Python:**
-    ```X = df[['feature1', 'feature2']]
+    ```
+    X = df[['feature1', 'feature2']]
     y = df['target_variable']
     ```
     * **AI/LLM Tools:** "Explain supervised learning with an example." or "In the iris dataset, what are typical features and what is the target variable for classification?"
@@ -185,7 +193,8 @@ Upon completion, students will be able to:
 * **Goal/Outcome:** Students will split their data into training and testing sets, and then train a k-Nearest Neighbors (k-NN) classifier or a Decision Tree classifier on the training data using Scikit-learn.
 * **Suggested Python & AI/LLM Tools:**
     * **Python:**
-    ```from sklearn.model_selection import train_test_split
+    ```
+    from sklearn.model_selection import train_test_split
     from sklearn.neighbors import KNeighborsClassifier
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3), model =      KNeighborsClassifier(n_neighbors=3)
     model.fit(X_train, y_train)
@@ -198,7 +207,8 @@ Upon completion, students will be able to:
 * **Goal/Outcome:** Students will use their trained model to make predictions on the test set and calculate a simple accuracy score to evaluate its performance.
 * **Suggested Python & AI/LLM Tools:**
     * **Python:**
-    ```y_pred = model.predict(X_test)
+    ```
+    y_pred = model.predict(X_test)
     from sklearn.metrics import accuracy_score
     accuracy = accuracy_score(y_test, y_pred)
     print(f"Accuracy: {accuracy}")
