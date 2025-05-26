@@ -41,24 +41,24 @@ Upon completion, students will be able to:
 * **Problem Definition:** Students often confuse terms like AI, ML, Deep Learning, and Data Science.
 * **Goal/Outcome:** Students will create a concept map or a short comparative explanation of these terms, highlighting their relationships and distinctions.
 * **Suggested Python & AI/LLM Tools:**
-  * **Python: N/A** for direct coding in this specific use case.
-  * **AI/LLM Tools:** Use an open-source LLM (e.g., via LM Studio or a Hugging Face model) to ask for definitions, examples, and analogies for each term. "Explain Machine Learning to a 5-year-old" or "Compare Data Science and AI." Then, synthesize this information.
+    * **Python: N/A** for direct coding in this specific use case.
+    * **AI/LLM Tools:** Use an open-source LLM (e.g., via LM Studio or a Hugging Face model) to ask for definitions, examples, and analogies for each term. "Explain Machine Learning to a 5-year-old" or "Compare Data Science and AI." Then, synthesize this information.
 
 **Use Case 1.2: Identifying Real-World Applications**
 
 * **Problem Definition:** Understanding the abstract concepts of ML is easier when connected to tangible examples.
 * Goal/Outcome:** Students will identify and list five real-world applications of machine learning across different industries (e.g., healthcare, finance, entertainment) and briefly describe how ML is used in each.
 * **Suggested Python & AI/LLM Tools:**
-  * **Python: N/A.**
-  * **AI/LLM Tools:** Query an LLM for "examples of machine learning in healthcare" or "how does Netflix use machine learning?". Encourage students to critically evaluate the LLM's suggestions and verify them with quick web searches if needed.
+    * **Python: N/A.**
+    * **AI/LLM Tools:** Query an LLM for "examples of machine learning in healthcare" or "how does Netflix use machine learning?". Encourage students to critically evaluate the LLM's suggestions and verify them with quick web searches if needed.
 
 **Use Case 1.3: Understanding the Data Science Workflow**
 
 * **Problem Definition:** Students need a high-level overview of the typical steps involved in a data science project.
 * **Goal/Outcome:** Students will outline the key stages of a generic data science workflow (e.g., data acquisition, preprocessing, modeling, evaluation, deployment) and list one or two potential challenges at each stage.
 * **Suggested Python & AI/LLM Tools:**
-  * **Python:** N/A.
-  * **AI/LLM Tools:** Ask an LLM to "describe a typical data science project workflow" or "what are common challenges in data preprocessing?". Students can then summarize and organize the information.
+    * **Python:** N/A.
+    * **AI/LLM Tools:** Ask an LLM to "describe a typical data science project workflow" or "what are common challenges in data preprocessing?". Students can then summarize and organize the information.
 
 #### Subtopic 2: Python & Data Science Ecosystem Setup
 
@@ -67,28 +67,28 @@ Upon completion, students will be able to:
 * **Problem Definition:** Ensuring all students have a functional Python environment with necessary libraries is crucial.
 * **Goal/Outcome:** Students will successfully install Anaconda (or Miniconda), create a virtual environment, and install the core libraries (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn) and confirm their installation within a Jupyter Notebook.
 * **Suggested Python & AI/LLM Tools:**
-  * **Python:**
-  ```conda create -n ds_intro python=3.9
+    * **Python:**
+     ```conda create -n ds_intro python=3.9
      conda activate ds_intro
      pip install numpy pandas matplotlib seaborn scikit-learn jupyterlab
      ```
-  * **AI/LLM Tools:** If students encounter installation errors, encourage them to copy the error message and ask an LLM for "how to fix Python error: [paste error message]" or "troubleshoot conda environment creation error."
+     * **AI/LLM Tools:** If students encounter installation errors, encourage them to copy the error message and ask an LLM for "how to fix Python error: [paste error message]" or "troubleshoot conda environment creation error."
   
 **Use Case 2.2: First Steps with Jupyter Notebooks**
 
 * **Problem Definition:** Students need to become comfortable with the Jupyter Notebook interface for interactive coding.
 * **Goal/Outcome:** Students will create a new Jupyter Notebook, write and execute Python code in cells (e.g., simple arithmetic, variable assignment), use Markdown cells for text, and save their notebook.
 * **Suggested Python & AI/LLM Tools:**
-  * **Python:** Basic Python commands (`print("Hello")`, `a = 5`, `b = 10`, `print(a+b)`).
-  * **AI/LLM Tools:** Ask an LLM for "common Jupyter Notebook keyboard shortcuts" or "how to add a markdown cell in Jupyter for a title."
+    * **Python:** Basic Python commands (`print("Hello")`, `a = 5`, `b = 10`, `print(a+b)`).
+    * **AI/LLM Tools:** Ask an LLM for "common Jupyter Notebook keyboard shortcuts" or "how to add a markdown cell in Jupyter for a title."
 
 **Use Case 2.3: Exploring LLM for Code Snippets**
 
 * **Problem Definition:** Introducing how LLMs can assist in generating basic code structures.
 * **Goal/Outcome:** Students will use an LLM to generate a simple Python script outline (e.g., a script that loads a hypothetical CSV, prints its first 5 rows, and then prints the number of rows and columns).
 * **Suggested Python & AI/LLM Tools:**
-  * **Python:** Execute and understand the code generated by the LLM.
-  * **AI/LLM Tools:** Prompt an LLM: "Write a Python script using pandas to load 'data.csv', display the head, and show its shape." Students should then reflect on the generated code's quality and correctness.
+    * **Python:** Execute and understand the code generated by the LLM.
+    * **AI/LLM Tools:** Prompt an LLM: "Write a Python script using pandas to load 'data.csv', display the head, and show its shape." Students should then reflect on the generated code's quality and correctness.
   
 #### Subtopic 3: Data Handling with Pandas
 
@@ -97,34 +97,34 @@ Upon completion, students will be able to:
 * **Problem Definition:** Working with a real (simple) dataset to understand its structure.
 * **Goal/Outcome:** Students will load a provided CSV file (e.g., a simplified Iris dataset or a small student grades dataset) into a Pandas DataFrame, and use functions like `.head()`, `.tail()`, `.info()`, `.describe()`, and `.shape` to inspect its basic properties.
 * **Suggested Python & AI/LLM Tools:**
-  * **Python:**
-  ```import pandas as pd
-  df = pd.read_csv('dataset.csv')
-  print(df.head())
-  df.info()
-  ```
-  * **AI/LLM Tools:** Ask an LLM: "How do I load a CSV file into pandas?" or "Explain the output of pandas df.info()." or "Generate pandas code to find the number of unique values in each column of a dataframe."
+    * **Python:**
+    ```import pandas as pd
+    df = pd.read_csv('dataset.csv')
+    print(df.head())
+    df.info()
+    ```
+    * **AI/LLM Tools:** Ask an LLM: "How do I load a CSV file into pandas?" or "Explain the output of pandas df.info()." or "Generate pandas code to find the number of unique values in each column of a dataframe."
 
 **Use Case 3.2: Basic Data Cleaning**
 
 * **Problem Definition:** Real-world data is often messy and requires cleaning (e.g., handling missing values).
 * **Goal/Outcome:** Students will identify missing values in a DataFrame column, and apply a simple strategy to handle them (e.g., filling with the mean/median or dropping rows/columns with missing values).
 * **Suggested Python & AI/LLM Tools:**
-  * Python:
-  ```df.isnull().sum()
+    * **Python:**
+    ```df.isnull().sum()
      df['column_name'].fillna(df['column_name'].mean(), inplace=True)
      ```
-  * **AI/LLM Tools:** "How to check for missing values in a pandas DataFrame?" or "Generate Python code to fill missing numerical values in a pandas column with its median."
+    * **AI/LLM Tools:** "How to check for missing values in a pandas DataFrame?" or "Generate Python code to fill missing numerical values in a pandas column with its median."
 
 **Use Case 3.3: Data Selection and Filtering**
 
 * **Problem Definition:** Extracting specific subsets of data relevant to a question.
 * **Goal/Outcome:** Students will select specific columns from a DataFrame and filter rows based on one or more conditions (e.g., select all students with a grade above 80).
 * **Suggested Python & AI/LLM Tools:**
-  * **Python:**
-  ```df[['column1', 'column2']], df[df['grade'] > 80]
-  ```
-  * **AI/LLM Tools:** "How to select multiple columns in pandas?" or "Show me pandas code to filter rows where column 'Age' is greater than 30 and column 'City' is 'New York'."
+    * **Python:**
+    ```df[['column1', 'column2']], df[df['grade'] > 80]
+    ```
+    * **AI/LLM Tools:** "How to select multiple columns in pandas?" or "Show me pandas code to filter rows where column 'Age' is greater than 30 and column 'City' is 'New York'."
 
 
 ### Subtopic 4: Visual Storytelling with Matplotlib & Seaborn
@@ -135,36 +135,36 @@ Upon completion, students will be able to:
 * **Goal/Outcome:** Students will create a histogram and a box plot for a numerical column in their dataset using Matplotlib or Seaborn to understand its distribution and identify potential outliers.
 
 * **Suggested Python & AI/LLM Tools:**
-  * **Python:**
-  ```import matplotlib.pyplot as plt
-  import seaborn as sns
-  plt.hist(df['numeric_column'])
-  sns.boxplot(x=df['numeric_column'])
-  ```
-  * **AI/LLM Tools:** "Generate Python code using matplotlib to create a histogram for a pandas Series." or "How to create a box plot using seaborn from a pandas DataFrame column?"
+    * **Python:**
+    ```import matplotlib.pyplot as plt
+    import seaborn as sns
+    plt.hist(df['numeric_column'])
+    sns.boxplot(x=df['numeric_column'])
+    ```
+    * **AI/LLM Tools:** "Generate Python code using matplotlib to create a histogram for a pandas Series." or "How to create a box plot using seaborn from a pandas DataFrame column?"
 
 **Use Case 4.2: Exploring Relationships Between Variables**
 
 * **Problem Definition:** Understanding how two variables might be related.
 * **Goal/Outcome:** Students will create a scatter plot to visualize the relationship between two numerical variables and a bar plot to compare a numerical variable across different categories of a categorical variable.
 * **Suggested Python & AI/LLM Tools:**
-  * **Python:**
-  ```plt.scatter(df['var1'], df['var2'])
-  sns.barplot(x='categorical_var', y='numerical_var', data=df)
-  ```
-  * **AI/LLM Tools:** "Python code for a scatter plot between two pandas columns." or "How to make a bar plot showing average sales per region using seaborn?"
+    * **Python:**
+    ```plt.scatter(df['var1'], df['var2'])
+    sns.barplot(x='categorical_var', y='numerical_var', data=df)
+    ```
+    * **AI/LLM Tools:** "Python code for a scatter plot between two pandas columns." or "How to make a bar plot showing average sales per region using seaborn?"
 
 **Use Case 4.3: Customizing Plots with LLM Assistance**
 
 * **Problem Definition:** Making plots more informative and presentable often requires customization.
 * **Goal/Outcome:** Students will take a basic plot they created and use an LLM to learn how to add titles, axis labels, change colors, or adjust font sizes.
 * **Suggested Python & AI/LLM Tools:**
-  * **Python:**
-  ```plt.title('My Plot Title')
-  plt.xlabel('X-axis Label')
-  plt.ylabel('Y-axis Label')
-  ```
-  * **AI/LLM Tools:** "How to add a title to a matplotlib plot?" or "Change the color of bars in a seaborn barplot." or "Increase font size of axis labels in matplotlib."
+    * **Python:**
+    ```plt.title('My Plot Title')
+    plt.xlabel('X-axis Label')
+    plt.ylabel('Y-axis Label')
+    ```
+    * **AI/LLM Tools:** "How to add a title to a matplotlib plot?" or "Change the color of bars in a seaborn barplot." or "Increase font size of axis labels in matplotlib."
 
 #### Subtopic 5: First Steps into Machine Learning with Scikit-learn
 
@@ -173,46 +173,46 @@ Upon completion, students will be able to:
 * **Problem Definition:** Grasping the concept of training a model to predict categories.
 * **Goal/Outcome:** Students will identify a simple classification problem from a given dataset (e.g., predict species of iris flower based on measurements), and separate the data into features (X) and target (y).
 * **Suggested Python & AI/LLM Tools:**
-  * **Python:**
-  ```X = df[['feature1', 'feature2']]
-  y = df['target_variable']
-  ```
-  * **AI/LLM Tools:** "Explain supervised learning with an example." or "In the iris dataset, what are typical features and what is the target variable for classification?"
+    * **Python:**
+    ```X = df[['feature1', 'feature2']]
+    y = df['target_variable']
+    ```
+    * **AI/LLM Tools:** "Explain supervised learning with an example." or "In the iris dataset, what are typical features and what is the target variable for classification?"
 
 **Use Case 5.2: Training a Simple Classifier**
 
 * **Problem Definition:** Building and training a basic machine learning model.
 * **Goal/Outcome:** Students will split their data into training and testing sets, and then train a k-Nearest Neighbors (k-NN) classifier or a Decision Tree classifier on the training data using Scikit-learn.
 * **Suggested Python & AI/LLM Tools:**
-  * **Python:**
-  ```from sklearn.model_selection import train_test_split
-  from sklearn.neighbors import KNeighborsClassifier
-  X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3), model = KNeighborsClassifier(n_neighbors=3)
-  model.fit(X_train, y_train)
-  ```
-  * **AI/LLM Tools:** "Generate scikit-learn code to split data into training and testing sets." or "How to train a k-NN classifier in scikit-learn?" or "Explain the n_neighbors parameter in KNeighborsClassifier."
+    * **Python:**
+    ```from sklearn.model_selection import train_test_split
+    from sklearn.neighbors import KNeighborsClassifier
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3), model =      KNeighborsClassifier(n_neighbors=3)
+    model.fit(X_train, y_train)
+   ```
+    * **AI/LLM Tools:** "Generate scikit-learn code to split data into training and testing sets." or "How to train a k-NN classifier in scikit-learn?" or "Explain the n_neighbors parameter in KNeighborsClassifier."
   
 **Use Case 5.3: Making Predictions and Basic Evaluation**
 
 * **Problem Definition:** Assessing how well the trained model performs on unseen data.
 * **Goal/Outcome:** Students will use their trained model to make predictions on the test set and calculate a simple accuracy score to evaluate its performance.
 * **Suggested Python & AI/LLM Tools:**
-  * **Python:**
-  ```y_pred = model.predict(X_test)
-  from sklearn.metrics import accuracy_score
-  accuracy = accuracy_score(y_test, y_pred)
-  print(f"Accuracy: {accuracy}")
-  ```
+    * **Python:**
+    ```y_pred = model.predict(X_test)
+    from sklearn.metrics import accuracy_score
+    accuracy = accuracy_score(y_test, y_pred)
+    print(f"Accuracy: {accuracy}")
+    ```
   * **AI/LLM Tools:** "How to make predictions with a trained scikit-learn model?" or "Calculate accuracy score in scikit-learn." or "What does an accuracy score of 0.85 mean in a classification problem?"
 
 
 ### 7. Practice Assessment – Multiple Choice Quiz
 
 1. Which of the following best describes Data Science?
-a)  The study of computer algorithms only.
-b)  An interdisciplinary field that uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from data.
-c)  The process of creating realistic computer graphics.
-d)  Exclusively focused on building Artificial Intelligence.
+* a)  The study of computer algorithms only.
+* b)  An interdisciplinary field that uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from data.
+* c)  The process of creating realistic computer graphics.
+* d)  Exclusively focused on building Artificial Intelligence.
 
 <details>
   <summary>Answer</summary>
