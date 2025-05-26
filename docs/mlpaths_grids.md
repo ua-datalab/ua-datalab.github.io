@@ -29,9 +29,7 @@ timeline
 
 <div class="grid cards" markdown>
 
-- <i class="fa-solid fa-chart-column">AA</i>
-
-- :fa-solid fa-chart-column:{ .lg .middle } __A1: Data Science and Machine Learning__
+- <i class="fa-solid fa-chart-column"></i> __A1: Data Science and Machine Learning__
 
 
 
@@ -41,7 +39,6 @@ timeline
 
 Data Science is an interdisciplinary field focused on extracting knowledge and insights from data. Machine Learning (ML), a key component of Artificial Intelligence (AI), enables systems to learn from data to make decisions or predictions.
 
-    [:octicons-arrow-right-24: Introduction to Data Science and Machine Learning](#)
 
 
 - :fa-brands fa-python:{ .lg .middle } __A2: Python for Data Science__
@@ -50,7 +47,7 @@ Data Science is an interdisciplinary field focused on extracting knowledge and i
 
 **Python's** simplicity, versatility, and vast ecosystem of specialized libraries have made it the cornerstone of modern data science. 
 
-    [:octicons-arrow-right-24: B](#)
+
 
 - :fa-solid fa-scale-balanced:{ .lg .middle } __A3: Ethical Considerations in Data Science__
 
@@ -58,14 +55,13 @@ Data Science is an interdisciplinary field focused on extracting knowledge and i
 
 **Ethics**
 
-    [:octicons-arrow-right-24: C](#)
+
 
 
 - > :fa-solid fa-chart-line:{ .lg .middle }  __A4: Statistical Learning and Regression Models__
 
 **Statistics**
 
-    [:octicons-arrow-right-24: D](#)
 
 </div>
 
