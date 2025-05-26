@@ -29,7 +29,7 @@ timeline
 
 <div class="grid cards" markdown>
 
--   <a href="mlpaths/A1_Intro_to_DataScience_and_ML.md"><b>Introduction to Data Science and Machine Learning</b></a></p>
+-   [<b>Introduction to Data Science and Machine Learning</b](mlpaths/A1_Intro_to_DataScience_and_ML.md)
 
     ---
 
