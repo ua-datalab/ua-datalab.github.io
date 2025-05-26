@@ -23,8 +23,47 @@ timeline
 
 ### General Data Science
 
+
 [**A1: Introduction to Data Science and Machine Learning**](mlpaths/A1_Intro_to_DataScience_and_ML.md)
 
+
+<div class="grid" markdown>
+
+:fa-solid fa-chart-column: __A1: Data Science and Machine Learning__
+
+
+[**Introduction to Data Science and Machine Learning**](mlpaths/A1_Intro_to_DataScience_and_ML.md).
+
+Data Science is an interdisciplinary field focused on extracting knowledge and insights from data. Machine Learning (ML), a key component of Artificial Intelligence (AI), enables systems to learn from data to make decisions or predictions.
+ 
+{ .card }
+
+:fa-brands fa-python: __A2: Python for Data Science__
+
+**Python's** simplicity, versatility, and vast ecosystem of specialized libraries have made it the cornerstone of modern data science. 
+
+{ .card }
+
+:fa-solid fa-scale-balanced: __A3: Ethical Considerations in Data Science__
+
+**Ethics**
+
+{ .card }
+
+> :fa-solid fa-chart-line: __A4: Statistical Learning and Regression Models__
+
+**Statistics**
+
+</div>
+
+
+<!--
+<i class="fa-solid fa-chart-column"></i
+<i class="fa-solid fa-code"></i>
+<i class="fa-brands fa-python"></i>
+<i class="fa-solid fa-scale-balanced"</i>
+<i class="fa-solid fa-chart-line"></i>
+-->
 
 <!--
 
