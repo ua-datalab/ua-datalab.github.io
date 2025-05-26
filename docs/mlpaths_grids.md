@@ -23,7 +23,7 @@ timeline
 
 ### General Data Science
 
-1. [Introduction to Data Science and Machine Learning](mlpaths/A1_IntroDS_and_ML.md)
+[**A1: Introduction to Data Science and Machine Learning**](mlpaths/A1_Intro_to_DataScience_and_ML.md)
 
 
 <!--
