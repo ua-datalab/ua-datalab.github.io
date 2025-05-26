@@ -27,32 +27,41 @@ timeline
 [**A1: Introduction to Data Science and Machine Learning**](mlpaths/A1_Intro_to_DataScience_and_ML.md)
 
 
-<div class="grid" markdown>
+<div class="grid cards" markdown>
 
-:fa-solid fa-chart-column: __A1: Data Science and Machine Learning__
+- :fa-solid fa-chart-column:{ .lg .middle } __A1: Data Science and Machine Learning__
 
+---
 
 [**Introduction to Data Science and Machine Learning**](mlpaths/A1_Intro_to_DataScience_and_ML.md).
 
 Data Science is an interdisciplinary field focused on extracting knowledge and insights from data. Machine Learning (ML), a key component of Artificial Intelligence (AI), enables systems to learn from data to make decisions or predictions.
- 
-{ .card }
 
-:fa-brands fa-python: __A2: Python for Data Science__
+    [:octicons-arrow-right-24: Introduction to Data Science and Machine Learning](#)
+
+
+- :fa-brands fa-python:{ .lg .middle } __A2: Python for Data Science__
+
+---
 
 **Python's** simplicity, versatility, and vast ecosystem of specialized libraries have made it the cornerstone of modern data science. 
 
-{ .card }
+    [:octicons-arrow-right-24: B](#)
 
-:fa-solid fa-scale-balanced: __A3: Ethical Considerations in Data Science__
+- :fa-solid fa-scale-balanced:{ .lg .middle } __A3: Ethical Considerations in Data Science__
+
+---
 
 **Ethics**
 
-{ .card }
+    [:octicons-arrow-right-24: C](#)
 
-> :fa-solid fa-chart-line: __A4: Statistical Learning and Regression Models__
+
+- > :fa-solid fa-chart-line:{ .lg .middle }  __A4: Statistical Learning and Regression Models__
 
 **Statistics**
+
+    [:octicons-arrow-right-24: D](#)
 
 </div>
 
