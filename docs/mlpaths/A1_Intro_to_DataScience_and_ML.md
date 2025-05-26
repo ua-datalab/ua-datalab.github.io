@@ -54,26 +54,31 @@ Here are some key tools you'll get familiar with. As you work through the module
 ---
 
 ## 4. Key Skills to Develop
+
 Through the activities in this module, you will strengthen your ability to:
-1.  **Define and Differentiate Core Concepts:** Clearly explain terms like [supervised](https://en.wikipedia.org/wiki/Supervised_learning)/[unsupervised learning](https://en.wikipedia.org/wiki/Unsupervised_learning), [classification](https://en.wikipedia.org/wiki/Statistical_classification)/[regression](https://en.wikipedia.org/wiki/Regression_analysis), and the data science lifecycle.
-2.  **Master Basic Data Handling:** Independently use Pandas to load, inspect, clean, and transform diverse datasets.
-3.  **Create Insightful Visualizations:** Generate and interpret various plots using Matplotlib and Seaborn to uncover data patterns.
-4.  **Implement Foundational ML Models:** Apply basic [Scikit-learn algorithms](https://scikit-learn.org/stable/index.html) (e.g., [k-NN](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm), [Decision Trees](https://en.wikipedia.org/wiki/Decision_tree)) to solve simple classification tasks.
-5.  **Leverage AI for Learning & Development:** Proactively use LLMs and AI tools to clarify doubts, generate code examples, debug issues, and explore data science problems more deeply.
+
+1. **Define and Differentiate Core Concepts:** Clearly explain terms like [supervised](https://en.wikipedia.org/wiki/Supervised_learning)/[unsupervised learning](https://en.wikipedia.org/wiki/Unsupervised_learning), [classification](https://en.wikipedia.org/wiki/Statistical_classification)/[regression](https://en.wikipedia.org/wiki/Regression_analysis), and the data science lifecycle.
+2. **Master Basic Data Handling:** Independently use Pandas to load, inspect, clean, and transform diverse datasets.
+3. **Create Insightful Visualizations:** Generate and interpret various plots using Matplotlib and Seaborn to uncover data patterns.
+4. **Implement Foundational ML Models:** Apply basic [Scikit-learn algorithms](https://scikit-learn.org/stable/index.html) (e.g., [k-NN](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm), [Decision Trees](https://en.wikipedia.org/wiki/Decision_tree)) to solve simple classification tasks.
+5. **Leverage AI for Learning & Development:** Proactively use LLMs and AI tools to clarify doubts, generate code examples, debug issues, and explore data science problems more deeply.
 
 ---
 
 ## 5. Subtopics
+
 This module is broken down into five manageable subtopics:
-1.  **Understanding the Landscape: Data Science & Machine Learning Fundamentals**
-2.  **Setting Up Your Python Data Science Environment**
-3.  **Data Manipulation and Cleaning with Pandas**
-4.  **Exploratory Data Visualization with Matplotlib & Seaborn**
-5.  **Your First Machine Learning Model with Scikit-learn**
+
+1. **Understanding the Landscape: Data Science & Machine Learning Fundamentals**
+2. **Setting Up Your Python Data Science Environment**
+3. **Data Manipulation and Cleaning with Pandas**
+4. **Exploratory Data Visualization with Matplotlib & Seaborn**
+5. **Your First Machine Learning Model with Scikit-learn**
 
 ---
 
 ## 6. Experiential Use Cases
+
 For each use case, actively engage with the problem. Don't hesitate to use an AI tool (like a local LLM via LM Studio/Ollama or an online one you have access to) if you get stuck or want to explore further!
 
 ### Subtopic 1: Understanding the Landscape: Data Science & Machine Learning Fundamentals
@@ -282,17 +287,25 @@ Test your understanding with these questions. Try to answer them first, then ver
 
 ## 8. Further Reading & References
 
-1.  **McKinney, W. (2022). *Python for Data Analysis* (3rd ed.). O'Reilly Media.**
+1.  **McKinney, W. (2022). *Python for Data Analysis* (3rd ed.). O'Reilly Media. [GitHub](https://wesmckinney.com/book/)**
     * The definitive guide to Pandas, written by its creator. Excellent for deep dives into data manipulation.
-2.  **VanderPlas, J. (2016). *Python Data Science Handbook: Essential Tools for Working with Data*. O'Reilly Media.**
-    * Also available free online ([https://jakevdp.github.io/PythonDataScienceHandbook/](https://jakevdp.github.io/PythonDataScienceHandbook/)). Covers NumPy, Pandas, Matplotlib, and Scikit-learn with clear examples.
-3.  **Grus, J. (2019). *Data Science from Scratch: First Principles with Python* (2nd ed.). O'Reilly Media.**
+2.  **VanderPlas, J. (2016). *Python Data Science Handbook: Essential Tools for Working with Data*. O'Reilly Media. [GitHub](https://jakevdp.github.io/PythonDataScienceHandbook/)**.
+    * Covers NumPy, Pandas, Matplotlib, and Scikit-learn with clear examples.
+3.  **Grus, J. (2019). *Data Science from Scratch: First Principles with Python* (2nd ed.). O'Reilly Media. [GitHub](https://github.com/joelgrus/data-science-from-scratch)**
     * Great for understanding the fundamentals by implementing them from scratch before relying on libraries.
-4.  **Scikit-learn Official Documentation: User Guide** ([https://scikit-learn.org/stable/user_guide.html](https://scikit-learn.org/stable/user_guide.html))
+4.  [**Scikit-learn Official Documentation: User Guide**](https://scikit-learn.org/stable/user_guide.html)
     * Comprehensive, well-written documentation for all things Scikit-learn. Check for tutorials and examples.
 5.  **Hugging Face Documentation (Transformers & Learn)** ([https://huggingface.co/docs/transformers](https://huggingface.co/docs/transformers) and [https://huggingface.co/learn/nlp-course](https://huggingface.co/learn/nlp-course) (for general NLP concepts which often use LLMs))
     * Essential for understanding how to find, use, and fine-tune open-source models, including LLMs that can assist your learning. Explore the models section too!
-6.  **Pandas Official Documentation: Getting Started Tutorials** ([https://pandas.pydata.org/docs/getting_started/index.html](https://pandas.pydata.org/docs/getting_started/index.html))
+6.  [**Pandas Official Documentation: Getting Started Tutorials**](https://pandas.pydata.org/docs/getting_started/index.html)
     * Direct from the source, these tutorials are excellent for practical learning.
 
 ---
+
+***
+
+Created: 05/25/2025 (C. Lizárraga); Updated: 05/25/2025 (C. Lizárraga)
+
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/64px-Cc.logo.circle.svg.png" width=20> 2025. [University of Arizona DataLab](https://datascience.arizona.edu/education/uarizona-data-lab), [Data Science Institute](https://datascience.arizona.edu/)
+
