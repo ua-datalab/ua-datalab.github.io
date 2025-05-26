@@ -21,7 +21,7 @@ timeline
 
 ```
 
-### A General Data Science
+### A. General Data Science
 
 <!--
 [**A1: Introduction to Data Science and Machine Learning**](mlpaths/A1_Intro_to_DataScience_and_ML.md)
@@ -89,18 +89,41 @@ timeline
 
 </div>
 
-### B. Statistics
+### D. Deep Learning 
 
 <div class="grid cards" markdown>
 
--   <b>4. Statistical Learning and Regression Models</b>
+-   <b>8. Introduction to Deep Learning </b>
 
     ---
 
-    <p>Statistics
+    <p>S
+
+
+-   <b>9. Recurrent Neural Networks and Sequence Models </b>
+
+    ---
+
+    <p>S
+
+
+-   <b>10. Generative Models</b>
+
+    ---
+
+    <p>S
+
+
+-   <b>11. Transfer Learning and Fine-Tuning</b>
+
+    ---
+
+    <p>S
 
 
 </div>
+
+
 
 
 
