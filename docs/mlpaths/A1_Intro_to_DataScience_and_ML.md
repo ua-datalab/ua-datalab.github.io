@@ -180,6 +180,7 @@ This quiz helps you self-assess your understanding. Answers can be verified by r
     d)  The development of software that can reason and solve complex problems like humans.<br>
     *(Answer: (1) :eyes:)*
     { .annotate }
+    
     1. Answer is: <b>b</b>
 
 2. Consider the following Python code using Pandas:
@@ -195,9 +196,10 @@ This quiz helps you self-assess your understanding. Answers can be verified by r
     b)  0<br>
     c)  Approximately 2.67<br>
     d)  6<br>
-    *(Answer: (a) :eyes:)*
+    *(Answer: (2) :eyes:)*
     { .annotate }
-    a. Answer is: <b>c</b> 
+
+    2. Answer is: <b>c</b> 
 
 
 3. Which Python library is primarily used for creating statistical visualizations like heatmaps and pair plots with concise syntax?<br>
@@ -207,6 +209,7 @@ This quiz helps you self-assess your understanding. Answers can be verified by r
     d)  Scikit-learn<br>
     *(Answer: (1) :eyes:)*
     { .annotate }
+
     1. Answer is: <b>b</b> 
 
 
@@ -217,6 +220,7 @@ This quiz helps you self-assess your understanding. Answers can be verified by r
     d)  It's a technique for reducing the number of features.<br>
     *(Answer: (1) :eyes:)*
     { .annotate }
+
     1. Answer is: <b>b</b> 
 
 5. What is the primary purpose of `train_test_split` in Scikit-learn?<br>
@@ -224,27 +228,30 @@ This quiz helps you self-assess your understanding. Answers can be verified by r
     b)  To separate features from the target variable within a single dataset.<br>
     c)  To divide a dataset into one part for training the model and another, unseen part for evaluating its performance.<br>
     d)  To visualize the distribution of data.<br>
-    *(Answer: (a) :eyes:)*
+    *(Answer: (2) :eyes:)*
     { .annotate }    
-    a. Answer is: <b>c</b> 
+
+    2. Answer is: <b>c</b> 
 
 6. If you want to create a scatter plot in Python to visualize the relationship between 'Height' and 'Weight' columns in a Pandas DataFrame `df`, which line of code is most appropriate using Seaborn?<br>
     a)  `sns.histplot(data=df, x='Height', y='Weight')`<br>
     b)  `sns.boxplot(data=df, x='Height', y='Weight')`<br>
     c)  `sns.scatterplot(data=df, x='Height', y='Weight')`<br>
     d)  `df.plot(kind='scatter', x='Height', y='Weight')` (This is Pandas plotting, not Seaborn directly)<br>
-    *(Answer: (a) :eyes:)*
+    *(Answer: (2) :eyes:)*
     { .annotate }    
-    a. Answer is: <b>c</b> 
+
+    2. Answer is: <b>c</b> 
 
 7. You have loaded a dataset into a Pandas DataFrame called `sales_df`. How would you display the first 10 rows of this DataFrame?<br>
     a)  `sales_df.show(10)`<br>
     b)  `sales_df.display_head(10)`<br>
     c)  `sales_df.head(10)`<br>
     d)  `sales_df.first(10)`<br>
-    *(Answer: (a) :eyes:)*
+    *(Answer: (2) :eyes:)*
     { .annotate }    
-    a. Answer is: <b>c</b> 
+
+    2. Answer is: <b>c</b> 
 
 8. When you encounter a Python error message that you don't understand while working in a Jupyter Notebook, how can an LLM assist you most effectively?<br>
     a)  By automatically fixing the code in your notebook.<br>
@@ -253,6 +260,7 @@ This quiz helps you self-assess your understanding. Answers can be verified by r
     d)  By advising you to restart your computer.<br>
     *(Answer: (1) :eyes:)*
     { .annotate }    
+
     1. Answer is: <b>b</b> 
 
 9. What does the `.info()` method in Pandas primarily provide for a DataFrame?<br>
@@ -262,6 +270,7 @@ This quiz helps you self-assess your understanding. Answers can be verified by r
     d)  The correlation matrix of numerical columns.<br>
     *(Answer: (a) :eyes:)*
     { .annotate }    
+
     a. Answer is: <b>c</b> 
 
 10. Which of these tasks falls under the 'Data Cleaning/Preparation' stage of the data science workflow?<br>
@@ -269,9 +278,10 @@ This quiz helps you self-assess your understanding. Answers can be verified by r
     b)  Training a machine learning model.<br>
     c)  Handling missing values and transforming variables.<br>
     d)  Presenting results to stakeholders.<br>
-    *(Answer: (a) :eyes:)*
-    { .annotate }    
-    a. Answer is: <b>c</b> 
+    *(Answer: (2) :eyes:)*
+        { .annotate }    
+
+    	2. Answer is: <b>c</b> 
 
 ---
 
