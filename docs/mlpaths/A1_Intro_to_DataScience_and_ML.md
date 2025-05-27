@@ -225,7 +225,6 @@ This quiz helps you self-assess your understanding. Answers can be verified by r
     b)  To separate features from the target variable within a single dataset.<br>
     c)  To divide a dataset into one part for training the model and another, unseen part for evaluating its performance.<br>
     d)  To visualize the distribution of data.<br>
-    *(Answer: c)*
     *(Answer:(2) :eyes:)*
     { .annotate }    
     2. Answer is: <b>c</b> 
@@ -235,7 +234,6 @@ This quiz helps you self-assess your understanding. Answers can be verified by r
     b)  `sns.boxplot(data=df, x='Height', y='Weight')`<br>
     c)  `sns.scatterplot(data=df, x='Height', y='Weight')`<br>
     d)  `df.plot(kind='scatter', x='Height', y='Weight')` (This is Pandas plotting, not Seaborn directly)<br>
-    *(Answer: c)*
     *(Answer:(2) :eyes:)*
     { .annotate }    
     2. Answer is: <b>c</b> 
@@ -245,7 +243,6 @@ This quiz helps you self-assess your understanding. Answers can be verified by r
     b)  `sales_df.display_head(10)`<br>
     c)  `sales_df.head(10)`<br>
     d)  `sales_df.first(10)`<br>
-    *(Answer: c)*
     *(Answer:(2) :eyes:)*
     { .annotate }    
     2. Answer is: <b>c</b> 
@@ -255,7 +252,6 @@ This quiz helps you self-assess your understanding. Answers can be verified by r
     b)  By explaining what the error message typically means, suggesting possible causes, and providing examples of how to fix similar errors.<br>
     c)  By providing a link to the full Python documentation without context.<br>
     d)  By advising you to restart your computer.<br>
-    *(Answer: b)*
     *(Answer:(1) :eyes:)*
     { .annotate }    
     1. Answer is: <b>b</b> 
@@ -265,7 +261,6 @@ This quiz helps you self-assess your understanding. Answers can be verified by r
     b)  The first five rows of the DataFrame.<br>
     c)  A concise summary of the DataFrame, including data types of columns and non-null counts.<br>
     d)  The correlation matrix of numerical columns.<br>
-    *(Answer: c)*
     *(Answer:(2) :eyes:)*
     { .annotate }    
     2. Answer is: <b>c</b> 
@@ -275,7 +270,6 @@ This quiz helps you self-assess your understanding. Answers can be verified by r
     b)  Training a machine learning model.<br>
     c)  Handling missing values and transforming variables.<br>
     d)  Presenting results to stakeholders.<br>
-    *(Answer: c)*
     *(Answer:(2) :eyes:)*
     { .annotate }    
     2. Answer is: <b>c</b> 
