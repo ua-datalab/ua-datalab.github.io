@@ -182,7 +182,8 @@ This quiz helps you self-assess your understanding. Answers can be verified by r
     d)  The development of software that can reason and solve complex problems like humans.<br>
     *(Answer: (1) :eyes:)*
     { .annotate }
-    <span class="annotate">(1)</span><ol><li>when possible</li></ol>
+    
+<span class="annotate">(1)</span><ol><li>when possible</li></ol>
 
 2. Consider the following Python code using Pandas:
     ```python
@@ -199,7 +200,8 @@ This quiz helps you self-assess your understanding. Answers can be verified by r
     d)  6<br>
     *(Answer: (2) :eyes:)*
     { .annotate }
-    <span class="annotate">(2)</span><ol><li>when not possible</li></ol>
+
+<span class="annotate">(2)</span><ol><li>when not possible</li></ol>
     
 3. Which Python library is primarily used for creating statistical visualizations like heatmaps and pair plots with concise syntax?<br>
     a)  NumPy<br>
@@ -208,7 +210,8 @@ This quiz helps you self-assess your understanding. Answers can be verified by r
     d)  Scikit-learn<br>
     *(Answer: (1) :eyes:)*
     { .annotate }
-    <span class="annotate">(1)</span><ol><li>when possible</li></ol>
+
+<span class="annotate">(1)</span><ol><li>when possible</li></ol>
     
 4. In a typical classification problem, what is the role of the 'target variable'?<br>
     a)  It's an input feature used by the model to learn.<br>
@@ -217,7 +220,8 @@ This quiz helps you self-assess your understanding. Answers can be verified by r
     d)  It's a technique for reducing the number of features.<br>
     *(Answer: (1) :eyes:)*
     { .annotate }
-    <span class="annotate">(1)</span><ol><li>when possible</li></ol>
+
+<span class="annotate">(1)</span><ol><li>when possible</li></ol>
     
 5. What is the primary purpose of `train_test_split` in Scikit-learn?<br>
     a)  To combine two different datasets into one.<br>
@@ -226,7 +230,8 @@ This quiz helps you self-assess your understanding. Answers can be verified by r
     d)  To visualize the distribution of data.<br>
     *(Answer: (2) :eyes:)*
     { .annotate }    
-    <span class="annotate">(2)</span><ol><li>when not possible</li></ol>
+
+<span class="annotate">(2)</span><ol><li>when not possible</li></ol>
     
 6. If you want to create a scatter plot in Python to visualize the relationship between 'Height' and 'Weight' columns in a Pandas DataFrame `df`, which line of code is most appropriate using Seaborn?<br>
     a)  `sns.histplot(data=df, x='Height', y='Weight')`<br>
