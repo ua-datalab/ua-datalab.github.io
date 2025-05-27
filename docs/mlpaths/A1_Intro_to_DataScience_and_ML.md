@@ -182,8 +182,6 @@ This quiz helps you self-assess your understanding. Answers can be verified by r
     d)  The development of software that can reason and solve complex problems like humans.<br>
     *(Answer: (1) :eyes:)*
     { .annotate }
-    
-    1. Answer is: <b>b</b>
 
 2. Consider the following Python code using Pandas:
     ```python
@@ -201,9 +199,6 @@ This quiz helps you self-assess your understanding. Answers can be verified by r
     *(Answer: (2) :eyes:)*
     { .annotate }
 
-    2. Answer is: <b>c</b> 
-
-
 3. Which Python library is primarily used for creating statistical visualizations like heatmaps and pair plots with concise syntax?<br>
     a)  NumPy<br>
     b)  Seaborn<br>
@@ -211,9 +206,6 @@ This quiz helps you self-assess your understanding. Answers can be verified by r
     d)  Scikit-learn<br>
     *(Answer: (1) :eyes:)*
     { .annotate }
-
-    1. Answer is: <b>b</b> 
-
 
 4. In a typical classification problem, what is the role of the 'target variable'?<br>
     a)  It's an input feature used by the model to learn.<br>
@@ -223,8 +215,6 @@ This quiz helps you self-assess your understanding. Answers can be verified by r
     *(Answer: (1) :eyes:)*
     { .annotate }
 
-    1. Answer is: <b>b</b> 
-
 5. What is the primary purpose of `train_test_split` in Scikit-learn?<br>
     a)  To combine two different datasets into one.<br>
     b)  To separate features from the target variable within a single dataset.<br>
@@ -232,8 +222,6 @@ This quiz helps you self-assess your understanding. Answers can be verified by r
     d)  To visualize the distribution of data.<br>
     *(Answer: (2) :eyes:)*
     { .annotate }    
-
-    2. Answer is: <b>c</b> 
 
 6. If you want to create a scatter plot in Python to visualize the relationship between 'Height' and 'Weight' columns in a Pandas DataFrame `df`, which line of code is most appropriate using Seaborn?<br>
     a)  `sns.histplot(data=df, x='Height', y='Weight')`<br>
@@ -243,8 +231,6 @@ This quiz helps you self-assess your understanding. Answers can be verified by r
     *(Answer: (2) :eyes:)*
     { .annotate }    
 
-    2. Answer is: <b>c</b> 
-
 7. You have loaded a dataset into a Pandas DataFrame called `sales_df`. How would you display the first 10 rows of this DataFrame?<br>
     a)  `sales_df.show(10)`<br>
     b)  `sales_df.display_head(10)`<br>
@@ -252,8 +238,6 @@ This quiz helps you self-assess your understanding. Answers can be verified by r
     d)  `sales_df.first(10)`<br>
     *(Answer: (2) :eyes:)*
     { .annotate }    
-
-    2. Answer is: <b>c</b> 
 
 8. When you encounter a Python error message that you don't understand while working in a Jupyter Notebook, how can an LLM assist you most effectively?<br>
     a)  By automatically fixing the code in your notebook.<br>
@@ -263,17 +247,13 @@ This quiz helps you self-assess your understanding. Answers can be verified by r
     *(Answer: (1) :eyes:)*
     { .annotate }    
 
-    1. Answer is: <b>b</b> 
-
 9. What does the `.info()` method in Pandas primarily provide for a DataFrame?<br>
     a)  A statistical summary of numerical columns (mean, std, min, max).<br>
     b)  The first five rows of the DataFrame.<br>
     c)  A concise summary of the DataFrame, including data types of columns and non-null counts.<br>
     d)  The correlation matrix of numerical columns.<br>
-    *(Answer: (a) :eyes:)*
+    *(Answer: (2) :eyes:)*
     { .annotate }    
-
-    a. Answer is: <b>c</b> 
 
 10. Which of these tasks falls under the 'Data Cleaning/Preparation' stage of the data science workflow?<br>
     a)  Defining business objectives.<br>
