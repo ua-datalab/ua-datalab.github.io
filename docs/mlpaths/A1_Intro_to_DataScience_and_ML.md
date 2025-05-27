@@ -173,6 +173,8 @@ For each use case, remember to leverage AI tools if you get stuck or want to div
 
 This quiz helps you self-assess your understanding. Answers can be verified by reviewing module content or quick experimentation.
 
+<div class="annotate" markdown>
+
 1. Which of the following best describes Machine Learning?<br>
     a)  The science of making computers perform tasks that require human intelligence.<br>
     b)  A field of study that gives computers the ability to learn without being explicitly programmed.<br>
@@ -281,7 +283,10 @@ This quiz helps you self-assess your understanding. Answers can be verified by r
     *(Answer: (2) :eyes:)*
         { .annotate }    
 
-    	2. Answer is: <b>c</b> 
+</div>
+
+1. Answer is: <b>b</b>
+2. Answer is: <b>c</b> 
 
 ---
 
