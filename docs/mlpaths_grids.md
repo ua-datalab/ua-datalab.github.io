@@ -6,18 +6,18 @@ We present 12 topics in the data science learning path, providing learning objec
 ```mermaid
 timeline
     title Machine Learning Learning Path
-    A. General Data Science : 1. Introduction to Data Science and Machine Learning
-    	    	 	     : 2. Python for Data Science
-			     : 3. Ethical Considerations in Data Science
-    B. Statistics : 4. Statistical Learning and Regression Models
-    C. Classical Machine Learning : 5. Supervised Learning
-				 : 6. Unsupervised Learning
-				 : 7. Ensemble Methods
-    D. Deep Learning : 8. Introduction to Deep Learning
-    	   	    : 9. Recurrent Neural Networks and Sequence Models
-		    : 10. Generative Models
-		    : 11. Transfer Learning and Fine-tuning
-    E. Continuous Integration / Continuous Deployment  : 12. Model Deployment and Productionization
+    A. General Data Science : A1. Introduction to Data Science and Machine Learning
+    	    	 	     : A2. Python for Data Science
+			     : A3. Ethical Considerations in Data Science
+    B. Statistics : B1. Statistical Learning and Regression Models
+    C. Classical Machine Learning : C1. Supervised Learning
+				 : C2. Unsupervised Learning
+				 : C3. Ensemble Methods
+    D. Deep Learning : D1. Introduction to Deep Learning
+    	   	    : D2. Recurrent Neural Networks and Sequence Models
+		    : D3. Generative Models
+		    : D4. Transfer Learning and Fine-tuning
+    E. Continuous Integration / Continuous Deployment  : E1. Model Deployment and Productionization
 
 ```
 
