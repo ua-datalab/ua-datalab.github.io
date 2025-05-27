@@ -1,3 +1,5 @@
+[[**Back to ML Paths Home!**](https://ua-datalab.github.io/mlpaths_grids/)]
+
 ## Introduction to Data Science and Machine Learning 🧭🤖
 
 
@@ -176,7 +178,10 @@ This quiz helps you self-assess your understanding. Answers can be verified by r
     b)  A field of study that gives computers the ability to learn without being explicitly programmed.<br>
     c)  The process of using computers to analyze large datasets only.<br>
     d)  The development of software that can reason and solve complex problems like humans.<br>
-    *(Answer: b)*
+    *(Answer:(1) :eyes:*
+    { .annotate }
+    1. Answer is: <b>b</>
+
 
 2. Consider the following Python code using Pandas:
     ```python
@@ -191,7 +196,10 @@ This quiz helps you self-assess your understanding. Answers can be verified by r
     b)  0<br>
     c)  Approximately 2.67<br>
     d)  6<br>
-    *(Answer: c)*
+    *(Answer:(2) :eyes:*
+    { .annotate }
+    2. Answer is: <b>c</> 
+
 
 3. Which Python library is primarily used for creating statistical visualizations like heatmaps and pair plots with concise syntax?<br>
     a)  NumPy<br>
@@ -199,6 +207,10 @@ This quiz helps you self-assess your understanding. Answers can be verified by r
     c)  Pandas<br>
     d)  Scikit-learn<br>
     *(Answer: b)*
+    *(Answer:(3) :eyes:*
+    { .annotate }
+    3. Answer is: <b>b</> 
+
 
 4. In a typical classification problem, what is the role of the 'target variable'?<br>
     a)  It's an input feature used by the model to learn.<br>
@@ -206,6 +218,9 @@ This quiz helps you self-assess your understanding. Answers can be verified by r
     c)  It's a numerical value the model tries to estimate.<br>
     d)  It's a technique for reducing the number of features.<br>
     *(Answer: b)*
+    *(Answer:(4) :eyes:*
+    { .annotate }
+    4. Answer is: <b>b</> 
 
 5. What is the primary purpose of `train_test_split` in Scikit-learn?<br>
     a)  To combine two different datasets into one.<br>
@@ -213,6 +228,9 @@ This quiz helps you self-assess your understanding. Answers can be verified by r
     c)  To divide a dataset into one part for training the model and another, unseen part for evaluating its performance.<br>
     d)  To visualize the distribution of data.<br>
     *(Answer: c)*
+    *(Answer:(5) :eyes:*
+    { .annotate }    
+    5. Answer is: <b>c</> 
 
 6. If you want to create a scatter plot in Python to visualize the relationship between 'Height' and 'Weight' columns in a Pandas DataFrame `df`, which line of code is most appropriate using Seaborn?<br>
     a)  `sns.histplot(data=df, x='Height', y='Weight')`<br>
@@ -220,6 +238,9 @@ This quiz helps you self-assess your understanding. Answers can be verified by r
     c)  `sns.scatterplot(data=df, x='Height', y='Weight')`<br>
     d)  `df.plot(kind='scatter', x='Height', y='Weight')` (This is Pandas plotting, not Seaborn directly)<br>
     *(Answer: c)*
+    *(Answer:(6) :eyes:*
+    { .annotate }    
+    6. Answer is: <b>c</> 
 
 7. You have loaded a dataset into a Pandas DataFrame called `sales_df`. How would you display the first 10 rows of this DataFrame?<br>
     a)  `sales_df.show(10)`<br>
@@ -227,6 +248,9 @@ This quiz helps you self-assess your understanding. Answers can be verified by r
     c)  `sales_df.head(10)`<br>
     d)  `sales_df.first(10)`<br>
     *(Answer: c)*
+    *(Answer:(7) :eyes:*
+    { .annotate }    
+    7. Answer is: <b>c</> 
 
 8. When you encounter a Python error message that you don't understand while working in a Jupyter Notebook, how can an LLM assist you most effectively?<br>
     a)  By automatically fixing the code in your notebook.<br>
@@ -234,6 +258,9 @@ This quiz helps you self-assess your understanding. Answers can be verified by r
     c)  By providing a link to the full Python documentation without context.<br>
     d)  By advising you to restart your computer.<br>
     *(Answer: b)*
+    *(Answer:(8) :eyes:*
+    { .annotate }    
+    8. Answer is: <b>b</> 
 
 9. What does the `.info()` method in Pandas primarily provide for a DataFrame?<br>
     a)  A statistical summary of numerical columns (mean, std, min, max).<br>
@@ -241,6 +268,9 @@ This quiz helps you self-assess your understanding. Answers can be verified by r
     c)  A concise summary of the DataFrame, including data types of columns and non-null counts.<br>
     d)  The correlation matrix of numerical columns.<br>
     *(Answer: c)*
+    *(Answer:(8) :eyes:*
+    { .annotate }    
+    8. Answer is: <b>b</> 
 
 10. Which of these tasks falls under the 'Data Cleaning/Preparation' stage of the data science workflow?<br>
     a)  Defining business objectives.<br>
@@ -248,6 +278,9 @@ This quiz helps you self-assess your understanding. Answers can be verified by r
     c)  Handling missing values and transforming variables.<br>
     d)  Presenting results to stakeholders.<br>
     *(Answer: c)*
+    *(Answer:(10) :eyes:*
+    { .annotate }    
+    1. Answer is: <b>c</> 
 
 ---
 
