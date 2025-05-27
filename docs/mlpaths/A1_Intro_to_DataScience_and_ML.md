@@ -178,7 +178,7 @@ This quiz helps you self-assess your understanding. Answers can be verified by r
     b)  A field of study that gives computers the ability to learn without being explicitly programmed.<br>
     c)  The process of using computers to analyze large datasets only.<br>
     d)  The development of software that can reason and solve complex problems like humans.<br>
-    *(Answer:(1) :eyes:)*
+    *(Answer: (1) :eyes:)*
     { .annotate }
     1. Answer is: <b>b</b>
 
@@ -196,9 +196,9 @@ This quiz helps you self-assess your understanding. Answers can be verified by r
     b)  0<br>
     c)  Approximately 2.67<br>
     d)  6<br>
-    *(Answer:(2) :eyes:)*
+    *(Answer: (1) :eyes:)*
     { .annotate }
-    2. Answer is: <b>c</b> 
+    1. Answer is: <b>c</b> 
 
 
 3. Which Python library is primarily used for creating statistical visualizations like heatmaps and pair plots with concise syntax?<br>
@@ -206,10 +206,9 @@ This quiz helps you self-assess your understanding. Answers can be verified by r
     b)  Seaborn<br>
     c)  Pandas<br>
     d)  Scikit-learn<br>
-    *(Answer: b)*
-    *(Answer:(3) :eyes:)*
+    *(Answer:(1) :eyes:)*
     { .annotate }
-    3. Answer is: <b>b</b> 
+    1. Answer is: <b>b</b> 
 
 
 4. In a typical classification problem, what is the role of the 'target variable'?<br>
