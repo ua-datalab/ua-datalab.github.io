@@ -29,20 +29,20 @@ timeline
 
 <div class="grid cards" markdown>
 
--   [**1. Introduction to Data Science and Machine Learning**](mlpaths/A1_Intro_to_DataScience_and_ML.md)
+-   [**A1. Introduction to Data Science and Machine Learning**](mlpaths/A1_Intro_to_DataScience_and_ML.md)
 
     ---
 
     <p>Data Science is an interdisciplinary field focused on extracting knowledge and insights from data. Machine Learning (ML), a key component of Artificial Intelligence (AI), enables systems to learn from data to make decisions or predictions.</p>
 
--   [<b>2. Python for Data Science</b>](mlpaths/A2_Python_for_DataScience.md)
+-   [<b>A2. Python for Data Science</b>](mlpaths/A2_Python_for_DataScience.md)
 
     ---
 
     <p>Python's simplicity, versatility, and vast ecosystem of specialized libraries have made it the cornerstone of modern data science. 
  
 
--   <b>3. Ethical Considerations of Data Science</b>
+-   <b>A3. Ethical Considerations of Data Science</b>
 
     ---
 
@@ -54,7 +54,7 @@ timeline
 
 <div class="grid cards" markdown>
 
--   <b>4. Statistical Learning and Regression Models</b>
+-   <b>B1. Statistical Learning and Regression Models</b>
 
     ---
 
@@ -68,19 +68,19 @@ timeline
 
 <div class="grid cards" markdown>
 
--   <b>5. Supervised Learning</b>
+-   <b>C1. Supervised Learning</b>
 
     ---
 
     <p>S
 
--   <b>6. Unsupervised Learning</b>
+-   <b>C2. Unsupervised Learning</b>
 
     ---
 
     <p>S
 
--   <b>7. Ensemble Methods</b>
+-   <b>C3. Ensemble Methods</b>
 
     ---
 
@@ -93,28 +93,28 @@ timeline
 
 <div class="grid cards" markdown>
 
--   <b>8. Introduction to Deep Learning </b>
+-   <b>D1. Introduction to Deep Learning </b>
 
     ---
 
     <p>S
 
 
--   <b>9. Recurrent Neural Networks and Sequence Models </b>
+-   <b>D2. Recurrent Neural Networks and Sequence Models </b>
 
     ---
 
     <p>S
 
 
--   <b>10. Generative Models</b>
+-   <b>D3. Generative Models</b>
 
     ---
 
     <p>S
 
 
--   <b>11. Transfer Learning and Fine-Tuning</b>
+-   <b>D4. Transfer Learning and Fine-Tuning</b>
 
     ---
 
