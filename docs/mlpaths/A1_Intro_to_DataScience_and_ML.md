@@ -181,6 +181,8 @@ This quiz helps you self-assess your understanding. Answers can be verified by r
     *(Answer: (1) :eyes:)*
     { .annotate }
     1. Answer is: <b>b</b>
+        { .annotate }
+       2. Answer is: <b>c</b>
 
 
 2. Consider the following Python code using Pandas:
