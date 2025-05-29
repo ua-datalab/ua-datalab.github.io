@@ -11,16 +11,19 @@ timeline
     A. General Data Science : A1. Introduction to Data Science and Machine Learning
     	    	 	     : A2. Python for Data Science
 			     : A3. Ethical Considerations in Data Science
-    B. Statistics : B1. Statistical Learning and Regression Models
+    B. Statistics : B1. Descriptive Statistics
+                  : B2. Probability Distributions
+		  : B3. Inferential Statistics
+		  : B4: Bayesian Statistics
     C. Machine Learning : C1. Machine Learning with Scikit-Learn
        	       		: C2. Supervised Learning
 	        	 : C3. Unsupervised Learning
 			 : C4. Ensemble Methods
     D. Deep Learning : D1. Neural Networks with PyTorch
 		    : D2. Transformers with HuggingFace
-		    : D3. GenAI 1: LLM, RAG
-		    : D4. GenAI 2: Multimodal LLMs
-		    : D5.: Agents and MCP
+		    : D3. GenAI 1 - LLM, RAG
+		    : D4. GenAI 2 - Multimodal LLMs
+		    : D5. Agents and MCP
     E. Continuous Integration / Continuous Deployment  : E1. Model Deployment and Productionization
 
 ```
