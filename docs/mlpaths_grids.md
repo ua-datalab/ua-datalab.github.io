@@ -14,7 +14,7 @@ timeline
     B. Statistics : B1. Descriptive Statistics
                   : B2. Probability Distributions
 		  : B3. Inferential Statistics
-		  : B4: Bayesian Statistics
+		  : B4. Bayesian Statistics
     C. Machine Learning : C1. Machine Learning with Scikit-Learn
        	       		: C2. Supervised Learning
 	        	 : C3. Unsupervised Learning
