@@ -26,7 +26,7 @@ nav:
     - 'AI/ML Development': apps-dev.md
     - 'Ai-VERDE': aiverde.md
     - 'Capstone Projects': capstone.md
-    - 'ML Learning Paths': mlpaths_grids.md
+    - 'ML/AI Learning Paths': mlpaths_grids.md
     - 'TREX: Training for Research Experience' : 'https://github.com/ua-datalab/TREX/wiki' 
     - 'PHIRE': phire.md
 
