@@ -60,7 +60,7 @@ Lobby](https://bsrl.arizona.edu/)
 **Please visit our [Events Calendar](https://ua-datalab.github.io/events/) for weekly activities details.**
 
 
-### Previous DataLab Workshops Learning Resources
+### :material-run-fast: Previous DataLab Workshops Learning Resources
 
 * [Advanced AI for Healthcare](https://github.com/ua-datalab/ai-healthcare/tree/main). Greg Chism.
 * [AI & Data in Public Health: A Non-Coder's Toolkit!](https://github.com/ua-datalab/AI-for-Professionals/wiki). Carlos Lizárraga.
