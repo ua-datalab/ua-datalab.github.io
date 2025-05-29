@@ -67,7 +67,7 @@ Lobby](https://bsrl.arizona.edu/)
 **Running:** Aug 26 - Oct 30
 
 * [Bioinformatics & AI](https://github.com/ua-datalab/Bioinformatics/wiki). Michele Cosi, Clement Goubert, Francesca Vitali, Simona Merlini. :material-dna: :material-molecule: :material-brain: 
-* [Data Science Tapas](https://github.com/ua-datalab/DataScience-Tapas/blob/main/README.md). Wednesdays @ 1:00 - 2:00 PM :material-cofee: :material-data-matrix: (Online :material-cast-education:).
+* [Data Science Tapas](https://github.com/ua-datalab/DataScience-Tapas/blob/main/README.md). Wednesdays @ 1:00 - 2:00 PM :material-coffee: :material-data-matrix: (Online :material-cast-education:).
 * [Foundational Open Science Skills](https://cyverse.org/foss). Michele Cosi. Tuesdays @ 11:00 AM  - 1:00 PM. :material-lock-open-variant: :material-cloud-lock-open-outline: :material-book-open-page-variant: :material-folder-open: (Online :material-cast-education:).
 * [From Neural Networks to Transformers: The Evolution of Deep Learning](https://github.com/ua-datalab/NeuralNetworks/wiki). Enrique Noriega, Carlos Lizárraga. Tuesdays @ 1:00 PM - 2:00 PM. 
 * [Navigating the Modern AI Landscape: RAG, Tool-Use, and Agents](https://github.com/ua-datalab/Generative-AI/blob/main/README.md).  Nick Eddy, Enrique Noriega. :material-google-cloud: :material-brain: :material-robot: :material-language-python: 
