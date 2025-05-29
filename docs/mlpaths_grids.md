@@ -12,13 +12,15 @@ timeline
     	    	 	     : A2. Python for Data Science
 			     : A3. Ethical Considerations in Data Science
     B. Statistics : B1. Statistical Learning and Regression Models
-    C. Classical Machine Learning : C1. Supervised Learning
-				 : C2. Unsupervised Learning
-				 : C3. Ensemble Methods
-    D. Deep Learning : D1. Introduction to Deep Learning
-    	   	    : D2. Recurrent Neural Networks and Sequence Models
-		    : D3. Generative Models
-		    : D4. Transfer Learning and Fine-tuning
+    C. Machine Learning : C1. Machine Learning with Scikit-Learn
+       	       		: C2. Supervised Learning
+	        	 : C3. Unsupervised Learning
+			 : C4. Ensemble Methods
+    D. Deep Learning : D1. Neural Networks with PyTorch
+		    : D2. Transformers with HuggingFace
+		    : D3. GenAI 1: LLM, RAG
+		    : D4. GenAI 2: Multimodal LLMs
+		    : D5.: Agents and MCP
     E. Continuous Integration / Continuous Deployment  : E1. Model Deployment and Productionization
 
 ```
