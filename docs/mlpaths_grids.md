@@ -1,11 +1,11 @@
 
-## Data Science Learning Path
+## Data Science ML/AI Learning Paths
 
 We present 12 topics in the data science learning path, providing learning objectives, related skills, subtopics, and references/resources for each. The goal is to give graduate students a structured and comprehensive program to acquire data science expertise, including hands-on experience with real-world open-source tools and libraries.
 
 ```mermaid
 timeline
-    title Machine Learning Learning Path
+    title Machine Learning/Artificial Intelligence Learning Paths
     A. General Data Science : A1. Introduction to Data Science and Machine Learning
     	    	 	     : A2. Python for Data Science
 			     : A3. Ethical Considerations in Data Science
