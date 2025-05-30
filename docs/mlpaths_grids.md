@@ -8,6 +8,8 @@
 We present 12 topics in the data science learning path, providing learning objectives, related skills, subtopics, and references/resources for each. The goal is to give graduate students a structured and comprehensive program to acquire data science expertise, including hands-on experience with real-world open-source tools and libraries.
 
 
+<p style="text-align:center">
+
 ```mermaid
 timeline
     title Machine Learning/Artificial Intelligence Learning Paths
@@ -33,6 +35,8 @@ timeline
 						       : E3. AgentsOps
 						       
 ```
+
+</p>
 
 :construction: :construction: :construction: :construction: 
 
