@@ -148,8 +148,8 @@ timeline
 
     ---
 
-    <p>PyTorch is an open-source machine learning framework, primarily used for deep learning applications.
-
+    <p>PyTorch is an open-source ML framework offering flexible deep learning development with Python integration. It features dynamic computation graphs and GPU acceleration for neural networks, computer vision, and NLP tasks.
+    
 
 -   <b>D2. Transformers with HuggingFace</b>
 
@@ -174,7 +174,6 @@ timeline
 
 </div>
 
-
 #### E. Continuous Integration / Continuous Development
 
 <div class="grid cards" markdown>
@@ -183,20 +182,21 @@ timeline
 
     ---
 
-    <p>MLOps (Machine Learning Operations), MLOps is a way to manage machine learning models, making it easier to develop, deploy, and update them as business needs change.
+    <p>MLOps (Machine Learning Operations), is a way to manage machine learning models, making it easier to develop, deploy, and update them as business needs change.
 
 -   <b>D2. LLMOps</b>
 
     ---
 
-    <p> LLMOps (Large Language Model Operations), builds on MLOps practices but addresses the unique challenges of deploying large language models, such as GPT, BERT, and LLaMA. These models require substantial computational resources, prompt engineering, and ongoing monitoring to manage performance, ethics, and latency.
+    <p> LLMOps (Large Language Model Operations), extends MLOps practices to handle large language model deployment challenges. It focuses on managing computational resources, prompt engineering, and monitoring model performance and ethics.
 
 
 -   <b>D3. AgentOps</b>
 
     ---
 
-    <p>AgentOps enables the deployment of autonomous agents that perform complex tasks with minimal human intervention. These agents integrate with APIs, make decisions based on real-time data, and adapt to changing conditions, making them ideal for high-stakes applications requiring autonomy.
+    <p>AgentOps deploys autonomous agents that perform complex tasks independently. These agents work with APIs, use real-time data for decisions, and adapt dynamically - making them suitable for autonomous high-stakes applications.
+
 
 </div>
 
@@ -206,7 +206,7 @@ timeline
 Created: 05/25/2025 (C. Lizárraga); Updated: 05/29/2025 (C. Lizárraga)
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/64px-Cc.logo.circle.svg.png" width=20> 2025. [University of Arizona DataLab](https://datascience.arizona.edu/education/uarizona-data-lab), [Data Science Institute](https://datascience.arizona.edu/
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/64px-Cc.logo.circle.svg.png" width=20> 2025. [University of Arizona DataLab](https://datascience.arizona.edu/education/uarizona-data-lab), [Data Science Institute](https://datascience.arizona.edu/)
 
 
 
