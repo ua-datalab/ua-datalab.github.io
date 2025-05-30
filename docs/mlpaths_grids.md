@@ -9,7 +9,7 @@ timeline
     title Machine Learning/Artificial Intelligence Learning Paths
     A. General Data Science : A1. Introduction to Data Science and Machine Learning
     	    	 	     : A2. Data Analyis with Pandas
-			     : A3: Data Visualization
+			     : A3. Data Visualization
 			     : A3. Ethical Considerations in Data Science
     B. Statistics : B1. Descriptive Statistics
                   : B2. Probability Distributions
