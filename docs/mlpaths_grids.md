@@ -36,7 +36,7 @@ timeline
 :construction: :construction: :construction: :construction: 
 
 
-#### A. General Data Science
+#### :material-book-open: A. General Data Science
 
 <!--
 [**A1: Introduction to Data Science and Machine Learning**](mlpaths/A1_Intro_to_DataScience_and_ML.md)
@@ -73,7 +73,7 @@ timeline
 
 </div>
 
-#### B. Statistics
+####  :material-book-open: B. Statistics
 
 <div class="grid cards" markdown>
 
@@ -105,7 +105,7 @@ timeline
 </div>
 
 
-#### C. Machine Learning
+####  :material-book-open: C. Machine Learning
 
 <div class="grid cards" markdown>
 
@@ -138,7 +138,7 @@ timeline
 
 </div>
 
-#### D. Deep Learning
+####  :material-book-open: D. Deep Learning
 
 <div class="grid cards" markdown>
 
@@ -172,7 +172,7 @@ timeline
 
 </div>
 
-#### E. Continuous Integration / Continuous Development
+####  :material-book-open: E. Continuous Integration / Continuous Development
 
 <div class="grid cards" markdown>
 
