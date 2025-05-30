@@ -24,8 +24,10 @@ timeline
 		    : D3. GenAI 1 - LLM, RAG
 		    : D4. GenAI 2 - Multimodal LLMs
 		    : D5. Agents and MCP
-    E. Continuous Integration / Continuous Deployment  : E1. Model Deployment and Productionization
-
+    E. Continuous Integration / Continuous Deployment  : E1. MLOps
+       		  	      		   	       : E2. LLMOps
+						       : E3. AgentsOps
+						       
 ```
 
 ### A. General Data Science
@@ -167,28 +169,24 @@ timeline
 
 <div class="grid cards" markdown>
 
+-   <b>D1. MLOps</b>
 
--  <b>D1. MLOps</b>
+    ---
 
-   ---
+    <p>MLOps (Machine Learning Operations), MLOps is a way to manage machine learning models, making it easier to develop, deploy, and update them as business needs change.
 
-   <p>MLOps (Machine Learning Operations), MLOps is a way to manage machine learning models, making it easier to develop, deploy, and update them as business needs change.
+-   <b>D2. LLMOps</b>
 
--  <b>D2. LLMOps</b>
+    ---
 
-   ---
-
-   <p> LLMOps (Large Language Model Operations), builds on MLOps practices but addresses the unique challenges of deploying large language models, such as GPT, BERT, and LLaMA. These models require substantial computational resources, prompt engineering, and ongoing monitoring to manage performance, ethics, and latency.
-
-focuses on optimizing the operational aspects of LLMs, including prompt engineering, model deployment, and inference optimization. 
+    <p> LLMOps (Large Language Model Operations), builds on MLOps practices but addresses the unique challenges of deploying large language models, such as GPT, BERT, and LLaMA. These models require substantial computational resources, prompt engineering, and ongoing monitoring to manage performance, ethics, and latency.
 
 
--  <b>AgentOps</b>
+-   <b>D3. AgentOps</b>
 
-   ---
+    ---
 
-   <p>AgentOps enables the deployment of autonomous agents that perform complex tasks with minimal human intervention. These agents integrate with APIs, make decisions based on real-time data, and adapt to changing conditions, making them ideal for high-stakes applications requiring autonomy.
-
+    <p>AgentOps enables the deployment of autonomous agents that perform complex tasks with minimal human intervention. These agents integrate with APIs, make decisions based on real-time data, and adapt to changing conditions, making them ideal for high-stakes applications requiring autonomy.
 
 </div>
 
