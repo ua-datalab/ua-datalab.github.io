@@ -11,6 +11,7 @@ We present 12 topics in the data science learning path, providing learning objec
 
 ```mermaid
 timeline
+
     title Machine Learning/Artificial Intelligence Learning Paths
     A. General Data Science : A1. Introduction to Data Science and Machine Learning
     	    	 	     : A2. Data Analyis with Pandas
@@ -32,7 +33,6 @@ timeline
     E. Continuous Integration / Continuous Deployment  : E1. MLOps
        		  	      		   	       : E2. LLMOps
 						       : E3. AgentsOps
-						       
 ```
 
 </p>
