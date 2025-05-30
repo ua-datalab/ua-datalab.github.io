@@ -77,25 +77,25 @@ timeline
 
 <div class="grid cards" markdown>
 
--   <b>B1. Descriptive Statistics</b>
+-   <b> :material-poll: B1. Descriptive Statistics</b>
 
     ---
 
     <p>Descriptive Statistics is a set of brief descriptive coefficients that summarize a given data set representative of an entire or sample population.
 
--   <b>B2. Probability Distributions</b>
+-   <b> :material-dice-6-outline: B2. Probability Distributions</b>
 
     ---
 
     <p>In probability theory and statistics, a probability distribution is a function that gives the probabilities of occurrence of possible events for an experiment.
 
--   <b>B3. Inferential Statistics</b>
+-   <b> :material-ab-testing: B3. Inferential Statistics</b>
 
     ---
 
     <p>Inferential statistical analysis infers properties of a population, for example by testing hypotheses and deriving estimates.
 
--   <b>B4. Bayesian Statistics</b>
+-   <b> :material-update: B4. Bayesian Statistics</b>
 
     ---
 
@@ -109,25 +109,25 @@ timeline
 
 <div class="grid cards" markdown>
 
--   <b>C1. Machine Learning with Scikit-Learn</b>
+-   <b> :material-chart-line: C1. Machine Learning with Scikit-Learn</b>
 
     ---
 
     <p>Scikit-learn is a powerful and widely used Python library for machine learning. 
 
--   <b>C2. Unsupervised Learning</b>
+-   <b> :material-view-dashboard: C2. Unsupervised Learning</b>
 
     ---
 
     <p>Unsupervised learning is a type of machine learning where algorithms learn from unlabeled data, identifying patterns and structures without specific guidance or desired outputs.
 
--   <b>C3. Supervised Learning</b>
+-   <b> :material-human-male-board-poll: C3. Supervised Learning</b>
 
     ---
 
     <p>Supervised learning is a type of machine learning where an algorithm learns to predict an output variable by being trained on a labeled dataset. 
 
--   <b>C4. Ensemble Learning</b>
+-   <b> :material-ballot: C4. Ensemble Learning</b>
 
     ---
 
@@ -142,28 +142,28 @@ timeline
 
 <div class="grid cards" markdown>
 
--   <b>D1. Deep Learning in PyTorch </b>
+-   <b>  :material-brain: D1. Deep Learning in PyTorch </b>
 
     ---
 
     <p>PyTorch is an open-source ML framework offering flexible deep learning development with Python integration. It features dynamic computation graphs and GPU acceleration for neural networks, computer vision, and NLP tasks.
     
 
--   <b>D2. Transformers with HuggingFace</b>
+-   <b> :material-robot: D2. Transformers with HuggingFace</b>
 
     ---
 
     <p>Hugging Face Transformers is a Python library and open-source framework used to access and utilize pre-trained machine learning models for tasks like natural language processing (NLP), computer vision, audio processing, and multi-modal applications. 
 
 
--   <b>D3. Generative AI 1 - LLM, RAG</b>
+-   <b> :material-sitemap:  D3. Generative AI 1 - LLM, RAG</b>
 
     ---
 
     <p>Retrieval-augmented generation (RAG) is a technique that enables large language models (LLMs) to retrieve and incorporate new information. 
 
 
--   <b>D4. Generative AI - Multimodal LLMs </b>
+-   <b> :material-multimedia: D4. Generative AI - Multimodal LLMs </b>
 
     ---
 
@@ -176,20 +176,20 @@ timeline
 
 <div class="grid cards" markdown>
 
--   <b>D1. MLOps</b>
+-   <b> :material-developer-board: D1. MLOps</b>
 
     ---
 
     <p>MLOps (Machine Learning Operations), is a way to manage machine learning models, making it easier to develop, deploy, and update them as business needs change.
 
--   <b>D2. LLMOps</b>
+-   <b> :material-developer-board: D2. LLMOps</b>
 
     ---
 
     <p> LLMOps (Large Language Model Operations), extends MLOps practices to handle large language model deployment challenges. It focuses on managing computational resources, prompt engineering, and monitoring model performance and ethics.
 
 
--   <b>D3. AgentOps</b>
+-   <b> :material-face-agent: D3. AgentOps</b>
 
     ---
 
