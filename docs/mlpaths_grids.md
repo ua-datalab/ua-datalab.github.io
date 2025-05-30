@@ -2,9 +2,9 @@
 
 ## The Datalab _LEAD Program: Learn, Experience, Advance, Develop_.
 
-### Data Science ML/AI Learning Paths
+### :material-cast-education: Data Science ML/AI Learning Paths
 
-We present 12 topics in the data science learning path, providing learning objectives, related skills, subtopics, and references/resources for each. The goal is to give graduate students a structured and comprehensive program to acquire data science expertise, including hands-on experience with real-world open-source tools and libraries.
+We present 20 topics in the data science learning path, providing learning objectives, related skills, subtopics, and references/resources for each. The goal is to give graduate students a structured and comprehensive program to acquire data science expertise, including hands-on experience with real-world open-source tools and libraries.
 
 
 ```mermaid

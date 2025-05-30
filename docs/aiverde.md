@@ -46,7 +46,7 @@
 </p>
 
 
-<p><a href="https://datascience.arizona.edu/research/tools/ai-verde)"><b>Read more about Ai-VERDE</b></a>
+<p><a href="https://datascience.arizona.edu/research/tools/ai-verde/"><b>Read more about Ai-VERDE</b></a>
 
 
 <hr>
