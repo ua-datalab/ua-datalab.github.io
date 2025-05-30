@@ -1,4 +1,3 @@
-
 # Take the LEAD with Datalab.
 
 ## The Datalab _LEAD Program: Learn, Experience, Advance, Develop_.
