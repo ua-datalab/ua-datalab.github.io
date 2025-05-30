@@ -3,7 +3,6 @@
 
 We present 12 topics in the data science learning path, providing learning objectives, related skills, subtopics, and references/resources for each. The goal is to give graduate students a structured and comprehensive program to acquire data science expertise, including hands-on experience with real-world open-source tools and libraries.
 
-AAA
 
 ```mermaid
 timeline
@@ -43,18 +42,24 @@ timeline
 
     <p>Data Science is an interdisciplinary field focused on extracting knowledge and insights from data. Machine Learning (ML), a key component of Artificial Intelligence (AI), enables systems to learn from data to make decisions or predictions.</p>
 
--   [<b>A2. Python for Data Science</b>](mlpaths/A2_Python_for_DataScience.md)
+-   [<b>A2. Data Analysis with Pandas</b>](mlpaths/A2_Python_for_DataScience.md)
 
     ---
 
-    <p>Python's simplicity, versatility, and vast ecosystem of specialized libraries have made it the cornerstone of modern data science. 
+    <p>Pandas is a powerful and popular open-source Python library used for data analysis and manipulation.
+
+-   [<b>A3. Data Visualization with Matplotlib and Seaborn</b>](mlpaths/A2_Python_for_DataScience.md)
+
+    ---
+
+    <p>Matplotlib is a library in Python that enables users to generate visualizations like histograms, scatter plots, bar charts, pie charts and much more. Seaborn is a visualization library that is built on top of Matplotlib. It provides data visualizations that are typically more aesthetic and statistically sophisticated.
  
 
--   <b>A3. Ethical Considerations of Data Science</b>
+-   <b>A4. Ethical Considerations of Data Science</b>
 
     ---
 
-    <p>Ethics ...
+    <p>Ethics in data science encompasses the moral principles and guidelines that govern the collection, analysis, and use of data to ensure responsible and beneficial outcomes. 
 
 </div>
 
