@@ -47,28 +47,28 @@ timeline
 
 <div class="grid cards" markdown>
 
--   [**A1. Introduction to Data Science and Machine Learning**](mlpaths/A1_Intro_to_DataScience_and_ML.md)
+-   [:material-creation: **A1. Introduction to Data Science and Machine Learning**](mlpaths/A1_Intro_to_DataScience_and_ML.md)
 
     ---
 
     <p>Data Science is an interdisciplinary field focused on extracting knowledge and insights from data. Machine Learning (ML), a key component of Artificial Intelligence (AI), enables systems to learn from data to make decisions or predictions.</p>
 
 
--   [<b>A2. Data Analysis with Pandas</b>](mlpaths/A2_Python_for_DataScience.md)
+-   [<b>:material-poll: A2. Data Analysis with Pandas</b>](mlpaths/A2_Python_for_DataScience.md)
 
     ---
 
     <p>Pandas is an open-source Python library used for data manipulation and analysis. It provides data structures, such as Series (1D) and DataFrames (2D), designed to handle tabular datasets efficiently. 
 
 
--   [<b>A3. Data Visualization with Matplotlib and Seaborn</b>](mlpaths/A2_Python_for_DataScience.md)
+-   [<b>:material-chart-scatter-plot-hexbin: A3. Data Visualization with Matplotlib and Seaborn</b>](mlpaths/A2_Python_for_DataScience.md)
 
     ---
 
     <p>Matplotlib is a library in Python that enables users to generate visualizations like histograms, scatter plots, bar charts, pie charts and much more. Seaborn is a visualization library that is built on top of Matplotlib. It provides data visualizations that are typically more aesthetic and statistically sophisticated.
  
 
--   <b>A4. Ethical Considerations of Data Science</b>
+-   <b>:material-scale-balance: A4. Ethical Considerations of Data Science</b>
 
     ---
 
