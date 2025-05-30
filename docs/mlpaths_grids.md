@@ -47,11 +47,16 @@ timeline
 
 <div class="grid cards" markdown>
 
+div {
+    background: rgb(250, 250, 250, 0.6);
+
 -   [**A1. Introduction to Data Science and Machine Learning**](mlpaths/A1_Intro_to_DataScience_and_ML.md)
 
     ---
 
     <p>Data Science is an interdisciplinary field focused on extracting knowledge and insights from data. Machine Learning (ML), a key component of Artificial Intelligence (AI), enables systems to learn from data to make decisions or predictions.</p>
+}
+
 
 -   [<b>A2. Data Analysis with Pandas</b>](mlpaths/A2_Python_for_DataScience.md)
 
