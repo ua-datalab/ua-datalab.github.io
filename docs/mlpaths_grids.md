@@ -58,7 +58,8 @@ timeline
 
     ---
 
-    <p>Pandas is a powerful and popular open-source Python library used for data analysis and manipulation.
+    <p>Pandas is an open-source Python library used for data manipulation and analysis. It provides data structures, such as Series (1D) and DataFrames (2D), designed to handle tabular datasets efficiently. 
+
 
 -   [<b>A3. Data Visualization with Matplotlib and Seaborn</b>](mlpaths/A2_Python_for_DataScience.md)
 
