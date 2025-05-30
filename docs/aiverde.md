@@ -45,6 +45,8 @@
 
 </p>
 
+<p>**Paper:** [AI-VERDE: A Gateway for Egalitarian Access to Large Language Model-Based Resources For Educational Institutions](https://arxiv.org/abs/2502.09651). **DOI:** 
+https://doi.org/10.48550/arXiv.2502.09651 
 
 <p><a href="https://datascience.arizona.edu/research/tools/ai-verde/"><b>Read more about Ai-VERDE</b></a>
 
