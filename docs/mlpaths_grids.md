@@ -1,5 +1,9 @@
 
-## Data Science ML/AI Learning Paths
+# Take the LEAD with Datalab.
+
+## The Datalab _LEAD Program: Learn, Experience, Advance, Develop_.
+
+### Data Science ML/AI Learning Paths
 
 We present 12 topics in the data science learning path, providing learning objectives, related skills, subtopics, and references/resources for each. The goal is to give graduate students a structured and comprehensive program to acquire data science expertise, including hands-on experience with real-world open-source tools and libraries.
 
@@ -30,7 +34,10 @@ timeline
 						       
 ```
 
-### A. General Data Science
+:construction: :construction: :construction: :construction: 
+
+
+#### A. General Data Science
 
 <!--
 [**A1: Introduction to Data Science and Machine Learning**](mlpaths/A1_Intro_to_DataScience_and_ML.md)
@@ -65,7 +72,7 @@ timeline
 
 </div>
 
-### B. Statistics
+#### B. Statistics
 
 <div class="grid cards" markdown>
 
@@ -97,7 +104,7 @@ timeline
 </div>
 
 
-### C. Machine Learning
+#### C. Machine Learning
 
 <div class="grid cards" markdown>
 
@@ -130,7 +137,7 @@ timeline
 
 </div>
 
-### D. Deep Learning
+#### D. Deep Learning
 
 <div class="grid cards" markdown>
 
@@ -165,7 +172,7 @@ timeline
 </div>
 
 
-### E. Continuous Integration / Continuous Development
+#### E. Continuous Integration / Continuous Development
 
 <div class="grid cards" markdown>
 
@@ -191,14 +198,12 @@ timeline
 </div>
 
 
-
-
-
-
 ***
 
+Created: 05/25/2025 (C. Lizárraga); Updated: 05/29/2025 (C. Lizárraga)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/64px-Cc.logo.circle.svg.png" width=20> 2025. [University of Arizona DataLab](https://datascience.arizona.edu/education/uarizona-data-lab), [Data Science Institute](https://datascience.arizona.edu/)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/64px-Cc.logo.circle.svg.png" width=20> 2025. [University of Arizona DataLab](https://datascience.arizona.edu/education/uarizona-data-lab), [Data Science Institute](https://datascience.arizona.edu/
 
 
 
