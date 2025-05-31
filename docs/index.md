@@ -25,9 +25,6 @@ The [University of Arizona DataLab](https://www.datascience.arizona.edu/educatio
 Please join us in-person at the **Weaver Science & Engineering Library Room 212**, or join via **Zoom:**  [**896 6708 1542**](https://arizona.zoom.us/j/89667081542)
 -->
 
-## Notes and code repositories  
-
-###  University of Arizona DataLab Fall 2025 workshops and training materials (Aug-Oct 2025).
 
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'base' } }%%
@@ -53,7 +50,11 @@ timeline
 
 ***
 
-#### Weekly Support Activities :material-account-multiple-check: :material-help-box-multiple:
+
+## University of Arizona DataLab Fall 2025 workshops and training materials 
+
+
+### Weekly Support Activities :material-account-multiple-check: :material-help-box-multiple:
 
 * [CyVerse Office Hours](https://learning.cyverse.org/) 
 [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_d0F8WzR8CjuF6Qe)] - [BSRL
@@ -65,7 +66,7 @@ Lobby](https://bsrl.arizona.edu/)
 
 ### :material-format-list-group: Fall 2025 Workshops
 
-**Running:** Aug 26 - Oct 30
+[**Running:** Aug 26 - Oct 30]
 
 * [Bioinformatics & AI](https://github.com/ua-datalab/Bioinformatics/wiki). Michele Cosi. :material-dna: :material-molecule: :material-brain: 
 * [Data Science Tapas](https://github.com/ua-datalab/DataScience-Tapas/blob/main/README.md). Wednesdays @ 1:00 - 2:00 PM :material-coffee: :material-data-matrix: (Online :material-cast-education:).
@@ -134,7 +135,7 @@ Rudy Salcido. :material-notebook: :material-chart-timeline:  (Online :material-c
 
 ***
 
-:material-information-slab-circle: Please visit the University of Arizona [**Data Science Institute Events Calendar**](https://www.datascience.arizona.edu/calendar) for more detailed information.
+:material-information-slab-circle-outline: Please visit the University of Arizona [**Data Science Institute Events Calendar**](https://www.datascience.arizona.edu/calendar) for more detailed information.
 
 
 ***
