@@ -44,9 +44,8 @@
 <a href="https://chat.cyverse.ai/"><img src="https://github.com/ua-datalab/ua-datalab.github.io/blob/main/docs/images/AI-verde-sign-in.png?raw=true" width=1000></a>
 
 </p>
-
-<p>**Paper:** [AI-VERDE: A Gateway for Egalitarian Access to Large Language Model-Based Resources For Educational Institutions](https://arxiv.org/abs/2502.09651). **DOI:** 
-https://doi.org/10.48550/arXiv.2502.09651 
+<a href="https://arxiv.org/abs/2502.09651"><b>Paper:</b> AI-VERDE: A Gateway for Egalitarian Access to Large Language Model-Based Resources For Educational Institutions]</a>. DOI: 
+https://doi.org/10.48550/arXiv.2502.09651.
 
 <p><a href="https://datascience.arizona.edu/research/tools/ai-verde/"><b>Read more about Ai-VERDE</b></a>
 
