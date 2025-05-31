@@ -32,7 +32,6 @@ Please join us in-person at the **Weaver Science & Engineering Library Room 212*
 %%{init: { 'logLevel': 'debug', 'theme': 'base' } }%%
 timeline
     title U of Arizona DataLab Workshops Fall 2025
-    Monday  : 
     Tuesday : Research Productivity (†)
             : Foundational Open Science Skills
 	    : From Neural Networks to Transformers
