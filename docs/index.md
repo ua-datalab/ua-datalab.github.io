@@ -134,7 +134,7 @@ Rudy Salcido. :material-notebook: :material-chart-timeline:  (Online :material-c
 
 ***
 
-**:material-information-slab-circle-outline:** Please visit the University of Arizona [**Data Science Institute Events Calendar**](https://www.datascience.arizona.edu/calendar) for more detailed information.
+:material-information-slab-circle-outline: Please visit the University of Arizona [**Data Science Institute Events Calendar**](https://www.datascience.arizona.edu/calendar) for more detailed information.
 
 
 ***
