@@ -61,8 +61,7 @@ timeline
 Lobby](https://bsrl.arizona.edu/)
 * [AI Makerspace Meet-Up](https://github.com/ua-datalab/AI-Makerspace/blob/main/README.md). Enrique Noriega, Carlos Lizárraga. :material-toolbox: :material-hammer-wrench: :material-robot: Meet-Ups:(Resuming Aug 26, 2025) :material-account-multiple: Tuesdays 3:30 - 4:30 PM @ [Snakes & Lattes Tucson](https://www.snakesandlattes.com/tucson) (988 E University Blvd, Tucson, AZ). 
 
-[**Also see UofA regular weekly Data Science support events**](https://ua-datalab.github.io/events/)
-**Please visit our [Events Calendar](https://ua-datalab.github.io/events/) for weekly activities details.**
+**:material-information-slab-circle-outline:** Please visit our [Events Calendar](https://ua-datalab.github.io/events/) for weekly activities details.
 
 ### :material-format-list-group: Fall 2025 Workshops
 
@@ -135,7 +134,7 @@ Rudy Salcido. :material-notebook: :material-chart-timeline:  (Online :material-c
 
 ***
 
-:material-information-slab-circle-outline: Please visit the University of Arizona [**Data Science Institute Events Calendar**](https://www.datascience.arizona.edu/calendar) for more detailed information.
+**:material-information-slab-circle-outline:** Please visit the University of Arizona [**Data Science Institute Events Calendar**](https://www.datascience.arizona.edu/calendar) for more detailed information.
 
 
 ***
