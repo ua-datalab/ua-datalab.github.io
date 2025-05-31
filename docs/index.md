@@ -71,7 +71,7 @@ Lobby](https://bsrl.arizona.edu/)
 * [Foundational Open Science Skills](https://cyverse.org/foss). Michele Cosi. Tuesdays @ 11:00 AM  - 1:00 PM. :material-lock-open-variant: :material-cloud-lock-open-outline: :material-book-open-page-variant: :material-folder-open: (Online :material-cast-education:).
 * [From Neural Networks to Transformers: The Evolution of Deep Learning](https://github.com/ua-datalab/NeuralNetworks/wiki). Enrique Noriega, Carlos Lizárraga. :material-brain: :material-robot: :material-language-python:  Tuesdays @ 1:00 PM - 2:00 PM. 
 * [Navigating the Modern AI Landscape: RAG, Tool-Use, and Agents](https://github.com/ua-datalab/Generative-AI/blob/main/README.md).  Nick Eddy, Enrique Noriega. :material-google-cloud: :material-brain: :material-robot: :material-language-python: Thursdays @  1:00 PM - 2:00 PM.
-* [Python & AI for Data Analysis](https://github.com/ua-datalab/Workshops/blob/main/README.md). Carlos Lizárraga.  :material-language-python :material-chart-scatter-plot: :material-language-python: :material-brain: Tuesdays @ 2:00 PM - 3:00 PM. 
+* [Python & AI for Data Analysis](https://github.com/ua-datalab/Workshops/blob/main/README.md). Carlos Lizárraga.  :material-chart-scatter-plot: :material-brain: :material-language-python: Tuesdays @ 2:00 PM - 3:00 PM. 
 * [Research Productivity](https://github.com/ua-datalab/ResearchProductivity/blob/main/README.md).
 Rudy Salcido. :material-notebook: :material-chart-timeline:  (Online :material-cast-education:). 
 **Series 1:** Sep 9, Sep 30, Oct 21; **Series 2:** Nov 4 - Nov 6. All sessions @ 10:00 AM - 11:30 AM.
