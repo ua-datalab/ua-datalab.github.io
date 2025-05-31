@@ -11,24 +11,24 @@ We present 20 topics in the data science learning path, providing learning objec
 timeline
 
     title Machine Learning/Artificial Intelligence Learning Paths
-    A. General Data Science : A1. Introduction to Data Science and Machine Learning
+    <b>A. General Data Science</b> : A1. Introduction to Data Science and Machine Learning
     	    	 	     : A2. Data Analyis with Pandas
 			     : A3. Data Visualization
 			     : A3. Ethical Considerations in Data Science
-    B. Statistics : B1. Descriptive Statistics
+    <b>B. Statistics</b> : B1. Descriptive Statistics
                   : B2. Probability Distributions
 		  : B3. Inferential Statistics
 		  : B4. Bayesian Statistics
-    C. Machine Learning : C1. Machine Learning with Scikit-Learn
+    <b>C. Machine Learning</b> : C1. Machine Learning with Scikit-Learn
        	       		: C2. Supervised Learning
 	        	 : C3. Unsupervised Learning
 			 : C4. Ensemble Methods
-    D. Deep Learning : D1. Neural Networks with PyTorch
+    <b>D. Deep Learning</b> : D1. Neural Networks with PyTorch
 		    : D2. Transformers with HuggingFace
 		    : D3. GenAI 1 <br> (LLM, RAG) 
 		    : D4. GenAI 2 <br> (Multimodal LLMs)
 		    : D5. Agents and MCP
-    E. Continuous Integration / Continuous Deployment  : E1. MLOps
+    <b>E. Continuous Integration / Continuous Deployment</b>  : E1. MLOps
        		  	      		   	       : E2. LLMOps
 						       : E3. AgentsOps
 ```
