@@ -8,14 +8,14 @@
 
 ***
 
-# Workshops
+##  Workshops
 
 Our workshops focus on promoting Data Science Literacy among the university community. This ranges from satisfying curiosity to diverse topics in Statistics and Data Science to Machine Learning, to promote skill development in data modeling based on Machine Learning and Deep Learning algorithms across the wide science community of our University.
 
 
 ***
-<!--
-## :material-format-list-group:  Fall 2025 Workshops
+
+## Fall 2025 Workshops
 
 Are you interested in improving your professional skills in data analytics tools, methods, scientific analysis and statistics?
 
@@ -27,7 +27,7 @@ Please join us in-person at the **Weaver Science & Engineering Library Room 212*
 
 ## Notes and code repositories  
 
-##  University of Arizona DataLab Fall 2025 workshops and training materials (Aug-Oct 2025).
+###  University of Arizona DataLab Fall 2025 workshops and training materials (Aug-Oct 2025).
 
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'base' } }%%
@@ -54,6 +54,7 @@ timeline
 ***
 
 #### Weekly Support Activities :material-account-multiple-check: :material-help-box-multiple:
+
 * [CyVerse Office Hours](https://learning.cyverse.org/) 
 [[Register](https://uarizona.co1.qualtrics.com/jfe/form/SV_d0F8WzR8CjuF6Qe)] - [BSRL
 Lobby](https://bsrl.arizona.edu/)
@@ -62,7 +63,7 @@ Lobby](https://bsrl.arizona.edu/)
 [**Also see UofA regular weekly Data Science support events**](https://ua-datalab.github.io/events/)
 **Please visit our [Events Calendar](https://ua-datalab.github.io/events/) for weekly activities details.**
 
-## :material-format-list-group: Fall 2025 Workshops
+### :material-format-list-group: Fall 2025 Workshops
 
 **Running:** Aug 26 - Oct 30
 
@@ -76,7 +77,7 @@ Lobby](https://bsrl.arizona.edu/)
 Rudy Salcido. :material-notebook: :material-chart-timeline:  (Online :material-cast-education:).  
 [**Series 1:** Sep 9, Sep 30, Oct 21; **Series 2:** Nov 4 - Nov 6]. All sessions @ 10:00 AM - 11:30 AM.
 
-## :material-format-list-group:  Previous DataLab Workshops Learning Resources
+### :material-format-list-group:  Previous DataLab Workshops Learning Resources
 
 * [Advanced AI for Healthcare](https://github.com/ua-datalab/ai-healthcare/tree/main). Greg Chism.
 * [AI & Data in Public Health: A Non-Coder's Toolkit!](https://github.com/ua-datalab/AI-for-Professionals/wiki). Carlos Lizárraga.
@@ -92,7 +93,7 @@ Rudy Salcido. :material-notebook: :material-chart-timeline:  (Online :material-c
 * [Prompt Engineering & AI Application Deployment - GPT 101](https://tyson-swetnam.github.io/intro-gpt/) ([Previous version 2023](https://ua-data7.github.io/introllms/)). Tyson Swetnam. 
 * [Previous Data Science Institute Workshops](https://workshops-uad7.github.io/). Carlos Lizárraga. 
 
-## :material-format-list-group: University of Arizona HPC
+### :material-format-list-group: University of Arizona HPC
 
 * [HPC Workshops Calendar](https://hpcdocs.hpc.arizona.edu/events/calendar/)
 * [HPC Workshops and Training Materials](https://hpcdocs.hpc.arizona.edu/events/workshop_materials/)
@@ -108,7 +109,7 @@ Rudy Salcido. :material-notebook: :material-chart-timeline:  (Online :material-c
 
 ****
 
-## :material-format-list-group: Other learning resources
+### :material-format-list-group: Other learning resources
 
 * [Data Science Learning Resources wiki](https://github.com/ua-data7/LearningResources/wiki)
 * [DataLab Projects](https://github.com/clizarraga-UAD7/DataScienceLab/wiki/Data-Lab-Projects)
@@ -116,7 +117,7 @@ Rudy Salcido. :material-notebook: :material-chart-timeline:  (Online :material-c
 
 ***
 
-## :material-web: University of Arizona DataLab Social 
+### :material-web: University of Arizona DataLab Social 
 
 * [Github](https://github.com/ua-datalab)
 * [Linkedin](https://www.linkedin.com/company/100483432/admin/feed/posts/)
