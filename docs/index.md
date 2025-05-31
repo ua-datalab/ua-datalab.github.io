@@ -93,21 +93,16 @@ Rudy Salcido. :material-notebook: :material-chart-timeline:  (Online :material-c
 * [Prompt Engineering & AI Application Deployment - GPT 101](https://tyson-swetnam.github.io/intro-gpt/) ([Previous version 2023](https://ua-data7.github.io/introllms/)). Tyson Swetnam. 
 * [Previous Data Science Institute Workshops](https://workshops-uad7.github.io/). Carlos Lizárraga. 
 
+***
+
 ### :material-format-list-group: University of Arizona HPC
 
 * [HPC Workshops Calendar](https://hpcdocs.hpc.arizona.edu/events/calendar/)
 * [HPC Workshops and Training Materials](https://hpcdocs.hpc.arizona.edu/events/workshop_materials/)
 * [HPC Documentation](https://hpcdocs.hpc.arizona.edu/)
 
-<!--
+
 ***
-
-## Project based workshops
-
-* [Pose Estimation using Deep Learning](https://github.com/ua-datalab/DL-pose-estimation/wiki) :rat:
--->
-
-****
 
 ### :material-format-list-group: Other learning resources
 
