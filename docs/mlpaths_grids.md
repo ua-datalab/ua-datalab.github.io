@@ -25,8 +25,8 @@ timeline
 			 : C4. Ensemble Methods
     D. Deep Learning : D1. Neural Networks with PyTorch
 		    : D2. Transformers with HuggingFace
-		    : D3. GenAI 1 - LLM, RAG
-		    : D4. GenAI 2 - Multimodal LLMs
+		    : D3. GenAI 1 <br> (LLM, RAG) 
+		    : D4. GenAI 2 <br> (Multimodal LLMs)
 		    : D5. Agents and MCP
     E. Continuous Integration / Continuous Deployment  : E1. MLOps
        		  	      		   	       : E2. LLMOps
