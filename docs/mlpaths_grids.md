@@ -11,24 +11,24 @@ We present 20 topics in the data science learning path, providing learning objec
 timeline
 
     title Machine Learning/Artificial Intelligence Learning Paths
-    <b>A. General Data Science</b> : A1. Introduction to Data Science and Machine Learning
+     A. General Data Science  : A1. Introduction to Data Science and Machine Learning
     	    	 	     : A2. Data Analyis with Pandas
 			     : A3. Data Visualization
 			     : A3. Ethical Considerations in Data Science
-    <b>B. Statistics</b> : B1. Descriptive Statistics
+     B. Statistics : B1. Descriptive Statistics
                   : B2. Probability Distributions
 		  : B3. Inferential Statistics
 		  : B4. Bayesian Statistics
-    <b>C. Machine Learning</b> : C1. Machine Learning with Scikit-Learn
+     C. Machine Learning  : C1. Machine Learning with Scikit-Learn
        	       		: C2. Supervised Learning
 	        	 : C3. Unsupervised Learning
 			 : C4. Ensemble Methods
-    <b>D. Deep Learning</b> : D1. Neural Networks with PyTorch
+     D. Deep Learning  : D1. Neural Networks with PyTorch
 		    : D2. Transformers with HuggingFace
 		    : D3. GenAI 1 <br> (LLM, RAG) 
 		    : D4. GenAI 2 <br> (Multimodal LLMs)
 		    : D5. Agents and MCP
-    <b>E. Continuous Integration / Continuous Deployment</b>  : E1. MLOps
+     E. Continuous Integration / Continuous Deployment : E1. MLOps
        		  	      		   	       : E2. LLMOps
 						       : E3. AgentsOps
 ```
@@ -44,28 +44,28 @@ timeline
 
 <div class="grid cards" markdown>
 
--   [:material-creation: **A1. Introduction to Data Science and Machine Learning**](mlpaths/A1_Intro_to_DataScience_and_ML.md)
+-   [<b> :material-creation: A1. Introduction to Data Science and Machine Learning</b>](mlpaths/A1_Intro_to_DataScience_and_ML.md)
 
     ---
 
     <p>Data Science is an interdisciplinary field focused on extracting knowledge and insights from data. Machine Learning (ML), a key component of Artificial Intelligence (AI), enables systems to learn from data to make decisions or predictions.</p>
 
 
--   [<b>:material-poll: A2. Data Analysis with Pandas</b>](mlpaths/A2_Python_for_DataScience.md)
+-   [<b> :material-poll: A2. Data Analysis with Pandas</b>](mlpaths/A2_Python_for_DataScience.md)
 
     ---
 
     <p>Pandas is an open-source Python library used for data manipulation and analysis. It provides data structures, such as Series (1D) and DataFrames (2D), designed to handle tabular datasets efficiently. 
 
 
--   [<b>:material-chart-scatter-plot-hexbin: A3. Data Visualization with Matplotlib and Seaborn</b>](mlpaths/A2_Python_for_DataScience.md)
+-   [<b> :material-chart-scatter-plot-hexbin: A3. Data Visualization with Matplotlib and Seaborn</b>](mlpaths/A2_Python_for_DataScience.md)
 
     ---
 
     <p>Matplotlib is a library in Python that enables users to generate visualizations like histograms, scatter plots, bar charts, pie charts and much more. Seaborn is a visualization library that is built on top of Matplotlib. It provides data visualizations that are typically more aesthetic and statistically sophisticated.
  
 
--   <b>:material-scale-balance: A4. Ethical Considerations of Data Science</b>
+-   <b> :material-scale-balance: A4. Ethical Considerations of Data Science</b>
 
     ---
 
