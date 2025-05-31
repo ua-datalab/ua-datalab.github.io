@@ -19,7 +19,7 @@ Our workshops focus on promoting Data Science Literacy among the university comm
 
 Are you interested in improving your professional skills in data analytics tools, methods, scientific analysis and statistics?
 
-The [University of Arizona DataLab](https://www.datascience.arizona.edu/education/uarizona-data-lab) team invites you to attend our weekly Workshops. All sessions are conducted in hybrid mode, unless noted otherwise.
+The [University of Arizona DataLab](https://www.datascience.arizona.edu/education/uarizona-data-lab) team invites you to attend our weekly Workshops. All sessions are conducted in hybrid mode, unless otherwise stated.
 
 <!--
 Please join us in-person at the **Weaver Science & Engineering Library Room 212**, or join via **Zoom:**  [**896 6708 1542**](https://arizona.zoom.us/j/89667081542)
