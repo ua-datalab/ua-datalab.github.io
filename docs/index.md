@@ -25,11 +25,13 @@ The [University of Arizona DataLab](https://www.datascience.arizona.edu/educatio
 Please join us in-person at the **Weaver Science & Engineering Library Room 212**, or join via **Zoom:**  [**896 6708 1542**](https://arizona.zoom.us/j/89667081542)
 -->
 
+<div class="grid cards" markdown>
 
+- **U of A DataLab Workshops Fall 2025**
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'base' } }%%
 timeline
-    title U of A DataLab Workshops Fall 2025
+    tile 
     Tuesday : Research Productivity (†)
             : Foundational Open Science Skills
 	    : From Neural Networks to Transformers
@@ -47,6 +49,7 @@ timeline
 (†) This three-session series will be offered twice in Fall 2025. 
 (††) Alternating on Fridays.
 
+</div>
 
 ***
 
