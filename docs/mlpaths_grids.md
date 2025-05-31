@@ -204,7 +204,7 @@ timeline
 Created: 05/25/2025 (C. Lizárraga); Updated: 05/29/2025 (C. Lizárraga)
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/64px-Cc.logo.circle.svg.png" width=20> 2025. [University of Arizona DataLab](https://datascience.arizona.edu/education/uarizona-data-lab), [Data Science Institute](https://datascience.arizona.edu/)
+:material-creative-commons:  2025. [University of Arizona DataLab](https://datascience.arizona.edu/education/uarizona-data-lab), [Data Science Institute](https://datascience.arizona.edu/)
 
 
 
