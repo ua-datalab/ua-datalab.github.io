@@ -63,7 +63,7 @@ Lobby](https://bsrl.arizona.edu/)
 
 **:material-information-slab-circle-outline:** Please visit our [Events Calendar](https://ua-datalab.github.io/events/) for weekly activities details.
 
-### :material-format-list-group: Fall 2025 Workshops
+## :material-format-list-group: Fall 2025 Workshops
 
 [**Running:** Aug 26 - Oct 30]
 
