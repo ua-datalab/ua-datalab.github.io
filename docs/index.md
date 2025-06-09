@@ -66,9 +66,11 @@ Lobby](https://bsrl.arizona.edu/)
 
 **:material-information-slab-circle-outline:** Please visit our [Events Calendar](https://ua-datalab.github.io/events/) for weekly activities details.
 
+***
+
 ## :material-format-list-group: Fall 2025 Workshops
 
-[**Running:** Aug 26 - Oct 30]
+[**:material-calendar-clock: Running:** Aug 26 - Oct 30]
 
 * [Bioinformatics & AI](https://github.com/ua-datalab/Bioinformatics/wiki). Michele Cosi. :material-dna: :material-molecule: :material-brain: 
 * [Data Science Tapas](https://github.com/ua-datalab/DataScience-Tapas/blob/main/README.md). Wednesdays @ 1:00 - 2:00 PM :material-coffee: :material-data-matrix: (Online :material-cast-education:).
@@ -79,6 +81,8 @@ Lobby](https://bsrl.arizona.edu/)
 * [Research Productivity](https://github.com/ua-datalab/ResearchProductivity/blob/main/README.md).
 Rudy Salcido. :material-notebook: :material-chart-timeline:  (Online :material-cast-education:).  
 [**Series 1:** Sep 9, Sep 30, Oct 21; **Series 2:** Nov 4 - Nov 6]. All sessions @ 10:00 AM - 11:30 AM.
+
+***
 
 ### :material-format-list-group:  Previous DataLab Workshops Learning Resources
 
@@ -123,8 +127,9 @@ Rudy Salcido. :material-notebook: :material-chart-timeline:  (Online :material-c
 * [Facebook Page](https://www.facebook.com/profile.php?id=61556132138807)
 * Workshop videorecordings [YouTube Channel](https://www.youtube.com/@UArizonaDataLab)
 
+***
 
-**Questions / Contact:** Please join the [UA Data Science Slack channel](https://uadatascience.slack.com/#datalab-chatter):
+**:material-chat-question-outline: Questions / Contact:** Please join the [UA Data Science Slack channel](https://uadatascience.slack.com/#datalab-chatter):
 ```
 #datalab-chatter
 ```
