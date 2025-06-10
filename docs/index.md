@@ -116,6 +116,7 @@ Rudy Salcido. :material-notebook: :material-chart-timeline:  (Online :material-c
 * [Data Science Learning Resources wiki](https://github.com/ua-data7/LearningResources/wiki)
 * [DataLab Projects](https://github.com/clizarraga-UAD7/DataScienceLab/wiki/Data-Lab-Projects)
 * [AI Tools Landscape](https://github.com/ua-datalab/Workshops/wiki/AI-Tools-Landscape)
+* [AI Landscape & Prompt Engineering](https://tinyurl.com/UA-GPT101)
 
 ***
 
