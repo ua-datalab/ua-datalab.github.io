@@ -44,7 +44,7 @@
 <p><a href="https://chat.cyverse.ai/"><img src="https://github.com/ua-datalab/ua-datalab.github.io/blob/main/docs/images/AI-verde-sign-in.png?raw=true" width=1000></a>
 
 
-<p>[**AI VERDE login**](https://chat.cyverse.ai/)
+<p><a href="https://chat.cyverse.ai/"><b>AI VERDE Login: https://chat.cyverse.ai/</b></a>
 
 
 <p><a href="https://arxiv.org/abs/2502.09651"><b>Paper:</b> AI-VERDE: A Gateway for Egalitarian Access to Large Language Model-Based Resources For Educational Institutions]</a>. DOI: 
