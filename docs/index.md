@@ -126,7 +126,7 @@ Rudy Salcido. :material-notebook: :material-chart-timeline:  (Online :material-c
 * [Linkedin](https://www.linkedin.com/company/100483432/admin/feed/posts/)
 * [Bluesky Social](https://bsky.app/profile/uarizonadatalab.bsky.social)
 * [Facebook Page](https://www.facebook.com/profile.php?id=61556132138807)
-* Workshop videorecordings [YouTube Channel](https://www.youtube.com/@UArizonaDataLab)
+* Workshop videorecordings [YouTube Channel](https://www.youtube.com/@UArizonaDataLab) 󰗃
 
 ***
 
