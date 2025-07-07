@@ -122,11 +122,11 @@ Rudy Salcido. :material-notebook: :material-chart-timeline:  (Online :material-c
 
 ### :material-web: University of Arizona DataLab Social 
 
-* [Github](https://github.com/ua-datalab)
-* [Linkedin](https://www.linkedin.com/company/100483432/admin/feed/posts/)
-* [Bluesky Social](https://bsky.app/profile/uarizonadatalab.bsky.social)
-* [Facebook Page](https://www.facebook.com/profile.php?id=61556132138807)
-* Workshop videorecordings [YouTube Channel](https://www.youtube.com/@UArizonaDataLab) 󰗃
+* :material-github: [Github](https://github.com/ua-datalab)
+* :material-linkedin: [Linkedin](https://www.linkedin.com/company/100483432/admin/feed/posts/)
+* :fontawesome/brands/bluesky: [Bluesky Social](https://bsky.app/profile/uarizonadatalab.bsky.social)
+* :material-facebook: [Facebook Page](https://www.facebook.com/profile.php?id=61556132138807)
+* :material-youtube: Workshop videorecordings [YouTube Channel](https://www.youtube.com/@UArizonaDataLab) 󰗃
 
 ***
 
