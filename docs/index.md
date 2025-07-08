@@ -122,15 +122,15 @@ Rudy Salcido. :material-notebook: :material-chart-timeline:  (Online :material-c
 
 ### :material-web: University of Arizona DataLab Social 
 
-* :material-github: [Github](https://github.com/ua-datalab)
-* :material-linkedin: [Linkedin](https://www.linkedin.com/company/100483432/admin/feed/posts/)
+* :fontawesome-brands-github: [Github](https://github.com/ua-datalab)
+* :fontawesome-brands-linkedin: [Linkedin](https://www.linkedin.com/company/100483432/admin/feed/posts/)
 * :fontawesome-brands-bluesky: [Bluesky Social](https://bsky.app/profile/uarizonadatalab.bsky.social)
-* :material-facebook: [Facebook Page](https://www.facebook.com/profile.php?id=61556132138807)
-* :material-youtube: Workshop videorecordings [YouTube Channel](https://www.youtube.com/@UArizonaDataLab) 
+* :fontawesome-brands-facebook: [Facebook Page](https://www.facebook.com/profile.php?id=61556132138807)
+* :fontawesome-brands-youtube: Workshop videorecordings [YouTube Channel](https://www.youtube.com/@UArizonaDataLab) 
 
 ***
 
-**:material-chat-question-outline: Questions / Contact:** Please join the [UA Data Science Slack channel](https://uadatascience.slack.com/#datalab-chatter):
+**:material-chat-question-outline: Questions / Contact:** Please join the :fontawesome-brands-slack: [UA Data Science Slack channel](https://uadatascience.slack.com/#datalab-chatter):
 ```
 #datalab-chatter
 ```
