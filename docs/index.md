@@ -48,7 +48,7 @@ timeline
 
 (†) This three-session series will be offered twice in Fall 2025. 
 (††) Alternating on Fridays.
-(†††) Sep 4, 11, 18
+(†††) Sep 4, 11, 18.
 
 
 ***
