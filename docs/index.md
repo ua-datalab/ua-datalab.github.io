@@ -34,7 +34,7 @@ timeline
     title U of Arizona DataLab Workshops Fall 2025
     Tuesday : Research Productivity (†)
             : Foundational Open Science Skills
-	    : Foundation Models to Autonomous Agents: From Neural Networks to Modern AI Systems
+	    : Foundation Models to Autonomous Agents - From Neural Networks to Modern AI Systems
 	    : Python & AI for Data Analysis
 	    : AI Makerspace Meet Up
     Wednesday : Research Productivity (†)
