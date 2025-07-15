@@ -29,10 +29,10 @@ Please join us in-person at the **Weaver Science & Engineering Library Room 212*
 
 
 ```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'forest', 'disableMulticolor': 'True' } }%%
+%%{init: { 'logLevel': 'debug', 'theme': 'forest' } }%%
 timeline
     title U of Arizona DataLab Workshops Fall 2025
-    <b>Tuesday</b> : Research Productivity (†)
+    Tuesday : Research Productivity (†)
             : Foundational Open Science Skills
 	    : Foundation Models to Autonomous Agents - From Neural Networks to Modern AI Systems
 	    : Python & AI for Data Analysis
