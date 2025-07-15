@@ -29,7 +29,7 @@ Please join us in-person at the **Weaver Science & Engineering Library Room 212*
 
 
 ```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'base' } }%%
+%%{init: { 'logLevel': 'debug', 'theme': 'forest', disableMulticolor: True  } }%%
 timeline
     title U of Arizona DataLab Workshops Fall 2025
     Tuesday : Research Productivity (†)
