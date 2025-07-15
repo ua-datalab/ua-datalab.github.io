@@ -32,7 +32,7 @@ Please join us in-person at the **Weaver Science & Engineering Library Room 212*
 %%{init: { 'logLevel': 'debug', 'theme': 'forest', 'disableMulticolor': 'True' } }%%
 timeline
     title U of Arizona DataLab Workshops Fall 2025
-    <strong>Tuesday</strong> : Research Productivity (†)
+    <b>Tuesday</b> : Research Productivity (†)
             : Foundational Open Science Skills
 	    : Foundation Models to Autonomous Agents - From Neural Networks to Modern AI Systems
 	    : Python & AI for Data Analysis
@@ -46,9 +46,9 @@ timeline
     	   : CyVerse Webinars (††)
 ```
 
-(†) This three-session series will be offered twice in Fall 2025. 
-(††) Alternating on Fridays.
-(†††) Sep 4, 11, 18.
+(†) This three-session series will be offered twice in Fall 2025. <br>
+(††) Alternating on Fridays. <br>
+(†††) Sep 4, 11, 18.<br>
 
 
 ***
