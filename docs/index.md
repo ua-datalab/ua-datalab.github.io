@@ -34,7 +34,7 @@ timeline
     title U of Arizona DataLab Workshops Fall 2025
     Tuesday : Research Productivity (†)
             : Foundational Open Science Skills
-            : Autonomous AI Systems - From Local Deployment to Agentic Applications	   
+            : Practical AI for Research -  LLMs, RAG & Agentic Systems
 	    : Python & AI for Data Analysis
 	    : AI Makerspace Meet Up
     Wednesday : Research Productivity (†)
@@ -75,7 +75,7 @@ Lobby](https://bsrl.arizona.edu/)
 * [Bioinformatics & AI](https://github.com/ua-datalab/Bioinformatics/wiki). Michele Cosi. :material-dna: :material-molecule: :material-brain: 
 * [Data Science Tapas](https://github.com/ua-datalab/DataScience-Tapas/blob/main/README.md). Wednesdays @ 1:00 - 2:00 PM :material-coffee: :material-data-matrix: (Online :material-cast-education:).
 * [Foundational Open Science Skills](https://cyverse.org/foss). Michele Cosi. Tuesdays @ 11:00 AM  - 1:00 PM. :material-lock-open-variant: :material-cloud-lock-open-outline: :material-book-open-page-variant: :material-folder-open: (Online :material-cast-education:).
-* [Autonomous AI Systems: From Local Deployment to Agentic Applications](https://github.com/ua-datalab/Generative-AI/blob/main/README.md). Enrique Noriega, Carlos Lizárraga.  :material-language-python: :material-brain: :material-robot:  Tuesdays @ 1:00 PM - 2:00 PM. 
+* [Practical AI for Research: LLMs, RAG & Agentic Systems](https://github.com/ua-datalab/Generative-AI/blob/main/README.md). Enrique Noriega, Carlos Lizárraga.  :material-language-python: :material-brain: :material-robot:  Tuesdays @ 1:00 PM - 2:00 PM. 
 * [Geospatial AI](https://github.com/ua-datalab/geospatial_2025). Jeff Gillan. :material-earth: :material-satellite-variant: :material-brain: Sep 4, 11 & 18, @ 10:00 AM.
 * [Python & AI for Data Analysis](https://github.com/ua-datalab/Workshops/blob/main/README.md). Carlos Lizárraga.   :material-language-python: :material-chart-scatter-plot: :material-brain: Tuesdays @ 2:00 PM - 3:00 PM. 
 * [Research Productivity](https://github.com/ua-datalab/ResearchProductivity/blob/main/README.md).
