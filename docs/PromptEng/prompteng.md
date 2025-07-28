@@ -1,0 +1,343 @@
+# TRANSCOM Prompt Engineering Workshop Program Guide
+## Introduction to Prompt Engineering & Practical Applications
+
+**Target Audience:** US Transportation Command (TRANSCOM) Personnel  
+**Duration:** Two 90-minute sessions  
+**Platform:** Google Gemini LLM with multimodal capabilities  
+**Learning Framework:** Bloom's Taxonomy with experiential learning principles
+
+---
+
+## Workshop Overview
+
+This intensive two-session workshop introduces TRANSCOM personnel to prompt engineering fundamentals and practical applications for transportation, logistics, and deployment planning. Participants will develop competencies in structuring effective prompts for military transportation operations, leveraging Gemini's multimodal capabilities to process documents, spreadsheets, and operational imagery.
+
+---
+
+## Session 1: Foundations of Prompt Engineering (90 minutes)
+
+### Learning Objectives
+By the end of Session 1, participants will be able to:
+- **Remember:** Define prompt engineering terminology and core concepts
+- **Understand:** Explain the relationship between prompt structure and AI output quality
+- **Apply:** Construct basic prompts using established frameworks
+- **Analyze:** Evaluate prompt effectiveness for transportation planning scenarios
+
+### Session Structure
+
+#### Opening (15 minutes)
+**Activity:** "Transportation Challenge Icebreaker"
+- Participants identify a recent transportation/logistics challenge they faced
+- Quick-fire discussion on how AI assistance might have helped
+- Introduction to workshop objectives and TRANSCOM-specific applications
+
+#### Module 1: Prompt Engineering Fundamentals (25 minutes)
+
+**Core Concepts:**
+- Definition: Prompt engineering as the systematic design of inputs to generate desired AI outputs
+- The prompt-response feedback loop in military contexts
+- Understanding AI limitations and capabilities for transportation planning
+
+**Key Terminology:**
+- **Token:** Basic units of text processing
+- **Context Window:** Maximum information capacity per interaction
+- **Temperature:** Creativity vs. precision control
+- **Multimodal Processing:** Integration of text, documents, images, and data
+
+**Demonstration:** Live comparison of vague vs. structured prompts using TRANSCOM scenarios
+
+#### Module 2: Essential Prompt Engineering Frameworks (25 minutes)
+
+##### Framework 1: CLEAR Method
+- **C**ontext: Set the operational environment
+- **L**ength: Specify desired response format
+- **E**xamples: Provide relevant illustrations
+- **A**udience: Define the intended recipients
+- **R**ole: Establish AI's perspective/expertise
+
+**TRANSCOM Example:**
+```
+Context: You are assisting with deployment planning for Exercise Pacific Thunder
+Length: Provide a 3-paragraph analysis
+Examples: Similar to Pacific Resolve 2023 logistics requirements
+Audience: Brigade-level transportation officers
+Role: Act as a senior logistics analyst with 15 years TRANSCOM experience
+```
+
+##### Framework 2: CRISP Framework
+- **C**larify the objective
+- **R**ole assignment for AI
+- **I**nstructions with specific steps
+- **S**pecify format and constraints
+- **P**rompt for verification/questions
+
+##### Framework 3: APE (Action-Purpose-Expectation)
+- **Action:** What specific task to perform
+- **Purpose:** Why this analysis matters operationally
+- **Expectation:** Desired format, depth, and deliverables
+
+**Hands-on Practice (15 minutes):**
+- Participants work in pairs to rewrite poor prompts using CLEAR framework
+- Focus on realistic TRANSCOM scenarios (port operations, airlift coordination, convoy planning)
+
+#### Module 3: Core Prompt Engineering Strategies (20 minutes)
+
+##### Zero-Shot Learning
+- **Definition:** Task completion without examples
+- **TRANSCOM Application:** "Analyze this deployment TPFDD for potential bottlenecks"
+- **Best Practices:** Clear task definition, specific context, precise terminology
+
+##### One-Shot Learning
+- **Definition:** Single example to guide response pattern
+- **Example:** Providing one completed risk assessment to generate similar analyses
+- **Use Case:** Standardizing report formats across commands
+
+##### Few-Shot Learning
+- **Definition:** Multiple examples to establish patterns
+- **Military Application:** 
+  ```
+  Example 1: Convoy route analysis for Afghanistan terrain
+  Example 2: Convoy route analysis for European operations  
+  Example 3: Convoy route analysis for Pacific theater
+  Now analyze: [New route for Arctic operations]
+  ```
+
+##### Chain of Thought (CoT) Prompting
+- **Definition:** Explicit step-by-step reasoning
+- **TRANSCOM Framework:**
+  1. Assess transportation requirements
+  2. Evaluate available assets and capacity
+  3. Identify potential constraints and risks
+  4. Develop recommendations with contingencies
+  5. Present findings with confidence levels
+
+**Interactive Exercise (10 minutes):**
+Participants practice CoT with deployment timeline analysis
+
+#### Session 1 Wrap-up and Preview (10 minutes)
+- Key takeaways summary
+- Preview of Session 2 advanced techniques
+- Assignment: Identify one work scenario for Session 2 practice
+
+---
+
+## Session 2: Advanced Applications and Practical Implementation (90 minutes)
+
+### Learning Objectives
+By the end of Session 2, participants will be able to:
+- **Apply:** Implement advanced prompting strategies for complex transportation problems
+- **Analyze:** Dissect multi-step logistics challenges using prompt chaining
+- **Evaluate:** Assess prompt effectiveness and iterate for improvement
+- **Create:** Design comprehensive prompt sequences for operational planning
+
+### Session Structure
+
+#### Review and Advanced Strategies (30 minutes)
+
+##### Iterative Prompting
+- **Process:** Systematic refinement through follow-up queries
+- **TRANSCOM Example:**
+  ```
+  Initial: "Analyze this TPFDD deployment schedule"
+  Iteration 1: "Focus specifically on airlift capacity constraints in weeks 3-5"
+  Iteration 2: "Provide alternative routing options for the identified bottlenecks"
+  Iteration 3: "Calculate risk mitigation costs for each alternative"
+  ```
+
+##### Negative Prompting
+- **Definition:** Explicitly stating what NOT to include
+- **Military Application:** "Analyze logistics requirements but do not include classified movement data or specific unit identifiers"
+- **Quality Control:** Preventing hallucination of sensitive information
+
+##### Prompt Chaining
+- **Concept:** Linking multiple specialized prompts for complex workflows
+- **TRANSCOM Workflow Example:**
+  1. **Analysis Prompt:** Document review and data extraction
+  2. **Synthesis Prompt:** Pattern identification and trend analysis  
+  3. **Planning Prompt:** Recommendation generation
+  4. **Validation Prompt:** Risk assessment and feasibility check
+  5. **Communication Prompt:** Executive summary creation
+
+##### Role-Based Prompting
+- **Strategy:** Assigning specific expertise personas to AI
+- **Examples:**
+  - "As a Port Operations Manager with 20 years experience..."
+  - "From the perspective of a Strategic Airlift Coordinator..."
+  - "Acting as a Joint Logistics Planner familiar with CENTCOM operations..."
+
+#### Practical Exercise Session (45 minutes)
+
+### Challenge Exercise 1: Multimodal TPFDD Analysis (15 minutes)
+**Scenario:** Upload a sample TPFDD spreadsheet and related deployment order PDF
+**Task:** Create a prompt chain that:
+1. Extracts key deployment milestones and requirements
+2. Identifies potential transportation bottlenecks
+3. Generates risk mitigation recommendations
+4. Produces an executive briefing slide outline
+
+**Learning Focus:** Document processing, data synthesis, chain of thought reasoning
+
+**Sample Prompt Sequence:**
+```
+Prompt 1: "Analyze the uploaded TPFDD spreadsheet. Extract and summarize: 
+- Total personnel and equipment to be moved
+- Critical deployment windows (C+30, C+60, C+90)
+- Transportation mode requirements
+- Geographic distribution of movements"
+
+Prompt 2: "Based on your analysis, identify the top 3 potential bottlenecks 
+in this deployment plan. For each bottleneck, provide:
+- Specific timing and location
+- Capacity constraints involved  
+- Downstream operational impacts"
+
+Prompt 3: "For each identified bottleneck, propose 2-3 mitigation strategies 
+including resource requirements, timeline adjustments, and risk trade-offs."
+```
+
+### Challenge Exercise 2: Crisis Response Planning (15 minutes)
+**Scenario:** Natural disaster response requiring rapid transportation coordination
+**Materials:** News reports (text), damage assessment images, available asset spreadsheets
+**Task:** Develop comprehensive response recommendations
+
+**Complexity Factors:**
+- Multiple document types requiring synthesis
+- Time-critical decision making
+- Resource optimization under constraints
+- Stakeholder communication requirements
+
+**Advanced Techniques Applied:**
+- Few-shot learning with historical disaster responses
+- Role-based prompting (Emergency Response Coordinator)
+- Negative prompting (excluding unavailable resources)
+- Chain of thought for systematic response planning
+
+### Challenge Exercise 3: Strategic Asset Optimization (10 minutes)
+**Scenario:** Global repositioning of transportation assets for emerging threats
+**Materials:** Current asset deployment map (image), threat assessment reports (PDF), budget constraints (Excel)
+**Task:** Create optimal redeployment strategy
+
+**Higher-Order Thinking Skills:**
+- **Analysis:** Asset utilization patterns and strategic positioning
+- **Evaluation:** Cost-benefit analysis of various scenarios
+- **Synthesis:** Integration of multiple data sources and constraints
+- **Creation:** Novel strategic positioning concepts
+
+**Prompt Engineering Focus:**
+- Complex multi-step reasoning chains
+- Quantitative analysis integration
+- Strategic thinking prompts
+- Scenario planning techniques
+
+### Challenge Exercise 4: Operational Security Assessment (5 minutes)
+**Scenario:** Review transportation plans for OPSEC vulnerabilities
+**Task:** Identify and recommend mitigation for operational security risks
+**Advanced Considerations:**
+- Negative prompting to avoid revealing sensitive information
+- Role-based expertise (Intelligence/Security Specialist)
+- Systematic vulnerability assessment methodology
+- Risk communication for different audiences
+
+#### Integration and Implementation Planning (15 minutes)
+
+##### Prompt Library Development
+- **Individual Action:** Each participant creates a personal prompt library
+- **Templates for Common Tasks:**
+  - Route analysis and optimization
+  - Capacity planning and resource allocation
+  - Risk assessment and mitigation planning
+  - Stakeholder communication and briefing preparation
+
+##### Quality Assurance Framework
+- **Verification Strategies:**
+  - Cross-referencing AI outputs with doctrine and regulations
+  - Peer review processes for critical decisions
+  - Iterative refinement based on operational feedback
+  - Integration with existing TRANSCOM workflows
+
+##### Ethical Considerations and Limitations
+- **Information Security:** Handling classified and sensitive data
+- **Decision Authority:** AI as decision support, not decision maker
+- **Bias Recognition:** Understanding AI limitations in military contexts
+- **Human Oversight:** Maintaining professional judgment and accountability
+
+---
+
+## Assessment and Evaluation Framework
+
+### Formative Assessment (Throughout Both Sessions)
+- **Peer Review:** Participants evaluate each other's prompt construction
+- **Real-time Feedback:** Instructor coaching during hands-on exercises
+- **Self-Assessment:** Reflection on prompt effectiveness and iteration needs
+
+### Summative Assessment (End of Session 2)
+- **Practical Demonstration:** Individual creation of prompt sequence for participant's actual work challenge
+- **Portfolio Development:** Collection of refined prompts for future use
+- **Action Planning:** Specific implementation commitments for workplace integration
+
+### Evaluation Criteria
+**Bloom's Taxonomy Alignment:**
+- **Knowledge/Comprehension:** Accurate use of terminology and frameworks
+- **Application:** Successful prompt construction for realistic scenarios
+- **Analysis:** Effective breakdown of complex transportation challenges
+- **Synthesis:** Integration of multiple data sources and constraints
+- **Evaluation:** Critical assessment of AI outputs and iterative improvement
+
+---
+
+## Technology Integration Specifications
+
+### Gemini LLM Capabilities Utilized
+- **Multimodal Processing:** PDF documents, Excel spreadsheets, images, text
+- **Large Context Window:** Complex document analysis and synthesis
+- **Code Interpretation:** Data analysis and visualization support
+- **Real-time Iteration:** Immediate feedback and refinement cycles
+
+### Required Materials and Setup
+- **Digital Infrastructure:** Stable internet, Gemini access for all participants
+- **Sample Documents:** 
+  - Anonymized TPFDD spreadsheets
+  - Deployment planning documents (PDFs)
+  - Transportation network maps and imagery
+  - Historical case studies and after-action reports
+- **Collaborative Tools:** Shared workspace for prompt library development
+
+---
+
+## Follow-up and Sustainability
+
+### Immediate Post-Workshop Actions
+- **30-Day Implementation Challenge:** Participants commit to using prompt engineering in specific work contexts
+- **Peer Learning Network:** Establishment of TRANSCOM prompt engineering community of practice
+- **Resource Repository:** Shared library of effective prompts and templates
+
+### Long-term Development Pathway
+- **Advanced Workshop Series:** Specialized applications for specific TRANSCOM functions
+- **Train-the-Trainer Program:** Developing internal capacity for prompt engineering instruction
+- **Integration with Professional Military Education:** Incorporation into logistics and transportation curricula
+
+### Success Metrics
+- **Operational Impact:** Measurable improvements in planning efficiency and quality
+- **Adoption Rate:** Percentage of participants actively using prompt engineering techniques
+- **Innovation Indicators:** Novel applications and creative problem-solving approaches
+- **Knowledge Sharing:** Growth of internal expertise and peer-to-peer learning
+
+---
+
+## Appendices
+
+### Appendix A: TRANSCOM-Specific Prompt Templates
+- Route optimization analysis
+- Asset utilization assessment  
+- Risk evaluation frameworks
+- Stakeholder communication formats
+
+### Appendix B: Troubleshooting Guide
+- Common prompt engineering challenges
+- Error recognition and correction strategies
+- Technical support resources
+
+### Appendix C: Additional Resources
+- Recommended readings on AI in military logistics
+- Online communities and professional development opportunities
+- Advanced prompt engineering techniques and emerging practices
