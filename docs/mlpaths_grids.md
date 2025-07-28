@@ -197,6 +197,9 @@ timeline
 </div>
 
 
+:bookmark: [Prompt Engineering](PromptEng/prompteng.md)
+
+
 ***
 
 Created: 05/25/2025 (C. Lizárraga); Updated: 05/29/2025 (C. Lizárraga)
