@@ -24,12 +24,11 @@ Are you interested in improving your professional skills in data analytics tools
 
 The [University of Arizona DataLab](https://www.datascience.arizona.edu/education/uarizona-data-lab) team invites you to attend our weekly Workshops. All sessions are conducted in hybrid mode, unless otherwise stated.
 
-<!--
 Please join us in-person at the **Weaver Science & Engineering Library Room 212**, or join via **Zoom:**  [**896 6708 1542**](https://arizona.zoom.us/j/89667081542)
 -->
 
 
-
+<!--
 
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'forest' } }%%
@@ -53,9 +52,11 @@ timeline
 (††) Alternating on Fridays. <br>
 (†††) Sep 4, 11, 18.<br>
 
+-->
 
 ***
 
+<!--
 
 ## University of Arizona DataLab Fall 2025 workshops and training materials 
 
@@ -75,35 +76,35 @@ Lobby](https://bsrl.arizona.edu/)
 
 [**:material-calendar-clock: Running:** Aug 26 - Oct 30]
 
-* [Bioinformatics & AI](https://github.com/ua-datalab/Bioinformatics/wiki). Michele Cosi. :material-dna: :material-molecule: :material-brain: 
-* [Data Science Tapas](https://github.com/ua-datalab/DataScience-Tapas/blob/main/README.md). Wednesdays @ 1:00 - 2:00 PM :material-coffee: :material-data-matrix: (Online :material-cast-education:).
-* [Foundational Open Science Skills](https://cyverse.org/foss). Michele Cosi. Tuesdays @ 11:00 AM  - 1:00 PM. :material-lock-open-variant: :material-cloud-lock-open-outline: :material-book-open-page-variant: :material-folder-open: (Online :material-cast-education:).
-* [Practical AI for Research: LLMs, RAG & Agentic Systems](https://github.com/ua-datalab/Generative-AI/blob/main/README.md). Enrique Noriega, Carlos Lizárraga.  :material-language-python: :material-brain: :material-robot:  Tuesdays @ 1:00 PM - 2:00 PM. 
-* [Geospatial AI](https://github.com/ua-datalab/geospatial_2025). Jeff Gillan. :material-earth: :material-satellite-variant: :material-brain: Sep 4, 11 & 18, @ 10:00 AM.
-* [Python & AI for Data Analysis](https://github.com/ua-datalab/Workshops/blob/main/README.md). Carlos Lizárraga.   :material-language-python: :material-chart-scatter-plot: :material-brain: Tuesdays @ 2:00 PM - 3:00 PM. 
-* [Research Productivity](https://github.com/ua-datalab/ResearchProductivity/blob/main/README.md).
-Rudy Salcido. :material-notebook: :material-chart-timeline:  (Online :material-cast-education:).  
-[**Series 1:** Sep 9, Sep 30, Oct 21; **Series 2:** Nov 4 - Nov 6]. All sessions @ 10:00 AM - 11:30 AM.
+-->
+
 
 ***
--->
+
 
 ### :material-format-list-group:  Previous DataLab Workshops Learning Resources
 
 * [Advanced AI for Healthcare](https://github.com/ua-datalab/ai-healthcare/tree/main). Greg Chism.
 * [AI & Data in Public Health: A Non-Coder's Toolkit!](https://github.com/ua-datalab/AI-for-Professionals/wiki). Carlos Lizárraga.
+* [Bioinformatics & AI](https://github.com/ua-datalab/Bioinformatics/wiki). Michele Cosi. 
 * [Classical Machine Learning](https://github.com/ua-datalab/MLWorkshops/blob/main/README.md). Carlos Lizárraga. 
 * [Craking the Coding Interview](https://github.com/ua-datalab/cracking_the_coding_interview). Mithun Paul.
 * [Data Engineering Technologies](https://github.com/ua-datalab/DataEngineering). Shashank Yadav.
+* [Data Science Tapas](https://github.com/ua-datalab/DataScience-Tapas/blob/main/README.md). 
 * [Data Science Tools and Methods in Earth Sciences](https://github.com/clizarraga-UAD7/geo-datascience2/blob/main/docs/README.md). Carlos Lizárraga.
-* [Deep Learning](https://github.com/ua-datalab/DLWorkshops/wiki). Mithun Paul.
+* [Foundational Open Science Skills](https://cyverse.org/foss). Michele Cosi.  :material-book-open-page-variant: :material-folder-open: (Online :material-cast-education:).* [Deep Learning](https://github.com/ua-datalab/DLWorkshops/wiki). Mithun Paul.
 * [Functional Open Science  Skills for AI/ML Applications](https://github.com/ua-datalab/FunctionalOpenSourceSkills/wiki). Michele Cosi, Carlos Lizárraga, Enrique Noriega, Leonardo Soto Hernandez.
+* [Geospatial AI](https://github.com/ua-datalab/geospatial_2025). Jeff Gillan.
 * [Graph Machine Learning](https://github.com/ua-datalab/GraphML). Shashank Yadav. 
 * [Natural Language Processing for All](https://github.com/ua-datalab/NLP-Speech/blob/main/README.md).  Megh Krishnaswamy, Mithun Paul.
 * [Neural Networks](https://github.com/ua-datalab/NeuralNetworks/wiki). Brennon Huppenthal, Megh Krishnaswamy.
 * [NextGen Geospatial](https://github.com/ua-datalab/Geospatial_Workshops/wiki). Jeff Gillan.
+* [Practical AI for Research: LLMs, RAG & Agentic Systems](https://github.com/ua-datalab/Generative-AI/blob/main/README.md). Enrique Noriega.
 * [Prompt Engineering & AI Application Deployment - GPT 101](https://tyson-swetnam.github.io/intro-gpt/) ([Previous version 2023](https://ua-data7.github.io/introllms/)). Tyson Swetnam. 
 * [Previous Data Science Institute Workshops](https://workshops-uad7.github.io/). Carlos Lizárraga. 
+* [Python & AI for Data Analysis](https://github.com/ua-datalab/Workshops/blob/main/README.md). Carlos Lizárraga.
+* [Research Productivity](https://github.com/ua-datalab/ResearchProductivity/blob/main/README.md).
+Rudy Salcido.
 
 ***
 
