@@ -8,12 +8,15 @@
 
 ***
 
+
 ##  Workshops
 
 Our workshops focus on promoting Data Science Literacy among the university community. This ranges from satisfying curiosity to diverse topics in Statistics and Data Science to Machine Learning, to promote skill development in data modeling based on Machine Learning and Deep Learning algorithms across the wide science community of our University.
 
 
 ***
+
+<!--
 
 ## Fall 2025 Workshops
 
@@ -83,6 +86,7 @@ Rudy Salcido. :material-notebook: :material-chart-timeline:  (Online :material-c
 [**Series 1:** Sep 9, Sep 30, Oct 21; **Series 2:** Nov 4 - Nov 6]. All sessions @ 10:00 AM - 11:30 AM.
 
 ***
+-->
 
 ### :material-format-list-group:  Previous DataLab Workshops Learning Resources
 
