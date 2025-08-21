@@ -92,7 +92,8 @@ Lobby](https://bsrl.arizona.edu/)
 * [Data Engineering Technologies](https://github.com/ua-datalab/DataEngineering). Shashank Yadav.
 * [Data Science Tapas](https://github.com/ua-datalab/DataScience-Tapas/blob/main/README.md). 
 * [Data Science Tools and Methods in Earth Sciences](https://github.com/clizarraga-UAD7/geo-datascience2/blob/main/docs/README.md). Carlos Lizárraga.
-* [Foundational Open Science Skills](https://cyverse.org/foss). Michele Cosi.  :material-book-open-page-variant: :material-folder-open: (Online :material-cast-education:).* [Deep Learning](https://github.com/ua-datalab/DLWorkshops/wiki). Mithun Paul.
+* [Foundational Open Science Skills](https://cyverse.org/foss). Michele Cosi.  
+* [Deep Learning](https://github.com/ua-datalab/DLWorkshops/wiki). Mithun Paul.
 * [Functional Open Science  Skills for AI/ML Applications](https://github.com/ua-datalab/FunctionalOpenSourceSkills/wiki). Michele Cosi, Carlos Lizárraga, Enrique Noriega, Leonardo Soto Hernandez.
 * [Geospatial AI](https://github.com/ua-datalab/geospatial_2025). Jeff Gillan.
 * [Graph Machine Learning](https://github.com/ua-datalab/GraphML). Shashank Yadav. 
