@@ -7,7 +7,7 @@
 **AI Innovation Lab = AI iLab** (Temporary name)
 
 
-### Justification for an Ai Innovation Lab
+### Justification for an AI Innovation Lab
 
 
 The University of Arizona (U of A) is strategically positioned to establish an **AI Innovation Lab** to advance regional and national AI research. This initiative is supported by U of A's existing infrastructure, interdisciplinary strengths, workforce development commitment, and land-grant mission.
