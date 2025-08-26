@@ -146,6 +146,8 @@ These initial steps will:
 This 3-month sprint will establish **AI iLab** as a catalyst in the University's AI research agenda.
 
 
+***
+
 ### Existing AI Laboratories 
 
 * [Berkeley Artificial Intelligence Research - BAIR](https://bair.berkeley.edu/). BAIR brings together UC Berkeley researchers across the areas of computer vision, machine learning, natural language processing, planning, control, robotics, and more.
