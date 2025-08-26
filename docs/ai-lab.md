@@ -33,6 +33,8 @@ Key justifications include:
 
 An **AI Innovation Lab** would consolidate these strengths to accelerate cutting-edge research, develop transformative applications, fulfill the land-grant mission, and foster new AI leaders.
 
+***
+
 ### Mission
 
 The **AI iLab's mission** is to position the University of Arizona as a leader in America's AI global competitiveness by developing advanced AI skills and fostering innovation. Through training, workshops, and consultations, it aims to help the academic community integrate cutting-edge AI systems into their work, contributing to national priorities and security.
@@ -47,6 +49,7 @@ Building on **AI iLab**'s mission to develop data science skills and incorporate
 
 **AI iLab** will collaborate with AI Research Institute and CyVerse to address the three pillars of America's AI Action Plan: Accelerating AI Innovation, Building American AI Infrastructure, and Leading in International AI Diplomacy and Security. Strategies will use existing consultation, training, and partnerships to enhance research capabilities, promote ethical AI practices, and drive discovery across University research pillars (Energy, Defense, Health, Space Sciences, and Data/AI Systems).
 
+***
 
 ## Research-Focused Roadmap and Strategies for **AI iLab**'s Transformation
 
@@ -93,8 +96,9 @@ Strategies will use existing consultation, training, and partnerships to enhance
     - **Focus:** Develop guidance on ensuring frontier AI protects free speech and American values in research planning. Promote ethical considerations in AI outcomes and data use.
     - **Desired Outcomes:** Research that is innovative, ethically sound, and aligned with societal values, advancing America's leadership in responsible AI.
 
+***
 
-### Measurable Goals and Milestones in a 3-Month Timeline (Research Focus)
+## Measurable Goals and Milestones in a 3-Month Timeline (Research Focus)
 
 A complete transformation is a long-term goal, but these initial 3-month milestones are designed for rapid, impactful progress from a research perspective.
 
@@ -122,7 +126,7 @@ A complete transformation is a long-term goal, but these initial 3-month milesto
 **3. Drive AI Research for Global Leadership and Security (Medium-High Priority)**
 
 - **Goal 3.1: Develop Ethical & Security Framework for AI Research.**
-    - **Milestone:** Partner with AI Research Institute and AI Research Institute to **draft an "Ethical and National Security AI Research Framework"** covering security risks in frontier models, biosecurity, and protecting American values.
+    - **Milestone:** Partner with AI Research Institute to **draft an "Ethical and National Security AI Research Framework"** covering security risks in frontier models, biosecurity, and protecting American values.
     - **Measure:** Framework document submitted for review; **conduct 1 internal training session** on implementation.
 - **Goal 3.2: Establish AI iLab's Role in AI Ecosystem.**
     - **Milestone:** Create **referral channels** between **AI iLab** and the AI Research Institute. Participate in **2+ planning meetings** to integrate **AI iLab** services into strategic initiatives.
