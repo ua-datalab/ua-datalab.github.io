@@ -19,7 +19,7 @@ The **AI iLab's vision** is to serve as a catalyst for the University's prominen
 
 Building on **AI iLab**'s mission to develop data science skills and incorporate AI systems for knowledge discovery, and its vision as an innovation hub for AI adoption, below is a roadmap with strategies for a 3-month timeline and priorities.
 
-**AI iLab** will collaborate with AIRI and CyVerse to address the three pillars of America's AI Action Plan: Accelerating AI Innovation, Building American AI Infrastructure, and Leading in International AI Diplomacy and Security. Strategies will use existing consultation, training, and partnerships to enhance research capabilities, promote ethical AI practices, and drive discovery across University research pillars (Energy, Defense, Health, Space Sciences, and Data/AI Systems).
+**AI iLab** will collaborate with AI Research Institute and CyVerse to address the three pillars of America's AI Action Plan: Accelerating AI Innovation, Building American AI Infrastructure, and Leading in International AI Diplomacy and Security. Strategies will use existing consultation, training, and partnerships to enhance research capabilities, promote ethical AI practices, and drive discovery across University research pillars (Energy, Defense, Health, Space Sciences, and Data/AI Systems).
 
 
 ## Research-Focused Roadmap and Strategies for **AI iLab**'s Transformation
@@ -49,10 +49,10 @@ Strategies will use existing consultation, training, and partnerships to enhance
 **Priority: High** – Supports "Build American AI Infrastructure" pillar through secure, scalable research environments.
 
 - **Strategy 2.1: Optimize AI Computational Resources.**
-    - **Focus:** Partner with UITS Research Computing, CyVerse, and AIRI to optimize AI workloads on HPC, Jetstream2, and cloud platforms, including large-scale data visualization support.
+    - **Focus:** Partner with UITS Research Computing, CyVerse, and AI Research Institute to optimize AI workloads on HPC, Jetstream2, and cloud platforms, including large-scale data visualization support.
     - **Desired Outcomes:** Researchers effectively use advanced computational resources for large-scale AI models, supporting energy generation and grid strengthening for AI leadership.
 - **Strategy 2.2: Implement Secure AI Practices.**
-    - **Focus:** Provide consultation on secure AI technologies and cybersecurity. Use **AI iLab** and AIRI expertise in privacy-preserving AI methods for sensitive health and security research.
+    - **Focus:** Provide consultation on secure AI technologies and cybersecurity. Use **AI iLab** and AI Research Institute expertise in privacy-preserving AI methods for sensitive health and security research.
     - **Desired Outcomes:** Research meets high security and privacy standards, protecting innovations and building AI system trust.
 
 ### Major Part 3: Drive AI Research for Global Leadership and Security
@@ -81,13 +81,13 @@ A complete transformation is a long-term goal, but these initial 3-month milesto
     - **Milestone:** Create **a "Best Practices Guide for Secure AI Development"** focusing on "Secure-By-Design Technologies" and "Critical Infrastructure." Detail CyVerse, Jetstream2, and HPC usage for secure AI research.
         - **Measure:** Guide published and promoted; **2+ webinars/office hours** on implementation.
 	- **Goal 2.2: Privacy-Preserving AI for Sensitive Research.**
-	    - **Milestone:** Identify **3+ research projects** with sensitive data that can benefit from privacy-preserving AI methods. Begin consultations utilizing AIRI's AI Verde platform.
+	    - **Milestone:** Identify **3+ research projects** with sensitive data that can benefit from privacy-preserving AI methods. Begin consultations utilizing AI Research Institute's AI Verde platform.
 	        - **Measure:** Projects engaged (target: 3+); **develop proof-of-concept plans for at least 1 project**.
 
 **3. Drive AI Research for Global Leadership and Security (Medium-High Priority)**
 
 - **Goal 3.1: Develop Ethical & Security Framework for AI Research.**
-    - **Milestone:** Partner with AI Research Institute and AIRI to **draft an "Ethical and National Security AI Research Framework"** covering security risks in frontier models, biosecurity, and protecting American values.
+    - **Milestone:** Partner with AI Research Institute and AI Research Institute to **draft an "Ethical and National Security AI Research Framework"** covering security risks in frontier models, biosecurity, and protecting American values.
         - **Measure:** Framework document submitted for review; **conduct 1 internal training session** on implementation.
 	- **Goal 3.2: Establish **AI iLab**'s Role in AI Ecosystem.**
 	    - **Milestone:** Create **referral channels** between **AI iLab** and the AI Research Institute. Participate in **2+ planning meetings** to integrate **AI iLab** services into strategic initiatives.
@@ -100,7 +100,7 @@ While full "transformation" and "global dominance" require years, the proposed g
 These initial steps will:
 
 - **Pivot research services** to align with national AI Action Plan and University priorities.
-- **Utilize existing partnerships** (AIRI, CyVerse, UITS) to deliver high-value support.
+- **Utilize existing partnerships** (AI Research Institute, CyVerse, UITS) to deliver high-value support.
 - **Show **AI iLab**'s value** as a key enabler for AI research within the new Research Institute.
 - **Create a foundation** for future program expansion and research integration.
 
