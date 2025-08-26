@@ -73,25 +73,33 @@ A complete transformation is a long-term goal, but these initial 3-month milesto
 
 **Within 3 Months:**
 
-- **Measure:** New modules launched (target: 2-3); researcher participants (target: 60+); utility feedback (target: 4.2+/5.0).
+**1. Elevate Research Support for AI Innovation (High Priority)**
+
+- **Goal 1.1: Increase Advanced AI Research Consultations.**
+   - **Milestone:** Conduct **15+ in-depth consultations** with researchers on frontier AI methods for ongoing projects. **At least 5 consultations should target national priority areas** (health, environment, space, defense, fusion).
+   - **Measure:** Number of consultations (target: 15+); new proposals mentioning **AI iLab** support (target: 5+); researcher feedback (target: 4.0+/5.0).
+
+- **Goal 1.2: Launch Focused Research AI Training Modules.**
+    - **Milestone:** Develop **2-3 advanced training workshops** on topics like "AI Interpretability," "AI-Enabled Science Applications," and "Open-Source AI in Research," building on existing expertise.
+    - **Measure:** New modules launched (target: 2-3); researcher participants (target: 60+); utility feedback (target: 4.2+/5.0).
 
 **2. Strengthen AI Research Infrastructure and Security Practices (High Priority)**
 
 - **Goal 2.1: Enhance Secure AI Infrastructure Guidance.**
     - **Milestone:** Create **a "Best Practices Guide for Secure AI Development"** focusing on "Secure-By-Design Technologies" and "Critical Infrastructure." Detail CyVerse, Jetstream2, and HPC usage for secure AI research.
-        - **Measure:** Guide published and promoted; **2+ webinars/office hours** on implementation.
-	- **Goal 2.2: Privacy-Preserving AI for Sensitive Research.**
-	    - **Milestone:** Identify **3+ research projects** with sensitive data that can benefit from privacy-preserving AI methods. Begin consultations utilizing AI Research Institute's AI Verde platform.
-	        - **Measure:** Projects engaged (target: 3+); **develop proof-of-concept plans for at least 1 project**.
+    - **Measure:** Guide published and promoted; **2+ webinars/office hours** on implementation.
+- **Goal 2.2: Privacy-Preserving AI for Sensitive Research.**
+    - **Milestone:** Identify **3+ research projects** with sensitive data that can benefit from privacy-preserving AI methods. Begin consultations utilizing AI Research Institute's AI Verde platform.
+    - **Measure:** Projects engaged (target: 3+); **develop proof-of-concept plans for at least 1 project**.
 
 **3. Drive AI Research for Global Leadership and Security (Medium-High Priority)**
 
 - **Goal 3.1: Develop Ethical & Security Framework for AI Research.**
     - **Milestone:** Partner with AI Research Institute and AI Research Institute to **draft an "Ethical and National Security AI Research Framework"** covering security risks in frontier models, biosecurity, and protecting American values.
-        - **Measure:** Framework document submitted for review; **conduct 1 internal training session** on implementation.
-	- **Goal 3.2: Establish **AI iLab**'s Role in AI Ecosystem.**
-	    - **Milestone:** Create **referral channels** between **AI iLab** and the AI Research Institute. Participate in **2+ planning meetings** to integrate **AI iLab** services into strategic initiatives.
-	        - **Measure:** Documented referral process; representation in key meetings; ****AI iLab** featured in one official Institute communication**.
+    - **Measure:** Framework document submitted for review; **conduct 1 internal training session** on implementation.
+- **Goal 3.2: Establish AI iLab's Role in AI Ecosystem.**
+    - **Milestone:** Create **referral channels** between **AI iLab** and the AI Research Institute. Participate in **2+ planning meetings** to integrate **AI iLab** services into strategic initiatives.
+    - **Measure:** Documented referral process; representation in key meetings; ****AI iLab** featured in one official Institute communication**.
 
 ### Feasibility in a 3-Month Timeline
 
@@ -101,7 +109,7 @@ These initial steps will:
 
 - **Pivot research services** to align with national AI Action Plan and University priorities.
 - **Utilize existing partnerships** (AI Research Institute, CyVerse, UITS) to deliver high-value support.
-- **Show **AI iLab**'s value** as a key enabler for AI research within the new Research Institute.
+- **Show AI iLab's value** as a key enabler for AI research within the new Research Institute.
 - **Create a foundation** for future program expansion and research integration.
 
 This 3-month sprint will establish **AI iLab** as a catalyst in the University's AI research agenda.
