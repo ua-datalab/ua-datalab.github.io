@@ -62,3 +62,10 @@ Strategies will use existing consultation, training, and partnerships to enhance
     - **Focus:** Develop guidance on ensuring frontier AI protects free speech and American values in research planning. Promote ethical considerations in AI outcomes and data use.
     - **Desired Outcomes:** Research that is innovative, ethically sound, and aligned with societal values, advancing America's leadership in responsible AI.
 
+
+### Measurable Goals and Milestones in a 3-Month Timeline (Research Focus)
+
+A complete transformation is a long-term goal, but these initial 3-month milestones are designed for rapid, impactful progress from a research perspective.
+
+**Within 3 Months:**
+
