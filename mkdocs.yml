@@ -29,6 +29,7 @@ nav:
     - 'LEAD Program': mlpaths_grids.md
     - 'TREX: Training for Research Experience' : 'https://github.com/ua-datalab/TREX/wiki' 
     - 'PHIRE': phire.md
+    - 'AI Lab': ai-lab.md
 
 
 theme: 
