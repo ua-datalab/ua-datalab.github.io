@@ -16,18 +16,18 @@ Key justifications include:
 
 - **Strong Existing Foundation in AI and Data Science:**
     - The **University of Arizona** utilizes AI as a "driver of discovery" for water systems modeling, space research, health research, and education.
-    - The **AI Research Institute** promotes collaboration through its "Solve bigger questions together" vision, encompassing seven pillars of Data Science excellence.
+    - The **AI Research Institute** promotes collaboration through its "Solve bigger questions together" vision, encompassing the US Government's AI Call of Action Initiative.
     - U of A makes AI tools and support accessible campus-wide for meaningful, ethical impact.
 - **Diverse and Interdisciplinary Research Strengths:**
-    - AI Research Institute projects align with **six strategic research pillars** supporting U of A's mission.
-    - **Focus areas** include NLP, ML, Data Visualization, and Image Informatics.
+    - AI Research Institute projects align with **six strategic research pillars** supporting U of A's mission (data, information systems and artificial intelligence; defense and national security; energy and environmental sustainability; the future of health and biomedical sciences; the human experience; and space sciences.)
+    - **Focus areas** include NLP, ML, Bioinformatics, Geospatial, Data Visualization, and Image Informatics.
     - **AI Innovation Lab** in CNNs, Generative AI, LLMs, and Privacy-Preserving techniques.
     - U of A developed **AI Verde**, prioritizing accuracy, privacy, and IP protection.
 - **Land-Grant Mission and Regional/National Impact:**
     - As a land-grant institution, U of A addresses community challenges and builds relationships with Native communities.
     - AI research tackles **regional challenges** including:
         - **Environmental Sustainability**: Projects like AIIRA use AI for agriculture, HydroGEN helps manage water events, and COALESCE develops advanced farming systems.
-        - **Health Sciences**: Research on Alzheimer's, cancer diagnosis (OMERO), and cancer manifestations (Soteria).
+        - **Health Sciences**: Research on Alzheimer's, cancer diagnosis (OMERO), and cancer manifestations (Soteria), HIPAA compliant (CyVerse Health).
     - U of A supports **rural economic development** through open innovation.
     - **Nationally**, U of A contributes to America's AI leadership goals, supporting the "AI Action Plan."
 
@@ -51,6 +51,7 @@ Building on **AI iLab**'s mission to develop data science skills and incorporate
 ## Research-Focused Roadmap and Strategies for **AI iLab**'s Transformation
 
 **AI iLab** will collaborate with teams of the AI Research Institute,  to address the three pillars of America's AI Action Plan:
+
 1. Accelerating AI Innovation,
 1. Building American AI Infrastructure, and
 1. Leading in International AI Diplomacy and Security.
