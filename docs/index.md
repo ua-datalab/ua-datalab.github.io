@@ -120,8 +120,10 @@ Rudy Salcido.
 
 ### :material-format-list-group: Other learning resources
 
-* [Data Science Learning Resources wiki](https://github.com/ua-data7/LearningResources/wiki)
+* [Data Science Learning Resources wiki](https://github.com/ua-data7/LearningResources/wiki). Carlos Lizárraga.
+<!--
 * [DataLab Projects](https://github.com/clizarraga-UAD7/DataScienceLab/wiki/Data-Lab-Projects)
+-->
 * [AI Tools Landscape](https://github.com/ua-datalab/Workshops/wiki/AI-Tools-Landscape), Carlos Lizárraga. 
 * [AI Landscape & Prompt Engineering](https://tinyurl.com/UA-GPT101). Carlos Lizárraga. 
 * [Model Context Protocol - MCP](https://github.com/clizarraga-UAD7/MCP/wiki). Carlos Lizárraga. 
