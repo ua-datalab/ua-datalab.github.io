@@ -1,0 +1,1218 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="The University of Arizona DataLab supports multiple ways to improve research, provides career opportunities, facilitates industry partnerships, and encourage innovation and entrepreneurship at our University.">
+      
+      
+        <meta name="author" content="DataLab Team">
+      
+      
+        <link rel="canonical" href="https://ua-datalab.github.io/mlpaths/A1_Intro_to_DataScience_and_ML/">
+      
+      
+      
+      
+      <link rel="icon" href="../../assets/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.23">
+    
+    
+      
+        <title>A1 Intro to DataScience and ML - University of Arizona DataLab</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.84d31ad4.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRegular:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Regular"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/_mkdocstrings.css">
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function e(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],e("js",new Date),e("config","G-J75WXHX6HC"),document.addEventListener("DOMContentLoaded",(function(){document.forms.search&&document.forms.search.query.addEventListener("blur",(function(){this.value&&e("event","search",{search_term:this.value})}));document$.subscribe((function(){var t=document.forms.feedback;if(void 0!==t)for(var a of t.querySelectorAll("[type=submit]"))a.addEventListener("click",(function(a){a.preventDefault();var n=document.location.pathname,d=this.getAttribute("data-md-value");e("event","feedback",{page:n,data:d}),t.firstElementChild.disabled=!0;var r=t.querySelector(".md-feedback__note [data-md-value='"+d+"']");r&&(r.hidden=!1)})),t.hidden=!1})),location$.subscribe((function(t){e("config","G-J75WXHX6HC",{page_path:t.pathname})}))}));var t=document.createElement("script");t.async=!0,t.src="https://www.googletagmanager.com/gtag/js?id=G-J75WXHX6HC",document.getElementById("__analytics").insertAdjacentElement("afterEnd",t)}</script>
+  
+    <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
+  
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="deep-purple">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#introduction-to-data-science-and-machine-learning" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="University of Arizona DataLab" class="md-header__button md-logo" aria-label="University of Arizona DataLab" data-md-component="logo">
+      
+  <img src="../../images/UADLSquareLogo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            University of Arizona DataLab
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              A1 Intro to DataScience and ML
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="deep-purple"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9 2c-1.05 0-2.05.16-3 .46 4.06 1.27 7 5.04 7 9.54s-2.94 8.27-7 9.54c.95.3 1.95.46 3 .46a10 10 0 0 0 10-10A10 10 0 0 0 9 2"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="slate" data-md-color-primary="black" data-md-color-accent="orange"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/ua-datalab/ua-datalab.github.io" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    University of Arizona-DataLab
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../.." class="md-tabs__link">
+          
+  
+  
+    
+  
+  Home
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="University of Arizona DataLab" class="md-nav__button md-logo" aria-label="University of Arizona DataLab" data-md-component="logo">
+      
+  <img src="../../images/UADLSquareLogo.png" alt="logo">
+
+    </a>
+    University of Arizona DataLab
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/ua-datalab/ua-datalab.github.io" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    University of Arizona-DataLab
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_1" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../.." class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_1" id="__nav_1_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1">
+            <span class="md-nav__icon md-icon"></span>
+            Home
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../about/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    About
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../members/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    DataLab Team
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../DSecosystem/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Data Science Ecosystem
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../consultations/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Consultations
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../events/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Events Calendar
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apps-dev/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    AI/ML Development
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../aiverde/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Ai-VERDE
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../capstone/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Capstone Projects
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../mlpaths_grids/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    LEAD Program
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="https://github.com/ua-datalab/TREX/wiki" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    TREX: Training for Research Experience
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../phire/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    PHIRE
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ai-lab/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    AI Lab
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  
+  
+
+
+  <h1>A1 Intro to DataScience and ML</h1>
+
+<p><img alt="⬅" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/2b05.svg" title=":arrow_left:" /> [<a href="https://ua-datalab.github.io/mlpaths_grids/"><strong>Back to ML Paths Home!</strong></a>]</p>
+<h2 id="introduction-to-data-science-and-machine-learning">Introduction to Data Science and Machine Learning 🧭🤖<a class="headerlink" href="#introduction-to-data-science-and-machine-learning" title="Permanent link">&para;</a></h2>
+<p><img src="https://images.unsplash.com/photo-1548892716-ccc4ff70ca8c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width=840></p>
+<p>(Image credit: <a href="https://unsplash.com/@ninjason">Jason Leung</a>. Unsplash.com)</p>
+<hr />
+<p>This module serves as your foundational entry point into the dynamic worlds of Data Science and Machine Learning. It's designed for self-paced, experiential learning, encouraging active engagement with Python and AI tools to progressively build your skills from foundational knowledge to analytical application.</p>
+<hr />
+<h3 id="1-general-learning-objectives">1. General Learning Objectives<a class="headerlink" href="#1-general-learning-objectives" title="Permanent link">&para;</a></h3>
+<p>Upon successful completion of this module, you will be able to:</p>
+<ol>
+<li><strong>Remember</strong> key terminology and foundational concepts of Data Science and Machine Learning. (Bloom's: Remember)</li>
+<li><strong>Understand</strong> the typical workflow of a data science project and the roles of various components. (Bloom's: Understand)</li>
+<li><strong>Understand</strong> the distinctions and relationships between Artificial Intelligence, Machine Learning, and Data Science. (Bloom's: Understand)</li>
+<li><strong>Apply</strong> basic Python programming skills using essential libraries (Pandas, NumPy) for fundamental data loading, inspection, and manipulation tasks. (Bloom's: Apply)</li>
+<li><strong>Apply</strong> core data visualization techniques using Matplotlib and Seaborn to explore datasets and communicate initial findings. (Bloom's: Apply)</li>
+<li><strong>Apply</strong> the principles of a basic machine learning algorithm (e.g., k-Nearest Neighbors) to a simple classification problem using Scikit-learn. (Bloom's: Apply)</li>
+<li><strong>Analyze</strong> simple datasets to identify appropriate questions, necessary preprocessing steps, and suitable introductory modeling approaches. (Bloom's: Analyze)</li>
+<li><strong>Analyze</strong> the output and performance of a basic machine learning model to draw initial conclusions. (Bloom's: Analyze)</li>
+</ol>
+<p>Throughout this module, you are encouraged to use open-source Large Language Models (LLMs) as a learning aid to clarify concepts, debug code, and explore topics more deeply, thereby enhancing your independent learning journey.</p>
+<hr />
+<h3 id="2-topic-overview">2. Topic Overview<a class="headerlink" href="#2-topic-overview" title="Permanent link">&para;</a></h3>
+<p>Data Science is an interdisciplinary field that extracts knowledge and insights from structured and unstructured data using scientific methods, processes, algorithms, and systems. Machine Learning (ML), a core component of Artificial Intelligence (AI), provides systems with the ability to automatically learn and improve from experience without being explicitly programmed. This module introduces you to the foundational principles that underpin these fields, the typical lifecycle of a data science project (from data acquisition to model deployment and interpretation), and the ethical considerations involved. You'll discover how Python, with its rich ecosystem of libraries, has become the de facto language for data science, enabling practitioners to tackle complex problems across various domains like healthcare, finance, and technology. Understanding these fundamentals is the first crucial step toward becoming a proficient data scientist.</p>
+<hr />
+<h3 id="3-open-source-python-libraries">3. Open-Source Python Libraries<a class="headerlink" href="#3-open-source-python-libraries" title="Permanent link">&para;</a></h3>
+<p>These libraries are workhorses in the field of Data Science:</p>
+<ul>
+<li><strong>NumPy (Numerical Python):</strong><ul>
+<li><strong>Description:</strong> The fundamental package for numerical computation in Python. It provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays efficiently.</li>
+<li><strong>Practical Applications:</strong> Performing mathematical and logical operations on arrays, Fourier transforms, routines for shape manipulation, linear algebra, and random number generation. It forms the basis for most other scientific computing and data analysis libraries in Python.</li>
+</ul>
+</li>
+<li><strong>Pandas:</strong><ul>
+<li><strong>Description:</strong> A powerful and flexible open-source data analysis and manipulation tool, built on top of NumPy. It provides expressive data structures like DataFrame and Series, designed to make working with "relational" or "labeled" data both easy and intuitive.</li>
+<li><strong>Practical Applications:</strong> Data cleaning, data transformation (reshaping, merging, joining), data loading from various file formats (CSV, Excel, SQL databases), time-series analysis, and exploratory data analysis.</li>
+</ul>
+</li>
+<li><strong>Matplotlib:</strong><ul>
+<li><strong>Description:</strong> A comprehensive library for creating static, animated, and interactive visualizations in Python. It provides a MATLAB-like interface and an object-oriented API for embedding plots into applications.</li>
+<li><strong>Practical Applications:</strong> Generating a wide variety of plots like line plots, scatter plots, histograms, bar charts, and more, for data exploration, presentation, and publication.</li>
+</ul>
+</li>
+<li><strong>Seaborn:</strong><ul>
+<li><strong>Description:</strong> A Python data visualization library based on Matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.</li>
+<li><strong>Practical Applications:</strong> Creating more sophisticated statistical plots with less code, such as heatmaps, violin plots, pair plots, and complex categorical plots. Excellent for highlighting relationships and distributions.</li>
+</ul>
+</li>
+<li><strong>Scikit-learn (sklearn):</strong><ul>
+<li><strong>Description:</strong> A simple and efficient tool for data mining and data analysis. It features various classification, regression, clustering, dimensionality reduction, model selection, and preprocessing algorithms.</li>
+<li><strong>Practical Applications:</strong> Implementing machine learning models, evaluating model performance, preparing data for modeling (e.g., feature scaling, encoding categorical variables).</li>
+</ul>
+</li>
+<li><strong>Jupyter Notebook / JupyterLab:</strong><ul>
+<li><strong>Description:</strong> Web-based interactive computational environments that allow you to create and share documents containing live code, equations, visualizations, and narrative text.</li>
+<li><strong>Practical Applications:</strong> Ideal for data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more. They support an iterative, exploratory approach to data science.</li>
+</ul>
+</li>
+</ul>
+<hr />
+<h3 id="4-core-skills-to-develop">4. Core Skills to Develop<a class="headerlink" href="#4-core-skills-to-develop" title="Permanent link">&para;</a></h3>
+<p>Engaging with this module will help you develop these specific skills:</p>
+<ol>
+<li><strong>Conceptual Fluency:</strong> Articulating the definitions and relationships between key Data Science and Machine Learning terms.</li>
+<li><strong>Data Acclimation:</strong> Loading, inspecting, and performing initial descriptive analysis on diverse datasets using Pandas.</li>
+<li><strong>Visual Exploration:</strong> Generating and interpreting basic statistical plots to identify patterns, distributions, and relationships in data.</li>
+<li><strong>Introductory Modeling:</strong> Implementing and evaluating a simple classification model using Scikit-learn.</li>
+<li><strong>AI-Augmented Learning:</strong> Effectively using LLMs to clarify concepts, troubleshoot Python code, and explore problem-solving alternatives.</li>
+</ol>
+<hr />
+<h3 id="5-subtopics">5. Subtopics<a class="headerlink" href="#5-subtopics" title="Permanent link">&para;</a></h3>
+<p>This module is structured around five key subtopics:</p>
+<ol>
+<li><strong>The Data Science Ecosystem:</strong> Defining Data Science, AI, ML, and the typical project lifecycle.</li>
+<li><strong>Python Environment &amp; Jupyter Mastery:</strong> Setting up your tools for effective data science work.</li>
+<li><strong>Data Foundations with NumPy &amp; Pandas:</strong> Core techniques for data manipulation and preparation.</li>
+<li><strong>Visual Insights with Matplotlib &amp; Seaborn:</strong> Fundamentals of exploratory data visualization.</li>
+<li><strong>First Steps in Machine Learning with Scikit-learn:</strong> Introduction to predictive modeling.</li>
+</ol>
+<hr />
+<h3 id="6-experiential-use-cases">6. Experiential Use Cases<a class="headerlink" href="#6-experiential-use-cases" title="Permanent link">&para;</a></h3>
+<p>For each use case, remember to leverage AI tools if you get stuck or want to dive deeper. For instance, you can ask an LLM: "Explain this Python error message: [paste error]", "Generate a simple Python script to load a CSV using Pandas," or "What are some common ways to handle missing data in a dataset?"</p>
+<h4 id="subtopic-1-the-data-science-ecosystem">Subtopic 1: The Data Science Ecosystem<a class="headerlink" href="#subtopic-1-the-data-science-ecosystem" title="Permanent link">&para;</a></h4>
+<ul>
+<li><strong>Use Case 1.1: Defining the Domain</strong><ul>
+<li><strong>Problem Definition:</strong> You are tasked with explaining Data Science, Machine Learning (ML), and Artificial Intelligence (AI) to a non-technical colleague and illustrating how they relate.</li>
+<li><strong>Learning Goal:</strong> Create a concise written explanation or a simple diagram that defines AI, ML, and Data Science, highlighting their overlaps and distinctions. (Bloom's: Understand)</li>
+<li><strong>Python Tools:</strong> N/A for direct coding. Use a text editor or diagramming tool.</li>
+</ul>
+</li>
+<li><strong>Use Case 1.2: Real-World ML Applications</strong><ul>
+<li><strong>Problem Definition:</strong> Identify how machine learning impacts everyday life or specific industries.</li>
+<li><strong>Learning Goal:</strong> Research and list three distinct real-world applications of machine learning. For each, briefly describe the problem it solves and the likely type of data used. (Bloom's: Remember, Understand)</li>
+<li><strong>Python Tools:</strong> N/A for direct coding. Use web search and a text editor.</li>
+</ul>
+</li>
+<li><strong>Use Case 1.3: Mapping the Data Science Workflow</strong><ul>
+<li><strong>Problem Definition:</strong> You need to understand the standard process flow of a data science project.</li>
+<li><strong>Learning Goal:</strong> Outline the key stages of a common data science workflow (e.g., CRISP-DM). For each stage, describe its main objective and list one example activity. (Bloom's: Remember, Understand)</li>
+<li><strong>Python Tools:</strong> N/A for direct coding. Use a text editor or presentation software.</li>
+</ul>
+</li>
+</ul>
+<h4 id="subtopic-2-python-environment-jupyter-mastery">Subtopic 2: Python Environment &amp; Jupyter Mastery<a class="headerlink" href="#subtopic-2-python-environment-jupyter-mastery" title="Permanent link">&para;</a></h4>
+<ul>
+<li><strong>Use Case 2.1: Environment Setup</strong><ul>
+<li><strong>Problem Definition:</strong> Ensure you have a functional Python environment with all necessary data science libraries.</li>
+<li><strong>Learning Goal:</strong> Install Anaconda (or Miniconda), create a virtual environment, and install NumPy, Pandas, Matplotlib, Seaborn, and Scikit-learn. Verify installations within a Jupyter Notebook by importing each library. (Bloom's: Apply)</li>
+<li><strong>Python Tools:</strong> Anaconda/Miniconda, command line/terminal, Jupyter Notebook.</li>
+</ul>
+</li>
+<li><strong>Use Case 2.2: Jupyter Notebook Navigation</strong><ul>
+<li><strong>Problem Definition:</strong> Become proficient with the Jupyter Notebook interface for interactive coding and documentation.</li>
+<li><strong>Learning Goal:</strong> Create a new Jupyter Notebook. Practice creating and running code cells (e.g., variable assignments, simple calculations), using Markdown cells for titles and formatted text (bold, italics, lists), and saving your notebook. (Bloom's: Apply)</li>
+<li><strong>Python Tools:</strong> Jupyter Notebook.</li>
+</ul>
+</li>
+<li><strong>Use Case 2.3: AI for Code Comprehension</strong><ul>
+<li><strong>Problem Definition:</strong> You encounter a Python code snippet online for data loading but don't fully understand its syntax or logic.</li>
+<li><strong>Learning Goal:</strong> Use an LLM to explain a provided short Python script (e.g., a script that loads a CSV with Pandas and prints basic info). Document the explanation and re-run the script with understanding. (Bloom's: Understand, Apply)</li>
+<li><strong>Python Tools:</strong> Jupyter Notebook, access to an LLM.</li>
+</ul>
+</li>
+</ul>
+<h4 id="subtopic-3-data-foundations-with-numpy-pandas">Subtopic 3: Data Foundations with NumPy &amp; Pandas<a class="headerlink" href="#subtopic-3-data-foundations-with-numpy-pandas" title="Permanent link">&para;</a></h4>
+<ul>
+<li><em>For these use cases, you can find simple CSV datasets online (e.g., student performance, basic retail sales) or ask an LLM to generate sample CSV data for you to save and use.</em></li>
+<li><strong>Use Case 3.1: Data Loading &amp; Initial Inspection</strong><ul>
+<li><strong>Problem Definition:</strong> You are given a dataset in a CSV file and need to understand its basic structure and content.</li>
+<li><strong>Learning Goal:</strong> Load the CSV file into a Pandas DataFrame. Use functions like <code>.head()</code>, <code>.tail()</code>, <code>.info()</code>, <code>.shape</code>, and <code>.describe()</code> to gather initial insights about the data (number of rows/columns, data types, missing values, summary statistics). (Bloom's: Apply)</li>
+<li><strong>Python Tools:</strong> Pandas, Jupyter Notebook.</li>
+</ul>
+</li>
+<li><strong>Use Case 3.2: Basic Data Cleaning</strong><ul>
+<li><strong>Problem Definition:</strong> The loaded dataset contains some missing values that could affect future analysis.</li>
+<li><strong>Learning Goal:</strong> Identify columns with missing values. Apply a simple strategy to handle them (e.g., filling numerical NaNs with the column mean or median, or dropping rows/columns if appropriate, justifying your choice). (Bloom's: Apply, Analyze)</li>
+<li><strong>Python Tools:</strong> Pandas, NumPy, Jupyter Notebook.</li>
+</ul>
+</li>
+<li><strong>Use Case 3.3: Data Selection &amp; Filtering</strong><ul>
+<li><strong>Problem Definition:</strong> You need to extract specific subsets of your data for a targeted analysis (e.g., analyze data for a particular category or time period).</li>
+<li><strong>Learning Goal:</strong> Select specific columns from the DataFrame. Filter rows based on one or more conditions (e.g., select all records where 'sales' &gt; 1000 and 'region' == 'North'). (Bloom's: Apply)</li>
+<li><strong>Python Tools:</strong> Pandas, Jupyter Notebook.</li>
+</ul>
+</li>
+</ul>
+<h4 id="subtopic-4-visual-insights-with-matplotlib-seaborn">Subtopic 4: Visual Insights with Matplotlib &amp; Seaborn<a class="headerlink" href="#subtopic-4-visual-insights-with-matplotlib-seaborn" title="Permanent link">&para;</a></h4>
+<ul>
+<li><strong>Use Case 4.1: Univariate Visualization</strong><ul>
+<li><strong>Problem Definition:</strong> Understand the distribution of individual variables in your dataset.</li>
+<li><strong>Learning Goal:</strong> Create a histogram for a numerical column (e.g., 'age' or 'price') and a bar chart for a categorical column (e.g., 'product_category') to visualize their distributions. Interpret what these plots tell you. (Bloom's: Apply, Analyze)</li>
+<li><strong>Python Tools:</strong> Matplotlib, Seaborn, Pandas, Jupyter Notebook.</li>
+</ul>
+</li>
+<li><strong>Use Case 4.2: Bivariate Visualization</strong><ul>
+<li><strong>Problem Definition:</strong> Explore potential relationships between pairs of variables.</li>
+<li><strong>Learning Goal:</strong> Generate a scatter plot to visualize the relationship between two numerical variables (e.g., 'study_hours' vs. 'exam_score'). Create a box plot to compare the distribution of a numerical variable across different categories of a categorical variable (e.g., 'income' by 'education_level'). Discuss any observed patterns. (Bloom's: Apply, Analyze)</li>
+<li><strong>Python Tools:</strong> Matplotlib, Seaborn, Pandas, Jupyter Notebook.</li>
+</ul>
+</li>
+<li><strong>Use Case 4.3: Customizing Visualizations for Clarity</strong><ul>
+<li><strong>Problem Definition:</strong> Your basic plots are created, but they lack titles, proper labels, and could be more visually appealing for presentation.</li>
+<li><strong>Learning Goal:</strong> Take one of the plots created earlier and add a descriptive title, clear x-axis and y-axis labels, and change the color or style to improve its readability and aesthetic quality. You can ask an LLM for suggestions on "how to make a Matplotlib plot more informative." (Bloom's: Apply)</li>
+<li><strong>Python Tools:</strong> Matplotlib, Seaborn, Pandas, Jupyter Notebook.</li>
+</ul>
+</li>
+</ul>
+<h4 id="subtopic-5-first-steps-in-machine-learning-with-scikit-learn">Subtopic 5: First Steps in Machine Learning with Scikit-learn<a class="headerlink" href="#subtopic-5-first-steps-in-machine-learning-with-scikit-learn" title="Permanent link">&para;</a></h4>
+<ul>
+<li><em>Use a simple, well-known dataset for this, like the Iris dataset, which can be loaded directly from Scikit-learn: <code>from sklearn.datasets import load_iris</code>.</em></li>
+<li><strong>Use Case 5.1: Understanding Features and Target</strong><ul>
+<li><strong>Problem Definition:</strong> Before building a model, you must clearly define what you are trying to predict and what information will be used for prediction.</li>
+<li><strong>Learning Goal:</strong> Load the Iris dataset. Identify and separate the features (X – e.g., sepal length, petal width) and the target variable (y – e.g., species of iris). Explain why this is a classification problem. (Bloom's: Understand, Apply)</li>
+<li><strong>Python Tools:</strong> Scikit-learn, Pandas (optional, for DataFrame conversion), Jupyter Notebook.</li>
+</ul>
+</li>
+<li><strong>Use Case 5.2: Training a Simple Classifier</strong><ul>
+<li><strong>Problem Definition:</strong> You need to train a machine learning model to learn patterns from the data.</li>
+<li><strong>Learning Goal:</strong> Split the data into training and testing sets. Train a k-Nearest Neighbors (k-NN) classifier on the training portion of the Iris dataset. (Bloom's: Apply)</li>
+<li><strong>Python Tools:</strong> Scikit-learn (<code>train_test_split</code>, <code>KNeighborsClassifier</code>), Jupyter Notebook.</li>
+</ul>
+</li>
+<li><strong>Use Case 5.3: Making Predictions and Basic Evaluation</strong><ul>
+<li><strong>Problem Definition:</strong> Once trained, you need to assess how well your model performs on unseen data.</li>
+<li><strong>Learning Goal:</strong> Use the trained k-NN model to make predictions on the test set. Calculate the accuracy of the model and interpret what this score means in the context of the problem. (Bloom's: Apply, Analyze)</li>
+<li><strong>Python Tools:</strong> Scikit-learn, Jupyter Notebook.</li>
+</ul>
+</li>
+</ul>
+<hr />
+<h3 id="7-assessment-quiz">7. Assessment Quiz<a class="headerlink" href="#7-assessment-quiz" title="Permanent link">&para;</a></h3>
+<p>This quiz helps you self-assess your understanding. Answers can be verified by reviewing module content or quick experimentation.</p>
+<div class="annotate">
+<ol>
+<li>
+<p class="annotate">Which of the following best describes Machine Learning?<br>
+    a)  The science of making computers perform tasks that require human intelligence.<br>
+    b)  A field of study that gives computers the ability to learn without being explicitly programmed.<br>
+    c)  The process of using computers to analyze large datasets only.<br>
+    d)  The development of software that can reason and solve complex problems like humans.<br>
+    <em>(Answer: (1) <img alt="👀" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/1f440.svg" title=":eyes:" />)</em></p>
+</li>
+<li>
+<p class="annotate">Consider the following Python code using Pandas:
+    <div class="highlight"><pre><span></span><code><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a><span class="kn">import</span><span class="w"> </span><span class="nn">pandas</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nn">pd</span>
+<a id="__codelineno-0-2" name="__codelineno-0-2" href="#__codelineno-0-2"></a><span class="n">data</span> <span class="o">=</span> <span class="p">{</span><span class="s1">&#39;colA&#39;</span><span class="p">:</span> <span class="p">[</span><span class="mi">1</span><span class="p">,</span> <span class="kc">None</span><span class="p">,</span> <span class="mi">3</span><span class="p">,</span> <span class="mi">4</span><span class="p">],</span> <span class="s1">&#39;colB&#39;</span><span class="p">:</span> <span class="p">[</span><span class="mi">5</span><span class="p">,</span> <span class="mi">6</span><span class="p">,</span> <span class="mi">7</span><span class="p">,</span> <span class="mi">8</span><span class="p">]}</span>
+<a id="__codelineno-0-3" name="__codelineno-0-3" href="#__codelineno-0-3"></a><span class="n">df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">(</span><span class="n">data</span><span class="p">)</span>
+<a id="__codelineno-0-4" name="__codelineno-0-4" href="#__codelineno-0-4"></a><span class="n">df</span><span class="p">[</span><span class="s1">&#39;colA&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">fillna</span><span class="p">(</span><span class="n">df</span><span class="p">[</span><span class="s1">&#39;colA&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">mean</span><span class="p">(),</span> <span class="n">inplace</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+<a id="__codelineno-0-5" name="__codelineno-0-5" href="#__codelineno-0-5"></a><span class="c1"># Assuming the mean of the non-missing values in colA is (1+3+4)/3 = 2.66...</span>
+</code></pre></div>
+    What will be the value in <code>df['colA'][1]</code> after this code runs?<br>
+    a)  None<br>
+    b)  0<br>
+    c)  Approximately 2.67<br>
+    d)  6<br>
+    <em>(Answer: (2) <img alt="👀" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/1f440.svg" title=":eyes:" />)</em></p>
+</li>
+<li>
+<p class="annotate">Which Python library is primarily used for creating statistical visualizations like heatmaps and pair plots with concise syntax?<br>
+    a)  NumPy<br>
+    b)  Seaborn<br>
+    c)  Pandas<br>
+    d)  Scikit-learn<br>
+    <em>(Answer: (1) <img alt="👀" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/1f440.svg" title=":eyes:" />)</em></p>
+</li>
+<li>
+<p class="annotate">In a typical classification problem, what is the role of the 'target variable'?<br>
+    a)  It's an input feature used by the model to learn.<br>
+    b)  It's the categorical label or class that the model aims to predict.<br>
+    c)  It's a numerical value the model tries to estimate.<br>
+    d)  It's a technique for reducing the number of features.<br>
+    <em>(Answer: (1) <img alt="👀" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/1f440.svg" title=":eyes:" />)</em></p>
+</li>
+<li>
+<p class="annotate">What is the primary purpose of <code>train_test_split</code> in Scikit-learn?<br>
+    a)  To combine two different datasets into one.<br>
+    b)  To separate features from the target variable within a single dataset.<br>
+    c)  To divide a dataset into one part for training the model and another, unseen part for evaluating its performance.<br>
+    d)  To visualize the distribution of data.<br>
+    <em>(Answer: (2) <img alt="👀" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/1f440.svg" title=":eyes:" />)</em></p>
+</li>
+<li>
+<p class="annotate">If you want to create a scatter plot in Python to visualize the relationship between 'Height' and 'Weight' columns in a Pandas DataFrame <code>df</code>, which line of code is most appropriate using Seaborn?<br>
+    a)  <code>sns.histplot(data=df, x='Height', y='Weight')</code><br>
+    b)  <code>sns.boxplot(data=df, x='Height', y='Weight')</code><br>
+    c)  <code>sns.scatterplot(data=df, x='Height', y='Weight')</code><br>
+    d)  <code>df.plot(kind='scatter', x='Height', y='Weight')</code> (This is Pandas plotting, not Seaborn directly)<br>
+    <em>(Answer: (2) <img alt="👀" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/1f440.svg" title=":eyes:" />)</em></p>
+</li>
+<li>
+<p class="annotate">You have loaded a dataset into a Pandas DataFrame called <code>sales_df</code>. How would you display the first 10 rows of this DataFrame?<br>
+    a)  <code>sales_df.show(10)</code><br>
+    b)  <code>sales_df.display_head(10)</code><br>
+    c)  <code>sales_df.head(10)</code><br>
+    d)  <code>sales_df.first(10)</code><br>
+    <em>(Answer: (2) <img alt="👀" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/1f440.svg" title=":eyes:" />)</em></p>
+</li>
+<li>
+<p class="annotate">When you encounter a Python error message that you don't understand while working in a Jupyter Notebook, how can an LLM assist you most effectively?<br>
+    a)  By automatically fixing the code in your notebook.<br>
+    b)  By explaining what the error message typically means, suggesting possible causes, and providing examples of how to fix similar errors.<br>
+    c)  By providing a link to the full Python documentation without context.<br>
+    d)  By advising you to restart your computer.<br>
+    <em>(Answer: (1) <img alt="👀" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/1f440.svg" title=":eyes:" />)</em></p>
+</li>
+<li>
+<p class="annotate">What does the <code>.info()</code> method in Pandas primarily provide for a DataFrame?<br>
+    a)  A statistical summary of numerical columns (mean, std, min, max).<br>
+    b)  The first five rows of the DataFrame.<br>
+    c)  A concise summary of the DataFrame, including data types of columns and non-null counts.<br>
+    d)  The correlation matrix of numerical columns.<br>
+    <em>(Answer: (2) <img alt="👀" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/1f440.svg" title=":eyes:" />)</em></p>
+</li>
+<li>
+<p class="annotate">Which of these tasks falls under the 'Data Cleaning/Preparation' stage of the data science workflow?<br>
+    a)  Defining business objectives.<br>
+    b)  Training a machine learning model.<br>
+    c)  Handling missing values and transforming variables.<br>
+    d)  Presenting results to stakeholders.<br>
+    <em>(Answer: (2) <img alt="👀" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/1f440.svg" title=":eyes:" />)</em></p>
+</li>
+</ol>
+</div>
+<ol>
+<li>Answer is: <b>b</b></li>
+<li>Answer is: <b>c</b> </li>
+</ol>
+<hr />
+<h3 id="8-bonus-challenge-problems">8. Bonus Challenge Problems<a class="headerlink" href="#8-bonus-challenge-problems" title="Permanent link">&para;</a></h3>
+<p>These challenges encourage you to synthesize your learning and explore concepts at a deeper analytical level.</p>
+<ol>
+<li>
+<p><strong>Mini-Project: Exploratory Data Analysis (EDA) on a Novel Dataset</strong> (Bloom's: Analyze)</p>
+<ul>
+<li><strong>Problem:</strong> Find a small, interesting, and publicly available dataset (e.g., from Kaggle Datasets, UCI Machine Learning Repository - look for simpler ones). Perform a basic EDA. This should include:<ul>
+<li>Loading the dataset.</li>
+<li>Inspecting its structure, data types, and identifying missing values.</li>
+<li>Formulating at least three initial questions about the data that you find interesting.</li>
+<li>Creating at least three distinct types of visualizations to help answer your questions or explore patterns.</li>
+<li>Writing a brief summary of your findings and any challenges encountered.</li>
+</ul>
+</li>
+<li><strong>Guidance:</strong> Document your steps and reasoning in a Jupyter Notebook. Use LLMs to help you find datasets or to get ideas for relevant questions and visualizations for the dataset you choose. For example, "Suggest interesting questions I can explore in a dataset about [dataset topic]."</li>
+</ul>
+</li>
+<li>
+<p><strong>Comparing Classifiers: k-NN vs. Another</strong> (Bloom's: Analyze, Evaluate - introductory level)</p>
+<ul>
+<li><strong>Problem:</strong> Using the Iris dataset (or another simple classification dataset you find), train and evaluate the k-Nearest Neighbors (k-NN) classifier as done in the module. Then, research and implement <em>one</em> other simple classification algorithm available in Scikit-learn (e.g., Logistic Regression or a Decision Tree).<ul>
+<li>Train this new model on the same training data.</li>
+<li>Evaluate it on the same test data using accuracy.</li>
+<li>Briefly compare the results. Which performed better on this specific task?</li>
+<li>Use an LLM to help you understand the basic principles of the new classifier you chose ("Explain Logistic Regression in simple terms for a beginner").</li>
+</ul>
+</li>
+<li><strong>Guidance:</strong> Document your code and a short comparison of the models' performance and any observations in a Jupyter Notebook. This is not about finding the "best" model in an absolute sense, but about the process of applying and comparing.</li>
+</ul>
+</li>
+</ol>
+<hr />
+<h3 id="9-references-further-reading">9. References &amp; Further Reading<a class="headerlink" href="#9-references-further-reading" title="Permanent link">&para;</a></h3>
+<p>(Focus on open-access or widely available resources)</p>
+<ol>
+<li><strong>VanderPlas, J. (2016). <em>Python Data Science Handbook</em>. O'Reilly Media.</strong><ul>
+<li>Open-access online version: <a href="https://jakevdp.github.io/PythonDataScienceHandbook/">https://jakevdp.github.io/PythonDataScienceHandbook/</a></li>
+<li>A comprehensive guide covering IPython, NumPy, Pandas, Matplotlib, and Scikit-learn. Excellent for practical learning.</li>
+</ul>
+</li>
+<li><strong>Grus, J. (2019). <em>Data Science from Scratch: First Principles with Python</em> (2<sup>nd</sup> ed.). O'Reilly Media.</strong><ul>
+<li>While not fully open-access, many concepts are foundational and widely discussed. Focuses on understanding by building from scratch.</li>
+</ul>
+</li>
+<li><strong>Scikit-learn User Guide.</strong><ul>
+<li>Open-access: <a href="https://scikit-learn.org/stable/user_guide.html">https://scikit-learn.org/stable/user_guide.html</a></li>
+<li>The official documentation is extensive, with tutorials and examples for all its modules.</li>
+</ul>
+</li>
+<li><strong>Pandas Documentation: Getting Started &amp; User Guide.</strong><ul>
+<li>Open-access: <a href="https://pandas.pydata.org/pandas-docs/stable/getting_started/index.html">https://pandas.pydata.org/pandas-docs/stable/getting_started/index.html</a></li>
+<li>Authoritative source for learning Pandas, from basic to advanced features.</li>
+</ul>
+</li>
+<li><strong>StatQuest with Josh Starmer.</strong><ul>
+<li>Open-access (YouTube): <a href="https://www.youtube.com/user/joshstarmer">https://www.youtube.com/user/joshstarmer</a></li>
+<li>Provides clear and intuitive explanations of key statistics, machine learning, and data science concepts. Highly recommended for understanding the "why" behind the techniques.</li>
+</ul>
+</li>
+</ol>
+<hr />
+<hr />
+<p>Created: 05/25/2025 (C. Lizárraga); Updated: 05/25/2025 (C. Lizárraga)</p>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/64px-Cc.logo.circle.svg.png" width=20> 2025. <a href="https://datascience.arizona.edu/education/uarizona-data-lab">University of Arizona DataLab</a>, <a href="https://datascience.arizona.edu/">Data Science Institute</a></p>
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+  <aside class="md-source-file">
+    
+      
+  <span class="md-source-file__fact">
+    <span class="md-icon" title="Last update">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
+    </span>
+    2025-11-06
+  </span>
+
+    
+    
+    
+    
+  </aside>
+
+
+  
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Creative Commons BY-NC-SA 4.0
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+        
+<div class="md-social">
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://www.datascience.arizona.edu/education/uarizona-data-lab" target="_blank" rel="noopener" title="www.datascience.arizona.edu" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M0 192c0-35.3 28.7-64 64-64h64L255.9 12.9c18.3-16.4 46-16.4 64.2 0L448 128h64c35.3 0 64 28.7 64 64v256c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64zm224 184v88h128v-88c0-22.1-17.9-40-40-40h-48c-22.1 0-40 17.9-40 40m-112 8c8.8 0 16-7.2 16-16v-32c0-8.8-7.2-16-16-16H80c-8.8 0-16 7.2-16 16v32c0 8.8 7.2 16 16 16zm16-144v-32c0-8.8-7.2-16-16-16H80c-8.8 0-16 7.2-16 16v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16m368 144c8.8 0 16-7.2 16-16v-32c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v32c0 8.8 7.2 16 16 16zm16-144v-32c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16m-224 16a64 64 0 1 0 0-128 64 64 0 1 0 0 128"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://github.com/ua-datalab" target="_blank" rel="noopener" title="github.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://www.linkedin.com/company/uarizona-datalab/" target="_blank" rel="noopener" title="www.linkedin.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3M135.4 416H69V202.2h66.5V416zM102.2 96a38.5 38.5 0 1 1 0 77 38.5 38.5 0 1 1 0-77m282.1 320h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://bsky.app/profile/uarizonadatalab.bsky.social" target="_blank" rel="noopener" title="bsky.app" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M407.8 294.7c-3.3-.4-6.7-.8-10-1.3 3.4.4 6.7.9 10 1.3M288 227.1c-26.1-50.7-97.1-145.2-163.1-191.8C61.6-9.4 37.5-1.7 21.6 5.5 3.3 13.8 0 41.9 0 58.4S9.1 194 15 213.9c19.5 65.7 89.1 87.9 153.2 80.7 3.3-.5 6.6-.9 10-1.4-3.3.5-6.6 1-10 1.4-93.9 14-177.3 48.2-67.9 169.9C220.6 589.1 265.1 437.8 288 361.1c22.9 76.7 49.2 222.5 185.6 103.4 102.4-103.4 28.1-156-65.8-169.9-3.3-.4-6.7-.8-10-1.3 3.4.4 6.7.9 10 1.3 64.1 7.1 133.6-15.1 153.2-80.7C566.9 194 576 75 576 58.4s-3.3-44.7-21.6-52.9c-15.8-7.1-40-14.9-103.2 29.8C385.1 81.9 314.1 176.4 288 227.1"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://www.facebook.com/profile.php?id=61556132138807" target="_blank" rel="noopener" title="www.facebook.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M512 256C512 114.6 397.4 0 256 0S0 114.6 0 256c0 120 82.7 220.8 194.2 248.5V334.2h-52.8V256h52.8v-33.7c0-87.1 39.4-127.5 125-127.5 16.2 0 44.2 3.2 55.7 6.4V172c-6-.6-16.5-1-29.6-1-42 0-58.2 15.9-58.2 57.2V256h83.6l-14.4 78.2H287v175.9C413.8 494.8 512 386.9 512 256"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="http://www.youtube.com/@UArizonaDataLab" target="_blank" rel="noopener" title="www.youtube.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M549.7 124.1c-6.2-23.7-24.8-42.3-48.3-48.6C458.9 64 288.1 64 288.1 64S117.3 64 74.7 75.5c-23.5 6.3-42 24.9-48.3 48.6C15 167 15 256.4 15 256.4s0 89.4 11.4 132.3c6.3 23.6 24.8 41.5 48.3 47.8C117.3 448 288.1 448 288.1 448s170.8 0 213.4-11.5c23.5-6.3 42-24.2 48.3-47.8 11.4-42.9 11.4-132.3 11.4-132.3s0-89.4-11.4-132.3zM232.2 337.6V175.2l142.7 81.2z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://uadatascience.slack.com/archives/C062QJ91PTP" target="_blank" rel="noopener" title="uadatascience.slack.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M94.1 315.1c0 25.9-21.2 47.1-47.1 47.1S0 341 0 315.1 21.2 268 47.1 268h47.1v47.1zm23.7 0c0-25.9 21.2-47.1 47.1-47.1s47.1 21.2 47.1 47.1v117.8c0 25.9-21.2 47.1-47.1 47.1s-47.1-21.2-47.1-47.1zm47.1-189c-25.9 0-47.1-21.2-47.1-47.1s21.2-47 47.1-47S212 53.2 212 79.1v47.1h-47.1zm0 23.7c25.9 0 47.1 21.2 47.1 47.1S190.8 244 164.9 244H47.1C21.2 244 0 222.8 0 196.9s21.2-47.1 47.1-47.1zm189 47.1c0-25.9 21.2-47.1 47.1-47.1s47 21.2 47 47.1-21.2 47.1-47.1 47.1h-47.1v-47.1zm-23.7 0c0 25.9-21.2 47.1-47.1 47.1S236 222.8 236 196.9V79.1c0-25.9 21.2-47.1 47.1-47.1s47.1 21.2 47.1 47.1zm-47.1 189c25.9 0 47.1 21.2 47.1 47.1s-21.2 47-47.1 47-47.1-21.2-47.1-47.1v-47.1h47.1zm0-23.7c-25.9 0-47.1-21.2-47.1-47.1s21.2-47.1 47.1-47.1h117.8c25.9 0 47.1 21.2 47.1 47.1s-21.2 47.1-47.1 47.1z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+      <div class="md-progress" data-md-component="progress" role="progressbar"></div>
+    
+    
+    
+      
+      <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.tabs", "navigation.tabs.sticky", "navigation.instant", "navigation.instant.prefetch", "navigation.instant.progress", "navigation.expand", "navigation.path", "navigation.tracking", "navigation.sections", "navigation.indexes", "navigation.footer", "navigation.top", "toc.integrate", "toc.follow"], "search": "../../assets/javascripts/workers/search.973d3a69.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.f55a23d4.min.js"></script>
+      
+        <script src="../../javascripts/mathjax.js"></script>
+      
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+    
+  </body>
+</html>
