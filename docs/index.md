@@ -123,7 +123,7 @@ Rudy Salcido.
 * [Data Science Learning Resources wiki](https://github.com/ua-data7/LearningResources/wiki)
 * [DataLab Projects](https://github.com/clizarraga-UAD7/DataScienceLab/wiki/Data-Lab-Projects)
 * [AI Tools Landscape](https://github.com/ua-datalab/Workshops/wiki/AI-Tools-Landscape), Carlos Lizárraga. 
-* [AI Landscape & Prompt Engineering](https://docs.google.com/presentation/d/1B8YOy5H0O1WGNXq3AeoSl3Kz5WzHaboI5hBM5tphoz0/edit?usp=sharing). Carlos Lizárraga. 
+* [AI Landscape & Prompt Engineering](https://tinyurl.com/UA-GPT101). Carlos Lizárraga. 
 * [Model Context Protocol - MCP](https://github.com/clizarraga-UAD7/MCP/wiki). Carlos Lizárraga. 
 
 ***
